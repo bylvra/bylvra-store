@@ -61,7 +61,7 @@ export default function Checkout() {
 
   const handlePlaceOrder = async () => {
     setSubmitting(true);
-    const orderNum = 'LM' + Date.now().toString().slice(-6);
+    const orderNum = 'BL' + Date.now().toString().slice(-6);
 
     try {
       // Save order record first
