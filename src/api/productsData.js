@@ -9,8 +9,8 @@ export const PRODUCTS = [
     "description": "The GlowPro LED Mask delivers 7 clinically validated light wavelengths directly to your skin \u2014 red for collagen, blue for acne, near-infrared for inflammation, and four more targeting specific skin concerns. Each session runs 10 minutes and activates cellular processes that topical products simply cannot reach. Developed around the same photobiomodulation research used in medical aesthetics clinics.",
     "short_description": "7-color phototherapy at clinical wavelengths. Red (660nm) boosts collagen synthesis. Blue (415nm) neutralizes acne bacteria. Delivers spa-grade results in 10 minutes daily.",
     "images": [
-      "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/7189303/pexels-photo-7189303.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/8728560/pexels-photo-8728560.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
     "rating": 4.8,
@@ -48,8 +48,8 @@ export const PRODUCTS = [
     "description": "The Sculpt Tool is crafted from genuine hetian jade \u2014 naturally cool to the touch and dense enough to apply meaningful pressure without effort. The curved end contours the jawline and cheekbones; the notched edge works the neck and brow bone. Gua sha works by stimulating microcirculation and clearing stagnant lymphatic fluid, which reduces puffiness and over time lifts and sculpts facial contours.",
     "short_description": "Double-ended jade gua sha sculpted for facial anatomy. Promotes lymphatic drainage, reduces puffiness, and defines jawline and cheekbones with consistent use.",
     "images": [
-      "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3757952/pexels-photo-3757952.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/6621462/pexels-photo-6621462.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6621461/pexels-photo-6621461.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
     "rating": 4.7,
@@ -86,8 +86,8 @@ export const PRODUCTS = [
     "description": "LiftWave delivers targeted microcurrent pulses that mimic the body's own bioelectrical signals. At 200\u2013400 microamps, it stimulates adenosine triphosphate (ATP) production in skin cells by up to 500% \u2014 accelerating collagen and elastin synthesis and re-educating the underlying facial muscles for a sustained lifting effect. This is the same mechanism used in clinical microcurrent facials, now available for home use.",
     "short_description": "Microcurrent technology at 200\u2013400\u03bcA re-educates facial muscles and stimulates ATP production for a visible non-surgical lifting effect within 5 sessions.",
     "images": [
-      "https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/7755186/pexels-photo-7755186.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/7755187/pexels-photo-7755187.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "NEW",
     "rating": 4.9,
@@ -124,8 +124,8 @@ export const PRODUCTS = [
     "description": "PlumpLab uses Tripeptide-1 to stimulate collagen synthesis at the lip border and 2% low-molecular-weight hyaluronic acid to pull moisture into the skin from within. Unlike tingling plumpers that rely on irritants to create temporary swelling, PlumpLab delivers structural plumping that builds over time. Lips appear fuller, lines soften, and the lip border becomes more defined.",
     "short_description": "Tripeptide-1 and Hyaluronic Acid at 2% visibly plump lip volume and smooth vertical lines in 4 weeks. No irritating capsaicin \u2014 just clinical actives.",
     "images": [
-      "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/3762875/pexels-photo-3762875.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3762876/pexels-photo-3762876.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
     "rating": 4.7,
@@ -163,8 +163,8 @@ export const PRODUCTS = [
     "description": "The MicroStim Derma Roller uses 540 precision-ground titanium microneedles at 0.25mm depth to create micro-channels in the skin surface. This triggers a controlled wound-healing response \u2014 increasing collagen and elastin production \u2014 and allows serums applied immediately after to penetrate up to 200% deeper than topical application alone. Use 2\u20133x per week for optimal results.",
     "short_description": "0.25mm titanium microneedle roller triggers the skin's repair response, boosting collagen and increasing serum absorption by up to 200%.",
     "images": [
-      "https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4041393/pexels-photo-4041393.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
     "rating": 4.6,
@@ -201,8 +201,8 @@ export const PRODUCTS = [
     "description": "ScalpSonic delivers targeted vibration at 6,000 pulses per minute across 12 flexible silicone nodes. This mechanical stimulation increases blood flow to the scalp's microcirculation by up to 30%, delivering more oxygen and nutrients directly to hair follicles. Consistent use 3\u20134x per week has been clinically associated with reduced hair shedding and reactivation of dormant follicles.",
     "short_description": "Electric scalp massager with 12 silicone nodes stimulates blood microcirculation to the hair follicle \u2014 clinically linked to reduced shedding and increased follicle activity.",
     "images": [
-      "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/3993435/pexels-photo-3993435.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3993436/pexels-photo-3993436.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "NEW",
     "rating": 4.8,
@@ -239,8 +239,8 @@ export const PRODUCTS = [
     "description": "The CryoGlobe set uses the principles of cryotherapy \u2014 rapid surface cooling to below 50\u00b0F \u2014 to trigger vasoconstriction, which immediately reduces puffiness, calms redness, and minimizes the appearance of pores. The sealed liquid core retains cold for up to 20 minutes per session. Use before makeup for a smooth base, after extractions to close pores, or any morning to reverse overnight inflammation.",
     "short_description": "Stainless steel ice globes reduce inflammation, close pores, and depuff instantly via cryotherapy vasoconstriction. Results in 60 seconds.",
     "images": [
-      "https://images.pexels.com/photos/3757952/pexels-photo-3757952.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/6621374/pexels-photo-6621374.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6621375/pexels-photo-6621375.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
     "rating": 4.9,
@@ -277,8 +277,8 @@ export const PRODUCTS = [
     "description": "LashDense targets the two primary mechanisms of lash loss: shortened anagen phase and follicle miniaturisation. Biotinoyl Tripeptide-1 is clinically proven to extend the growth phase and strengthen the lash shaft, while Myristoyl Pentapeptide-17 upregulates keratin gene expression in follicle keratinocytes. Apply nightly to the upper lash line. Results typically appear at week 4, with full effect at 8\u201312 weeks.",
     "short_description": "Biotinoyl Tripeptide-1 and Myristoyl Pentapeptide-17 extend the lash growth phase (anagen) and stimulate follicle keratinocytes. Visible density in 4 weeks.",
     "images": [
-      "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/2688992/pexels-photo-2688992.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2688993/pexels-photo-2688993.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
     "rating": 4.8,
@@ -315,8 +315,8 @@ export const PRODUCTS = [
     "description": "AlignPro uses a biomechanically engineered figure-8 design to passively retract the scapulae and pull the shoulders into proper alignment. Unlike rigid braces that do the work for you, AlignPro applies just enough resistance to prompt your own muscles to engage \u2014 retraining posture rather than creating dependency. Clinically recommended for kyphosis, forward head posture, and chronic upper back tension.",
     "short_description": "Figure-8 clavicle brace gently pulls shoulders back, retraining the posterior chain and reducing tech-neck tension within 2 weeks of daily use.",
     "images": [
-      "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3757954/pexels-photo-3757954.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/4498151/pexels-photo-4498151.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4498152/pexels-photo-4498152.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "NEW",
     "rating": 4.5,
@@ -353,8 +353,8 @@ export const PRODUCTS = [
     "description": "VacuClear uses negative pressure suction at three adjustable levels (50\u2013100 mBar) to extract blackheads, sebaceous filaments, and dead skin without the skin trauma of manual extraction. The 5 included heads target different areas: flat nozzle for nose and chin, elliptical for cheeks, exfoliating for texture, microdermabrasion head for resurfacing, and the massage head for post-treatment lymphatic drainage.",
     "short_description": "3-level suction pore vacuum removes blackheads and sebum plugs without manual squeezing. Includes 5 interchangeable heads for nose, chin, and all skin types.",
     "images": [
-      "https://images.pexels.com/photos/3997992/pexels-photo-3997992.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/7428094/pexels-photo-7428094.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/7428095/pexels-photo-7428095.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": null,
     "rating": 4.5,
@@ -391,8 +391,8 @@ export const PRODUCTS = [
     "description": "MistLab generates nano-ionic steam particles at 0.3 microns \u2014 10 times smaller than conventional steamers \u2014 which penetrate the stratum corneum and hydrate at the cellular level. The ionic charge attracts steam particles to the negatively charged skin surface, increasing absorption. 10-minute weekly sessions soften blackheads and comedones for easier removal and create the ideal surface for active ingredient penetration.",
     "short_description": "Nano-ionic steam at 0.3-micron particle size penetrates 10\u00d7 deeper than regular steam, softening keratin plugs and optimizing skin for serum absorption.",
     "images": [
-      "https://images.pexels.com/photos/3738347/pexels-photo-3738347.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/3738378/pexels-photo-3738378.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4046316/pexels-photo-4046316.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": null,
     "rating": 4.6,
@@ -429,8 +429,8 @@ export const PRODUCTS = [
     "description": "ZeroSpot patches use pharmaceutical-grade hydrocolloid \u2014 the same technology used in advanced wound care \u2014 to create an occlusive microenvironment over an active blemish. This draws out pore contents through osmotic pressure, flattens the lesion, prevents picking, and shields from external bacteria. Each patch reduces blemish size and redness by an average of 60% overnight in clinical testing.",
     "short_description": "Medical-grade hydrocolloid patches absorb pore contents and flatten active blemishes overnight. Drug-free, dermatologist-tested, 72 patches per pack.",
     "images": [
-      "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/3762877/pexels-photo-3762877.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3762878/pexels-photo-3762878.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
     "rating": 4.9,
@@ -467,8 +467,8 @@ export const PRODUCTS = [
     "description": "Overnight Reset uses 0.3% retinol encapsulated in a polymer microsphere system that controls release throughout the night, delivering the full retinol dose while bypassing the irritation caused by immediate-release formulations. At 0.3% concentration, it achieves meaningful retinoid receptor activation to accelerate cell turnover, reduce fine lines, and resurface uneven texture \u2014 without the peeling and sensitivity associated with retinol beginners typically experience.",
     "short_description": "0.3% encapsulated retinol in a time-release polymer matrix for maximum efficacy with minimum irritation. Resurfaces texture and reduces fine lines in 28 days.",
     "images": [
-      "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4041388/pexels-photo-4041388.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
     "rating": 4.8,
@@ -505,8 +505,8 @@ export const PRODUCTS = [
     "description": "Radiance-C delivers the clinically validated antioxidant combination of 15% L-Ascorbic Acid, 1% Vitamin E, and 0.5% Ferulic Acid \u2014 the same formulation basis used in landmark Duke University dermatology studies. At pH 3.5, L-Ascorbic Acid is optimally bioavailable. The ferulic acid-vitamin E combination doubles the photoprotective efficacy of vitamin C and stabilizes the formula against oxidation.",
     "short_description": "15% L-Ascorbic Acid at pH 3.5 with Vitamin E (1%) and Ferulic Acid (0.5%) \u2014 the proven antioxidant triple stack. Fades hyperpigmentation and blocks future UV damage.",
     "images": [
-      "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/5069432/pexels-photo-5069432.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/5069433/pexels-photo-5069433.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
     "rating": 4.7,
@@ -543,8 +543,8 @@ export const PRODUCTS = [
     "description": "SilkPulse delivers Intense Pulsed Light at 500\u20131200nm wavelengths calibrated to match the melanin absorption peak in hair follicles. Each flash delivers 3\u20135 J/cm\u00b2 of energy to the follicle in anagen (active growth) phase, disrupting the papilla and preventing regrowth. The device includes a skin-tone sensor that auto-adjusts intensity for safety across skin tones I\u2013V and shuts off automatically on darker tones (VI) to prevent epidermal damage.",
     "short_description": "500,000-flash IPL device with 5 energy levels targets melanin in the hair follicle to disrupt the growth cycle. 80% reduction in regrowth visible by week 8.",
     "images": [
-      "https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3997992/pexels-photo-3997992.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/8436490/pexels-photo-8436490.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/8436491/pexels-photo-8436491.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
     "rating": 4.7,
@@ -581,8 +581,8 @@ export const PRODUCTS = [
     "description": "SpinClean uses centrifugal force at 360 RPM to deep-clean and completely dry makeup brushes in under 10 seconds per brush. Traditional washing leaves residual soap, pigment, and bacteria \u2014 and takes 24+ hours to dry. SpinClean removes 99.9% of bacteria and 100% of pigment residue with a few drops of cleanser and a 10-second spin. Includes 8 collars fitting brushes from 5mm (eyeliner) to 50mm (fan/powder).",
     "short_description": "Electric spinner cleans and dries 12 brush sizes in 10 seconds. Removes 99.9% of bacteria and pigment buildup without damaging bristles.",
     "images": [
-      "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3757952/pexels-photo-3757952.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/3373742/pexels-photo-3373742.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3373736/pexels-photo-3373736.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": null,
     "rating": 4.6,
@@ -618,8 +618,8 @@ export const PRODUCTS = [
     "description": "GlassGlow combines chemical and physical exfoliation in a peel-off gel format. 8% Glycolic Acid (AHA) dissolves the bonds between dead surface cells for smooth, luminous resurfacing. 2% Salicylic Acid (BHA) penetrates the pore lining to clear sebum congestion from the inside. The gelatin-based peel-off mechanism provides a satisfying manual clearing of dead cells and surface debris. Use weekly for maintained glass-skin results.",
     "short_description": "AHA/BHA peel-off gel mask with 8% Glycolic Acid and 2% Salicylic Acid resurfaces texture, clears congestion, and delivers a glass-skin finish in one application.",
     "images": [
-      "https://images.pexels.com/photos/3757954/pexels-photo-3757954.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/3764013/pexels-photo-3764013.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3764014/pexels-photo-3764014.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "SALE",
     "rating": 4.6,
@@ -657,8 +657,8 @@ export const PRODUCTS = [
     "description": "ClearPore delivers a clinically active 10% concentration of Niacinamide (Vitamin B3) \u2014 the threshold required for meaningful pore minimization, sebum regulation, and PIH reduction. Paired with 1% Zinc PCA for anti-microbial and sebostatic action, this toner addresses the root causes of congested, enlarged pores rather than masking them. Lightweight, fast-absorbing, and suitable as a daily AM/PM step.",
     "short_description": "10% Niacinamide with 1% Zinc PCA minimizes enlarged pores, regulates sebum, and reduces post-inflammatory hyperpigmentation in 4 weeks.",
     "images": [
-      "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/4812636/pexels-photo-4812636.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4812637/pexels-photo-4812637.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
     "rating": 4.8,
@@ -695,8 +695,8 @@ export const PRODUCTS = [
     "description": "RedWave delivers two clinically validated wavelengths \u2014 660nm visible red light and 850nm near-infrared \u2014 in a handheld wand optimized for targeted facial treatment. 660nm penetrates to the dermal layer to stimulate fibroblast activity and collagen synthesis. 850nm penetrates deeper to reduce inflammation, accelerate cellular repair, and support mitochondrial function. Use 3 minutes per zone, 5 days per week for cumulative results.",
     "short_description": "660nm red and 850nm near-infrared LEDs in a targeted wand format. Stimulates collagen, reduces inflammation, and accelerates skin repair with 3-minute spot treatments.",
     "images": [
-      "https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/8313204/pexels-photo-8313204.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/8313205/pexels-photo-8313205.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "NEW",
     "rating": 4.7,
@@ -733,8 +733,8 @@ export const PRODUCTS = [
     "description": "DreamSilk uses 22-momme grade 6A mulberry silk \u2014 the highest commercial silk grade \u2014 which creates virtually no friction against delicate eye-area skin. Cotton pillowcases and masks generate repeated mechanical trauma during sleep that causes compression wrinkles and lash breakage over time. Silk's smooth surface eliminates this, and its natural temperature regulation keeps the eye area cool. The contoured 3D inner cavity prevents any pressure on the eyes or lashes.",
     "short_description": "22-momme mulberry silk blocks 100% of light without compressing the eye area. Reduces sleep-crease wrinkles and lash breakage compared to cotton alternatives.",
     "images": [
-      "https://images.pexels.com/photos/3738347/pexels-photo-3738347.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=800"
+      "https://images.pexels.com/photos/3807571/pexels-photo-3807571.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3807572/pexels-photo-3807572.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": null,
     "rating": 4.8,
