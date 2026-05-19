@@ -1,36 +1,37 @@
-import { createClientFromRequest } from "npm:@base44/sdk";
+import { createClientFromRequest } from 'npm:@base44/sdk@0.8.25';
 
-export default async function handler(req: Request) {
-  const body = await req.json();
-  const { orderNumber, customerEmail, customerName, items, subtotal, shippingCost, total } = body;
+Deno.serve(async (req) => {
+  try {
+    const base44 = createClientFromRequest(req);
+    const body = await req.json().catch(() => ({}));
+    const { orderNumber, customerEmail, customerName, items, subtotal, shippingCost, total } = body;
 
-  if (!customerEmail) {
-    return Response.json({ error: "No customer email" }, { status: 400 });
-  }
+    if (!customerEmail) {
+      return Response.json({ error: "No customer email" }, { status: 400 });
+    }
 
-  const base44 = createClientFromRequest(req);
-  const { accessToken } = await base44.asServiceRole.connectors.getConnection("gmail");
+    const { accessToken } = await base44.asServiceRole.connectors.getConnection("gmail");
 
-  const firstName = (customerName ?? "").split(" ")[0] || "there";
-  const estimatedDelivery = new Date(Date.now() + 12 * 24 * 60 * 60 * 1000).toLocaleDateString("en-US", {
-    month: "long", day: "numeric", year: "numeric",
-  });
+    const firstName = (customerName ?? "").split(" ")[0] || "there";
+    const estimatedDelivery = new Date(Date.now() + 12 * 24 * 60 * 60 * 1000).toLocaleDateString("en-US", {
+      month: "long", day: "numeric", year: "numeric",
+    });
 
-  const itemRows = (items ?? []).map((item: any) => `
-    <tr>
-      <td style="padding:12px 0;border-bottom:1px solid #F0F0F0;">
-        <span style="font-size:14px;font-weight:600;color:#1A1A1A;">${item.name}</span><br>
-        <span style="font-size:12px;color:#888;">Qty: ${item.quantity}</span>
-      </td>
-      <td style="padding:12px 0;border-bottom:1px solid #F0F0F0;text-align:right;font-size:14px;font-weight:600;color:#1A1A1A;">
-        $${(Number(item.price) * Number(item.quantity)).toFixed(2)}
-      </td>
-    </tr>`).join("");
+    const itemRows = (items ?? []).map((item: any) => `
+      <tr>
+        <td style="padding:12px 0;border-bottom:1px solid #F0F0F0;">
+          <span style="font-size:14px;font-weight:600;color:#1A1A1A;">${item.name}</span><br>
+          <span style="font-size:12px;color:#888;">Qty: ${item.quantity}</span>
+        </td>
+        <td style="padding:12px 0;border-bottom:1px solid #F0F0F0;text-align:right;font-size:14px;font-weight:600;color:#1A1A1A;">
+          $${(Number(item.price) * Number(item.quantity)).toFixed(2)}
+        </td>
+      </tr>`).join("");
 
-  const shippingLabel = Number(shippingCost) === 0 ? "FREE" : `$${Number(shippingCost).toFixed(2)}`;
-  const shippingColor = Number(shippingCost) === 0 ? "#2D9E6B" : "#888";
+    const shippingLabel = Number(shippingCost) === 0 ? "FREE" : `$${Number(shippingCost).toFixed(2)}`;
+    const shippingColor = Number(shippingCost) === 0 ? "#2D9E6B" : "#888";
 
-  const html = `<!DOCTYPE html>
+    const html = `<!DOCTYPE html>
 <html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
 <body style="margin:0;padding:0;background:#F8F8F8;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
 <table width="100%" cellpadding="0" cellspacing="0" style="background:#F8F8F8;padding:40px 20px;">
@@ -100,17 +101,21 @@ export default async function handler(req: Request) {
 </table>
 </body></html>`;
 
-  const subject = `Order Confirmed — ${orderNumber} | BYLVRA`;
-  const mime = [`From: BYLVRA Beauty <me>`, `To: ${customerEmail}`, `Subject: ${subject}`, `MIME-Version: 1.0`, `Content-Type: text/html; charset=UTF-8`, ``, html].join("\r\n");
-  const encoded = btoa(unescape(encodeURIComponent(mime))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+    const subject = `Order Confirmed — ${orderNumber} | BYLVRA`;
+    const mime = [`From: BYLVRA Beauty <me>`, `To: ${customerEmail}`, `Subject: ${subject}`, `MIME-Version: 1.0`, `Content-Type: text/html; charset=UTF-8`, ``, html].join("\r\n");
+    const encoded = btoa(unescape(encodeURIComponent(mime))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
 
-  const gmailRes = await fetch("https://gmail.googleapis.com/gmail/v1/users/me/messages/send", {
-    method: "POST",
-    headers: { Authorization: `Bearer ${accessToken}`, "Content-Type": "application/json" },
-    body: JSON.stringify({ raw: encoded }),
-  });
+    const gmailRes = await fetch("https://gmail.googleapis.com/gmail/v1/users/me/messages/send", {
+      method: "POST",
+      headers: { Authorization: `Bearer ${accessToken}`, "Content-Type": "application/json" },
+      body: JSON.stringify({ raw: encoded }),
+    });
 
-  const gmailData = await gmailRes.json() as any;
-  if (!gmailRes.ok) return Response.json({ error: gmailData?.error?.message ?? "Gmail send failed" }, { status: gmailRes.status });
-  return Response.json({ success: true, messageId: gmailData.id });
-}
+    const gmailData = await gmailRes.json() as any;
+    if (!gmailRes.ok) return Response.json({ error: gmailData?.error?.message ?? "Gmail send failed" }, { status: gmailRes.status });
+    return Response.json({ success: true, messageId: gmailData.id });
+
+  } catch (error: any) {
+    return Response.json({ error: error.message }, { status: 500 });
+  }
+});
