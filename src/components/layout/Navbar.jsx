@@ -3,8 +3,6 @@ import { Link, useNavigate } from 'react-router-dom';
 import { useCart } from '../../contexts/CartContext';
 import { ShoppingBag, Search, User, Menu, X } from 'lucide-react';
 
-const LOGO_URL = 'https://media.base44.com/images/public/6a0bd6cb3aacbe39bd424575/e8d02ddb3_generated_image.png';
-
 const navLinks = [
   { label: 'Skincare', href: '/collections/skincare' },
   { label: 'Tools & Devices', href: '/collections/tools-devices' },
@@ -54,11 +52,10 @@ export default function Navbar() {
         }}>
           {/* Logo */}
           <Link to="/" style={{ textDecoration: 'none', flex: '0 0 auto' }}>
-            <img
-              src={LOGO_URL}
-              alt="BYLVRA"
-              style={{ height: '38px', width: 'auto', objectFit: 'contain', display: 'block' }}
-            />
+            <span style={{
+              fontSize: '22px', fontWeight: '700', letterSpacing: '3px',
+              color: '#1A1A1A', textTransform: 'uppercase', fontFamily: 'Inter, sans-serif'
+            }}>BYLVRA</span>
           </Link>
 
           {/* Desktop Nav Links */}
