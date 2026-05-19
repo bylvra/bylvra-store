@@ -6,10 +6,10 @@ import { useCart } from '../contexts/CartContext';
 import { ChevronRight, Star, Shield, Truck, RotateCcw, Headphones, ArrowRight } from 'lucide-react';
 
 const CATEGORIES = [
-  { name: 'Skincare', slug: 'skincare', img: 'https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=600&h=700&fit=crop', desc: 'Serums, toners & treatments' },
+  { name: 'Skincare', slug: 'skincare', img: 'https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=600&h=700&fit=crop', desc: 'Serums, toners & treatments' },
   { name: 'Tools & Devices', slug: 'tools-devices', img: 'https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=600&h=700&fit=crop', desc: 'Clinical tech for home' },
   { name: 'Hair', slug: 'hair', img: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=600&h=700&fit=crop', desc: 'Growth & scalp care' },
-  { name: 'Body', slug: 'body', img: 'https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?w=600&h=700&fit=crop', desc: 'IPL & body treatments' },
+  { name: 'Body', slug: 'body', img: 'https://images.pexels.com/photos/3865676/pexels-photo-3865676.jpeg?auto=compress&cs=tinysrgb&w=600&h=700&fit=crop', desc: 'IPL & body treatments' },
   { name: 'Wellness', slug: 'wellness', img: 'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=700&fit=crop', desc: 'Posture, sleep & recovery' },
 ];
 
