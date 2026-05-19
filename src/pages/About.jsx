@@ -8,7 +8,7 @@ export default function About() {
       {/* Hero */}
       <div style={{ position: 'relative', height: '480px', overflow: 'hidden' }}>
         <img
-          src="https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=1800&fit=crop"
+          src="https://images.pexels.com/photos/3997992/pexels-photo-3997992.jpeg?auto=compress&cs=tinysrgb&w=1800"
           alt="About BYLVRA"
           style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center 25%' }}
         />
@@ -43,7 +43,7 @@ export default function About() {
         </div>
         <div style={{ borderRadius: '16px', overflow: 'hidden', aspectRatio: '4/5' }}>
           <img
-            src="https://images.unsplash.com/photo-1556228578-8e89ef1b2120?w=800&fit=crop"
+            src="https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg?auto=compress&cs=tinysrgb&w=800"
             alt="BYLVRA Lab"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
