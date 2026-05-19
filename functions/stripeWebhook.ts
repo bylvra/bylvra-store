@@ -1,16 +1,21 @@
-import { createClientFromRequest } from 'npm:@base44/sdk@0.8.25';
+import { createClientFromRequest } from "npm:@base44/sdk@0.8.25";
 
 Deno.serve(async (req) => {
   try {
     const base44 = createClientFromRequest(req);
     const body = await req.text();
     const sig = req.headers.get("stripe-signature") ?? "";
-    const webhookSecret = Deno.env.get("STRIPE_WEBHOOK_SECRET") ?? "";
 
-    // Parse the event (skip signature verification if no secret set yet)
-    let event: any;
+    // Determine if this is a test mode event
+    const parsedBody = JSON.parse(body);
+    const isTest = parsedBody?.livemode === false;
+
+    const webhookSecret = isTest
+      ? (Deno.env.get("STRIPE_TEST_WEBHOOK_SECRET") ?? "")
+      : (Deno.env.get("STRIPE_WEBHOOK_SECRET") ?? "");
+
+    // Verify signature
     if (webhookSecret) {
-      // Verify signature using Stripe's algorithm
       const parts = sig.split(",").reduce((acc: any, part) => {
         const [k, v] = part.split("=");
         acc[k] = v;
@@ -30,7 +35,7 @@ Deno.serve(async (req) => {
       }
     }
 
-    event = JSON.parse(body);
+    const event = parsedBody;
 
     if (event.type === "checkout.session.completed") {
       const session = event.data.object;
@@ -39,7 +44,6 @@ Deno.serve(async (req) => {
       const customerName = session.customer_details?.name ?? session.metadata?.customer_name ?? "";
 
       if (orderNumber) {
-        // Find and update the order to paid
         const orders = await base44.asServiceRole.entities.Order.filter({ order_number: orderNumber });
         if (orders?.length > 0) {
           const order = orders[0];
@@ -48,7 +52,6 @@ Deno.serve(async (req) => {
             status: "processing",
           });
 
-          // Send confirmation email to customer
           if (customerEmail) {
             try {
               const items = order.items ?? [];
@@ -56,7 +59,6 @@ Deno.serve(async (req) => {
               const shippingCost = order.shipping_cost ?? 0;
               const total = order.total ?? 0;
 
-              // Call sendOrderConfirmation function
               const emailRes = await fetch(`${new URL(req.url).origin}/functions/sendOrderConfirmation`, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
