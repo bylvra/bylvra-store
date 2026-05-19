@@ -12,8 +12,7 @@ const InputField = ({ label, ...props }) => (
       style={{
         width: '100%', border: '1.5px solid #E0E0E0', borderRadius: '6px',
         padding: '12px 14px', fontSize: '14px', outline: 'none',
-        fontFamily: 'Inter, sans-serif', boxSizing: 'border-box',
-        transition: 'border-color 0.2s',
+        fontFamily: 'Inter, sans-serif', boxSizing: 'border-box', transition: 'border-color 0.2s',
         ...props.style,
       }}
       onFocus={e => e.target.style.borderColor = '#1A1A1A'}
@@ -21,6 +20,28 @@ const InputField = ({ label, ...props }) => (
     />
   </div>
 );
+
+// ─── Stripe checkout helper ──────────────────────────────────────────────────
+// When STRIPE_SECRET_KEY is set in your backend, this redirects to Stripe's
+// hosted checkout. Until then, it saves the order locally and redirects.
+async function redirectToStripe({ cartItems, email, name, orderNumber }) {
+  try {
+    const { base44 } = await import('../api/base44Client.js');
+    const res = await base44.functions.createStripeCheckout({
+      items: cartItems.map(i => ({ name: i.name, price: i.price, quantity: i.quantity, images: i.images })),
+      customerEmail: email,
+      customerName: name,
+      orderNumber,
+    });
+    if (res?.url) {
+      window.location.href = res.url;
+      return true;
+    }
+  } catch (e) {
+    // Stripe not configured yet — fall through to local order
+  }
+  return false;
+}
 
 export default function Checkout() {
   const { cartItems, cartSubtotal, clearCart } = useCart();
@@ -36,32 +57,45 @@ export default function Checkout() {
   const shipping = cartSubtotal >= 50 ? 0 : 6.99;
   const tax = cartSubtotal * 0.08;
   const total = cartSubtotal + shipping + tax;
-
   const update = (field, value) => setForm(prev => ({ ...prev, [field]: value }));
 
   const handlePlaceOrder = async () => {
     setSubmitting(true);
+    const orderNum = 'LM' + Date.now().toString().slice(-6);
+
     try {
-      const orderNum = 'LM' + Date.now().toString().slice(-6);
+      // Save order record first
       await Order.create({
         order_number: orderNum,
         customer_email: form.email,
         customer_name: `${form.firstName} ${form.lastName}`,
         customer_phone: form.phone,
-        shipping_address: { address: form.address, city: form.city, state: form.state, zip: form.zip, country: form.country },
+        shipping_address: { address: form.address, apartment: form.apartment, city: form.city, state: form.state, zip: form.zip, country: form.country },
         items: cartItems.map(i => ({ id: i.id, name: i.name, price: i.price, quantity: i.quantity })),
         subtotal: cartSubtotal,
         shipping_cost: shipping,
         total,
         status: 'pending',
-        payment_status: 'paid',
+        payment_status: 'pending',
       });
+
+      // Attempt Stripe redirect
+      const stripeRedirected = await redirectToStripe({
+        cartItems,
+        email: form.email,
+        name: `${form.firstName} ${form.lastName}`,
+        orderNumber: orderNum,
+      });
+
+      if (!stripeRedirected) {
+        // Stripe not configured — proceed to confirmation
+        clearCart();
+        navigate(`/order-confirmation?order=${orderNum}`);
+      }
+      // If Stripe redirected, user leaves the page — cart cleared on return
+    } catch (err) {
       clearCart();
       navigate(`/order-confirmation?order=${orderNum}`);
-    } catch (err) {
-      alert('Order placed! (Demo mode)');
-      clearCart();
-      navigate('/');
     }
     setSubmitting(false);
   };
@@ -86,22 +120,18 @@ export default function Checkout() {
       </div>
 
       <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '40px 24px', display: 'grid', gridTemplateColumns: '1.2fr 1fr', gap: '40px', alignItems: 'start' }} className="checkout-grid">
-        {/* Form */}
+        {/* Left: form */}
         <div>
-          {/* Steps */}
-          <div style={{ display: 'flex', gap: '8px', marginBottom: '32px' }}>
+          {/* Step indicators */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '32px' }}>
             {['Contact & Shipping', 'Payment'].map((s, i) => (
-              <div key={i} style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                <div style={{
-                  width: '28px', height: '28px', borderRadius: '50%',
-                  background: step >= i + 1 ? '#1A1A1A' : '#E0E0E0',
-                  color: step >= i + 1 ? '#fff' : '#888',
-                  display: 'flex', alignItems: 'center', justifyContent: 'center',
-                  fontSize: '12px', fontWeight: '700',
-                }}>{i + 1}</div>
-                <span style={{ fontSize: '13px', fontWeight: step === i + 1 ? '700' : '400', color: step >= i + 1 ? '#1A1A1A' : '#888' }}>{s}</span>
+              <React.Fragment key={i}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <div style={{ width: '28px', height: '28px', borderRadius: '50%', background: step >= i + 1 ? '#1A1A1A' : '#E0E0E0', color: step >= i + 1 ? '#fff' : '#888', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '12px', fontWeight: '700' }}>{i + 1}</div>
+                  <span style={{ fontSize: '13px', fontWeight: step === i + 1 ? '700' : '400', color: step >= i + 1 ? '#1A1A1A' : '#888' }}>{s}</span>
+                </div>
                 {i === 0 && <ChevronRight size={14} style={{ color: '#CCC' }} />}
-              </div>
+              </React.Fragment>
             ))}
           </div>
 
@@ -132,12 +162,7 @@ export default function Checkout() {
               <button
                 onClick={() => setStep(2)}
                 disabled={!form.firstName || !form.email || !form.address}
-                style={{
-                  width: '100%', background: '#1A1A1A', color: '#fff', border: 'none',
-                  padding: '17px', borderRadius: '6px', cursor: 'pointer',
-                  fontSize: '14px', fontWeight: '700', letterSpacing: '1px', textTransform: 'uppercase',
-                  opacity: (!form.firstName || !form.email || !form.address) ? 0.5 : 1,
-                }}
+                style={{ width: '100%', background: '#1A1A1A', color: '#fff', border: 'none', padding: '17px', borderRadius: '6px', cursor: 'pointer', fontSize: '14px', fontWeight: '700', letterSpacing: '1px', textTransform: 'uppercase', opacity: (!form.firstName || !form.email || !form.address) ? 0.5 : 1 }}
               >Continue to Payment</button>
             </div>
           )}
@@ -147,7 +172,7 @@ export default function Checkout() {
               <div style={{ background: '#fff', borderRadius: '12px', padding: '28px', border: '1px solid #F0F0F0', marginBottom: '24px' }}>
                 <h3 style={{ fontSize: '16px', fontWeight: '700', marginBottom: '8px' }}>Payment Information</h3>
                 <p style={{ fontSize: '12px', color: '#888', marginBottom: '20px', display: 'flex', alignItems: 'center', gap: '6px' }}>
-                  <Lock size={12} /> Your payment information is encrypted and secure.
+                  <Lock size={12} /> Your payment info is encrypted and secure.
                 </p>
                 <InputField label="Name on Card" value={form.cardName} onChange={e => update('cardName', e.target.value)} required />
                 <InputField label="Card Number" value={form.cardNumber} onChange={e => update('cardNumber', e.target.value)} placeholder="1234 5678 9012 3456" required />
@@ -155,10 +180,8 @@ export default function Checkout() {
                   <InputField label="Expiry Date" value={form.expiry} onChange={e => update('expiry', e.target.value)} placeholder="MM/YY" required />
                   <InputField label="CVV" value={form.cvv} onChange={e => update('cvv', e.target.value)} placeholder="123" required />
                 </div>
-
-                {/* Payment icons */}
                 <div style={{ display: 'flex', gap: '8px', marginTop: '8px' }}>
-                  {['VISA', 'MASTERCARD', 'AMEX', 'PAYPAL', '🍎PAY'].map((p, i) => (
+                  {['VISA', 'MC', 'AMEX', 'PAYPAL', '🍎PAY'].map((p, i) => (
                     <span key={i} style={{ background: '#F5F5F5', border: '1px solid #E0E0E0', borderRadius: '4px', padding: '4px 8px', fontSize: '10px', fontWeight: '700', color: '#666' }}>{p}</span>
                   ))}
                 </div>
@@ -169,33 +192,27 @@ export default function Checkout() {
                 <button
                   onClick={handlePlaceOrder}
                   disabled={submitting || !form.cardNumber || !form.cvv}
-                  style={{
-                    flex: 1, background: '#1A1A1A', color: '#fff', border: 'none',
-                    padding: '17px', borderRadius: '6px', cursor: 'pointer',
-                    fontSize: '14px', fontWeight: '700', letterSpacing: '1px', textTransform: 'uppercase',
-                    opacity: (submitting || !form.cardNumber) ? 0.6 : 1,
-                    display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px',
-                  }}
+                  style={{ flex: 1, background: '#1A1A1A', color: '#fff', border: 'none', padding: '17px', borderRadius: '6px', cursor: 'pointer', fontSize: '14px', fontWeight: '700', letterSpacing: '1px', textTransform: 'uppercase', opacity: (submitting || !form.cardNumber) ? 0.6 : 1, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}
                 >
                   <Lock size={14} />
-                  {submitting ? 'Placing Order…' : `Place Order — $${total.toFixed(2)}`}
+                  {submitting ? 'Processing…' : `Place Order — $${total.toFixed(2)}`}
                 </button>
               </div>
               <p style={{ fontSize: '12px', color: '#888', textAlign: 'center' }}>
-                By placing your order you agree to our <Link to="/pages/terms" style={{ color: '#1A1A1A' }}>Terms of Service</Link> and <Link to="/pages/privacy" style={{ color: '#1A1A1A' }}>Privacy Policy</Link>.
+                By placing your order you agree to our <Link to="/pages/terms" style={{ color: '#1A1A1A' }}>Terms</Link> and <Link to="/pages/privacy" style={{ color: '#1A1A1A' }}>Privacy Policy</Link>.
               </p>
             </div>
           )}
         </div>
 
-        {/* Order Summary */}
+        {/* Right: order summary */}
         <div style={{ background: '#fff', borderRadius: '12px', padding: '28px', border: '1px solid #F0F0F0', position: 'sticky', top: '20px' }}>
           <h3 style={{ fontSize: '16px', fontWeight: '700', marginBottom: '24px' }}>Order Summary</h3>
           <div style={{ maxHeight: '300px', overflowY: 'auto', marginBottom: '24px' }}>
             {cartItems.map(item => (
               <div key={item.id} style={{ display: 'flex', gap: '12px', marginBottom: '16px', alignItems: 'center' }}>
-                <div style={{ position: 'relative' }}>
-                  <div style={{ width: '56px', height: '56px', borderRadius: '8px', overflow: 'hidden', background: '#F8F4F4', flexShrink: 0 }}>
+                <div style={{ position: 'relative', flexShrink: 0 }}>
+                  <div style={{ width: '56px', height: '56px', borderRadius: '8px', overflow: 'hidden', background: '#F8F4F4' }}>
                     <img src={item.images?.[0]} alt={item.name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                   </div>
                   <span style={{ position: 'absolute', top: '-6px', right: '-6px', background: '#1A1A1A', color: '#fff', fontSize: '10px', fontWeight: '700', width: '18px', height: '18px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>{item.quantity}</span>
@@ -209,17 +226,12 @@ export default function Checkout() {
             ))}
           </div>
           <div style={{ borderTop: '1px solid #F0F0F0', paddingTop: '16px' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '14px', color: '#666', marginBottom: '8px' }}>
-              <span>Subtotal</span><span>${cartSubtotal.toFixed(2)}</span>
-            </div>
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '14px', color: '#666', marginBottom: '8px' }}>
-              <span>Shipping</span>
-              <span style={{ color: shipping === 0 ? '#2D9E6B' : 'inherit' }}>{shipping === 0 ? 'FREE' : `$${shipping.toFixed(2)}`}</span>
-            </div>
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '14px', color: '#666', marginBottom: '16px' }}>
-              <span>Estimated Tax</span><span>${tax.toFixed(2)}</span>
-            </div>
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '18px', fontWeight: '800', borderTop: '1.5px solid #E0E0E0', paddingTop: '16px' }}>
+            {[['Subtotal', `$${cartSubtotal.toFixed(2)}`], ['Shipping', shipping === 0 ? 'FREE' : `$${shipping.toFixed(2)}`], ['Estimated Tax', `$${tax.toFixed(2)}`]].map(([label, val]) => (
+              <div key={label} style={{ display: 'flex', justifyContent: 'space-between', fontSize: '14px', color: label === 'Shipping' && shipping === 0 ? '#2D9E6B' : '#666', marginBottom: '8px', fontWeight: label === 'Shipping' && shipping === 0 ? '600' : '400' }}>
+                <span>{label}</span><span>{val}</span>
+              </div>
+            ))}
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '18px', fontWeight: '800', borderTop: '1.5px solid #E0E0E0', paddingTop: '16px', marginTop: '8px' }}>
               <span>Total</span><span>${total.toFixed(2)}</span>
             </div>
           </div>
@@ -231,9 +243,7 @@ export default function Checkout() {
       </div>
 
       <style>{`
-        @media (max-width: 768px) {
-          .checkout-grid { grid-template-columns: 1fr !important; }
-        }
+        @media (max-width: 768px) { .checkout-grid { grid-template-columns: 1fr !important; } }
       `}</style>
     </div>
   );
