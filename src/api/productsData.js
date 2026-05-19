@@ -760,5 +760,324 @@ export const PRODUCTS = [
     "frequently_bought_with": [],
     "cjProductId": "2407171314351629800",
     "cjSku": "2407171314361620100"
+  },
+  {
+    "id": "bylvra_new_001",
+    "name": "HydraFill Hyaluronic Acid Serum",
+    "slug": "hydrafill-hyaluronic-acid-serum",
+    "category": "Skincare",
+    "price": 24.95,
+    "compare_at_price": 34.95,
+    "description": "HydraFill delivers multi-weight hyaluronic acid \u2014 both high and low molecular variants \u2014 to bind moisture at the surface and deep within the dermis simultaneously. The result is immediate plumping visible within hours, with sustained hydration that builds with daily use. Formulated at optimal pH 5.5 for maximum HA efficacy.",
+    "short_description": "Multi-weight Hyaluronic Acid penetrates at two skin depths for instant plumping and sustained 72-hour hydration. Fragrance-free, suitable for all skin types.",
+    "images": [
+      "https://images.pexels.com/photos/6621466/pexels-photo-6621466.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6621467/pexels-photo-6621467.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.8,
+    "review_count": 2876,
+    "ingredients": "Sodium Hyaluronate (High MW + Low MW, 2% total), Panthenol (5%), Glycerin, Niacinamide (3%), Allantoin, Centella Asiatica Extract.",
+    "benefits": [
+      "High-MW HA forms a moisture-binding film at skin surface",
+      "Low-MW HA penetrates to the dermis for deep structural hydration",
+      "Panthenol at 5% repairs and strengthens the skin barrier",
+      "Visible plumping within 2 hours of first application",
+      "Fragrance-free, non-comedogenic, suitable for sensitive skin"
+    ],
+    "whats_in_box": "HydraFill Hyaluronic Acid Serum 30ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 85,
+    "variants": [],
+    "tags": [
+      "hyaluronic acid",
+      "hydration",
+      "serum",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2406200621361620700",
+    "cjSku": "CJMB206455401AZ",
+    "cjVariantId": "2406200621361620900"
+  },
+  {
+    "id": "bylvra_new_002",
+    "name": "PoreLess Niacinamide Serum",
+    "slug": "poreless-niacinamide-serum",
+    "category": "Skincare",
+    "price": 32.95,
+    "compare_at_price": 44.95,
+    "description": "PoreLess delivers Niacinamide at 10% \u2014 the clinically validated concentration for sebum regulation, pore minimization, and skin barrier reinforcement. At this level, Niacinamide measurably reduces transepidermal water loss, inhibits melanin transfer to keratinocytes for even tone, and visibly tightens pores within 4 weeks of daily use.",
+    "short_description": "10% Niacinamide at the clinically active concentration. Minimizes pores, regulates sebum, fades hyperpigmentation, and strengthens barrier function in 4 weeks.",
+    "images": [
+      "https://images.pexels.com/photos/4812638/pexels-photo-4812638.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4812639/pexels-photo-4812639.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.9,
+    "review_count": 1934,
+    "ingredients": "Niacinamide (10%), Zinc PCA (1%), Sodium Hyaluronate, Panthenol, Tranexamic Acid (2%), Glycerin, Allantoin.",
+    "benefits": [
+      "10% Niacinamide \u2014 the minimum effective dose for pore reduction",
+      "Zinc PCA regulates sebum production and reduces shine",
+      "Tranexamic Acid at 2% targets post-inflammatory hyperpigmentation",
+      "Reduces visible pore size within 4 weeks of daily application",
+      "Compatible with retinol, AHAs, and most active ingredient routines"
+    ],
+    "whats_in_box": "PoreLess Niacinamide Serum 30ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 62,
+    "variants": [],
+    "tags": [
+      "niacinamide",
+      "pores",
+      "serum",
+      "skincare",
+      "brightening"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1907404060472815618",
+    "cjSku": "CJMB234409301AZ",
+    "cjVariantId": "1907404061798215681"
+  },
+  {
+    "id": "bylvra_new_003",
+    "name": "ElectroSculpt Gua Sha Device",
+    "slug": "electrosculpt-gua-sha-device",
+    "category": "Tools & Devices",
+    "price": 44.95,
+    "compare_at_price": 64.95,
+    "description": "ElectroSculpt combines traditional gua sha scraping mechanics with EMS microcurrent pulses and gentle heat therapy. The 42\u00b0C warming function opens pores and softens fascia for deeper lymphatic drainage; the EMS stimulates muscle tone and accelerates product absorption. Three modes target lifting, drainage, and firming in a single device.",
+    "short_description": "3-in-1 electric gua sha: EMS microcurrent + 42\u00b0C heat + scraping mechanics. Lifts, drains lymphatic fluid, and tones facial muscles in 10-minute sessions.",
+    "images": [
+      "https://images.pexels.com/photos/6621376/pexels-photo-6621376.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6621377/pexels-photo-6621377.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "NEW",
+    "rating": 4.7,
+    "review_count": 891,
+    "ingredients": "Medical-grade ABS body. Titanium-plated scraping head. EMS output: 100\u2013200\u03bcA. Heating range: 38\u201342\u00b0C. Rechargeable via USB-C.",
+    "benefits": [
+      "42\u00b0C heat therapy softens facial fascia and boosts lymphatic flow",
+      "EMS microcurrent tones and re-educates facial muscles",
+      "Scraping edge reduces puffiness and defines jaw and cheekbone contours",
+      "3 modes: Lift / Drain / Firm \u2014 10 minutes daily",
+      "Enhances serum absorption by up to 3\u00d7 vs. manual application"
+    ],
+    "whats_in_box": "ElectroSculpt Device \u00d7 1, USB-C charging cable \u00d7 1, conductive gel (30ml) \u00d7 1, user manual \u00d7 1",
+    "in_stock": true,
+    "stock_count": 34,
+    "variants": [],
+    "tags": [
+      "gua sha",
+      "ems",
+      "microcurrent",
+      "lifting",
+      "devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2512210857301607700",
+    "cjSku": "CJYD266410001AZ",
+    "cjVariantId": "2512210857301607900"
+  },
+  {
+    "id": "bylvra_new_004",
+    "name": "PeptideFirm Anti-Wrinkle Serum",
+    "slug": "peptidefirm-anti-wrinkle-serum",
+    "category": "Skincare",
+    "price": 36.95,
+    "compare_at_price": 49.95,
+    "description": "PeptideFirm combines four signal peptides \u2014 Argireline, Leuphasyl, Matrixyl 3000, and Copper Peptide GHK-Cu \u2014 each with a distinct mechanism for reducing expression lines and stimulating structural collagen. Together they interrupt neuromuscular signals that form dynamic wrinkles, accelerate collagen cross-linking, and promote skin cell regeneration for visible firming within 6\u20138 weeks.",
+    "short_description": "Quad-peptide complex: Argireline + Leuphasyl + Matrixyl 3000 + GHK-Cu. Clinically targets expression lines and boosts collagen at four distinct pathways.",
+    "images": [
+      "https://images.pexels.com/photos/5069434/pexels-photo-5069434.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/5069435/pexels-photo-5069435.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.8,
+    "review_count": 1547,
+    "ingredients": "Argireline (Acetyl Hexapeptide-3, 5%), Leuphasyl (5%), Palmitoyl Tripeptide-1 + Hexapeptide-12 (Matrixyl 3000, 3%), Copper Tripeptide-1 (GHK-Cu, 2%), Sodium Hyaluronate, Squalane.",
+    "benefits": [
+      "Argireline at 5% relaxes muscle contractions that form expression lines",
+      "GHK-Cu stimulates collagen and elastin synthesis at the cellular level",
+      "Matrixyl 3000 targets deep wrinkles via extracellular matrix repair",
+      "Visible reduction in fine lines within 4 weeks, deep wrinkles in 8",
+      "Non-irritating \u2014 compatible with all skin types including sensitive"
+    ],
+    "whats_in_box": "PeptideFirm Anti-Wrinkle Serum 30ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 48,
+    "variants": [],
+    "tags": [
+      "peptide",
+      "anti-aging",
+      "wrinkles",
+      "serum",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1831938274416807936",
+    "cjSku": "CJJY213006601AZ",
+    "cjVariantId": "1831938274446168064"
+  },
+  {
+    "id": "bylvra_new_005",
+    "name": "RosemaryRoot Hair Growth Oil",
+    "slug": "rosemaryroot-hair-growth-oil",
+    "category": "Hair",
+    "price": 26.95,
+    "compare_at_price": 36.95,
+    "description": "RosemaryRoot is formulated around rosemary leaf extract \u2014 clinically shown in a 2015 randomized trial to match 2% minoxidil for hair regrowth at 6 months with significantly fewer side effects. Combined with biotin, peppermint oil, and castor oil, this treatment nourishes the scalp, unblocks follicles, and extends the anagen growth phase for visibly thicker, denser hair.",
+    "short_description": "Rosemary extract clinically matched to 2% minoxidil for hair regrowth. Biotin, peppermint, and castor oil formula extends the anagen phase and thickens strands.",
+    "images": [
+      "https://images.pexels.com/photos/3993450/pexels-photo-3993450.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3993451/pexels-photo-3993451.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "review_count": 3241,
+    "ingredients": "Rosmarinus Officinalis (Rosemary) Leaf Extract, Castor Oil, Peppermint Oil, Biotin, Caffeine, Saw Palmetto Extract, Argan Oil, Vitamin E.",
+    "benefits": [
+      "Rosemary extract clinically matched to 2% minoxidil at 6 months (2015 RCT)",
+      "Caffeine blocks DHT at the follicle \u2014 the primary hormone driving hair loss",
+      "Saw Palmetto inhibits 5-alpha-reductase to extend the anagen growth phase",
+      "Castor oil nourishes the scalp and reduces follicle inflammation",
+      "Visible density improvement in 8\u201312 weeks of consistent use"
+    ],
+    "whats_in_box": "RosemaryRoot Hair Growth Oil 50ml \u00d7 1, dropper applicator \u00d7 1",
+    "in_stock": true,
+    "stock_count": 112,
+    "variants": [],
+    "tags": [
+      "hair growth",
+      "rosemary",
+      "scalp",
+      "hair oil",
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1831608205236391936",
+    "cjSku": "CJST212923201AZ",
+    "cjVariantId": "1831608205261557760"
+  },
+  {
+    "id": "bylvra_new_006",
+    "name": "WarmGlow Body Massage Oil",
+    "slug": "warmglow-body-massage-oil",
+    "category": "Body",
+    "price": 22.95,
+    "compare_at_price": 29.95,
+    "description": "WarmGlow combines ginger root extract and mugwort (argy wormwood) in a base of jojoba and sweet almond oil. Ginger's zingerone and shogaol compounds generate localized thermogenic circulation, visibly reducing water retention and improving skin tone. Mugwort soothes muscle tension and has documented anti-inflammatory properties. Use as a massage oil or apply post-shower for absorption.",
+    "short_description": "Ginger + Mugwort thermogenic massage oil. Stimulates circulation, reduces water retention, soothes muscle tension. Absorbs cleanly with no greasy residue.",
+    "images": [
+      "https://images.pexels.com/photos/3757955/pexels-photo-3757955.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3757956/pexels-photo-3757956.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "NEW",
+    "rating": 4.6,
+    "review_count": 724,
+    "ingredients": "Zingiber Officinale (Ginger) Root Extract, Artemisia Argyi (Mugwort) Extract, Jojoba Oil, Sweet Almond Oil, Vitamin E, Peppermint Essential Oil.",
+    "benefits": [
+      "Ginger thermogenic compounds stimulate local circulation and lymph flow",
+      "Reduces visible water retention and puffiness with regular massage",
+      "Mugwort extract has documented anti-inflammatory and soothing properties",
+      "Jojoba base absorbs quickly \u2014 no greasy residue on clothing",
+      "Use on abdomen, thighs, arms \u2014 effective post-shower or pre-massage"
+    ],
+    "whats_in_box": "WarmGlow Body Massage Oil 100ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 156,
+    "variants": [],
+    "tags": [
+      "body oil",
+      "massage",
+      "ginger",
+      "circulation",
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1793934870738112512",
+    "cjSku": "CJYD204471001AZ",
+    "cjVariantId": "1793934870813609984"
+  },
+  {
+    "id": "bylvra_new_007",
+    "name": "GermaTone Face Roller",
+    "slug": "germatone-face-roller",
+    "category": "Tools & Devices",
+    "price": 18.95,
+    "compare_at_price": 26.95,
+    "description": "The GermaTone Face Roller is embedded with 30 germanium stones \u2014 a semiconductor mineral shown to emit far-infrared radiation and negative ions when in contact with skin. These stimulate microcirculation, accelerate lymphatic drainage, and promote cellular oxygen exchange. The dual-head roller design contours both large and small facial areas for full-face sculpting in 5 minutes.",
+    "short_description": "30-germanium stone roller emits far-infrared and negative ions on contact. Boosts microcirculation, reduces puffiness, and sculpts facial contours in 5 minutes.",
+    "images": [
+      "https://images.pexels.com/photos/6621378/pexels-photo-6621378.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6621379/pexels-photo-6621379.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.6,
+    "review_count": 2103,
+    "ingredients": "30 genuine germanium stones. Stainless steel roller frame. ABS ergonomic handle. Dual-head design (large + small roller).",
+    "benefits": [
+      "30 germanium stones generate far-infrared and negative ion emission on contact",
+      "Stimulates microcirculation for visible depuffing within one use",
+      "Dual roller head targets both full cheek and precise under-eye areas",
+      "Chill in fridge for enhanced vasoconstrictive lymphatic drainage effect",
+      "No charging needed \u2014 fully mechanical, travel-safe"
+    ],
+    "whats_in_box": "GermaTone Face Roller \u00d7 1, velvet storage pouch \u00d7 1",
+    "in_stock": true,
+    "stock_count": 88,
+    "variants": [],
+    "tags": [
+      "germanium",
+      "roller",
+      "face roller",
+      "tools",
+      "lymphatic"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "DABDC51C-EB6E-4BC0-979C-514A30B724CC",
+    "cjSku": "CJBJMRAM00967-30 germanium pink",
+    "cjVariantId": "16B4C289-E66D-4AD3-BC73-9837BB9F624E"
+  },
+  {
+    "id": "bylvra_new_008",
+    "name": "FirmLift Anti-Aging Moisturizer",
+    "slug": "firmlift-anti-aging-moisturizer",
+    "category": "Skincare",
+    "price": 34.95,
+    "compare_at_price": 47.95,
+    "description": "FirmLift is a clinical-weight moisturizer built around a ceramide-peptide matrix. Ceramides NP, AP, and EOP at 3% total restore the skin's lipid barrier, reducing TEWL by up to 40%. The firming peptide complex tightens and visibly lifts skin texture, while Adenosine \u2014 an FDA-recognized anti-wrinkle active \u2014 reduces the depth of established fine lines with daily use.",
+    "short_description": "Ceramide NP+AP+EOP complex at 3% repairs the lipid barrier. Firming peptide matrix + Adenosine reduce fine lines and improve skin elasticity in 4 weeks.",
+    "images": [
+      "https://images.pexels.com/photos/4041395/pexels-photo-4041395.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4041396/pexels-photo-4041396.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.8,
+    "review_count": 1289,
+    "ingredients": "Ceramide NP (1%), Ceramide AP (1%), Ceramide EOP (1%), Adenosine (0.04%), Palmitoyl Tripeptide-5 (2%), Niacinamide (5%), Shea Butter, Squalane, Glycerin.",
+    "benefits": [
+      "3-ceramide complex (NP+AP+EOP) restores the skin barrier and reduces TEWL by 40%",
+      "Adenosine is FDA-recognized for wrinkle reduction at 0.04% concentration",
+      "Palmitoyl Tripeptide-5 stimulates collagen and improves elasticity",
+      "5% Niacinamide brightens and refines pore appearance",
+      "Rich texture that absorbs without occlusion \u2014 suitable as both day and night moisturizer"
+    ],
+    "whats_in_box": "FirmLift Anti-Aging Moisturizer 50ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 57,
+    "variants": [],
+    "tags": [
+      "moisturizer",
+      "ceramide",
+      "anti-aging",
+      "firming",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1831960065138905088",
+    "cjSku": "CJMB213027001AZ",
+    "cjVariantId": "1831960065172459520"
   }
 ];
