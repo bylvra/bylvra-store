@@ -9,37 +9,37 @@ const CATEGORY_META = {
   'skincare': {
     title: 'Skincare',
     subtitle: 'Clinical-grade actives. Proven concentrations. Real results.',
-    img: 'https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=1600&h=500&fit=crop',
+    img: 'https://images.pexels.com/photos/3764013/pexels-photo-3764013.jpeg?auto=compress&cs=tinysrgb&w=1600',
     filter: 'Skincare'
   },
   'tools-devices': {
     title: 'Tools & Devices',
     subtitle: 'Professional-grade technology engineered for home use.',
-    img: 'https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=1600&h=500&fit=crop',
+    img: 'https://images.pexels.com/photos/7755186/pexels-photo-7755186.jpeg?auto=compress&cs=tinysrgb&w=1600',
     filter: 'Tools & Devices'
   },
   'hair': {
     title: 'Hair',
     subtitle: 'Science-backed solutions for growth, scalp health, and shine.',
-    img: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1600&h=500&fit=crop',
+    img: 'https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=1600',
     filter: 'Hair'
   },
   'body': {
     title: 'Body',
     subtitle: 'IPL, exfoliation, and body treatments that deliver.',
-    img: 'https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?w=1600&h=500&fit=crop',
+    img: 'https://images.pexels.com/photos/3757952/pexels-photo-3757952.jpeg?auto=compress&cs=tinysrgb&w=1600',
     filter: 'Body'
   },
   'wellness': {
     title: 'Wellness',
     subtitle: 'Recovery, posture, and sleep tools backed by research.',
-    img: 'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1600&h=500&fit=crop',
+    img: 'https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg?auto=compress&cs=tinysrgb&w=1600',
     filter: 'Wellness'
   },
   'all': {
     title: 'All Products',
     subtitle: 'Every BYLVRA product — clinically formulated, results-driven.',
-    img: 'https://images.unsplash.com/photo-1556228578-8e89ef1b2120?w=1600&h=500&fit=crop',
+    img: 'https://images.pexels.com/photos/5069432/pexels-photo-5069432.jpeg?auto=compress&cs=tinysrgb&w=1600',
     filter: null
   }
 };
