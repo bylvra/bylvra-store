@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { Product } from '../api/entities';
 import ProductCard from '../components/ui/ProductCard';
 import { ChevronRight, SlidersHorizontal } from 'lucide-react';
+import { PRODUCTS } from '../api/productsData';
 
 const CATEGORY_META = {
   'skincare': {
@@ -59,11 +60,9 @@ export default function CollectionPage() {
   const [sortBy, setSortBy] = useState('featured');
 
   useEffect(() => {
-    Product.list({ limit: 200 }).then(data => {
-      let filtered = meta.filter ? data.filter(p => p.category === meta.filter) : data;
-      setProducts(filtered);
-      setLoading(false);
-    }).catch(() => setLoading(false));
+    const filtered = meta.filter ? PRODUCTS.filter(p => p.category === meta.filter) : PRODUCTS;
+    setProducts(filtered);
+    setLoading(false);
   }, [category]);
 
   const sorted = [...products].sort((a, b) => {

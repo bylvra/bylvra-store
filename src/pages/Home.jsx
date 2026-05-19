@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { Product } from '../api/entities';
 import ProductCard from '../components/ui/ProductCard';
 import { useCart } from '../contexts/CartContext';
+import { PRODUCTS } from '../api/productsData';
 import { ChevronRight, Star, Shield, Truck, RotateCcw, Headphones, ArrowRight } from 'lucide-react';
 
 const CATEGORIES = [
@@ -32,9 +33,8 @@ export default function Home() {
   const { addToCart } = useCart();
 
   useEffect(() => {
-    Product.list({ limit: 200 })
-      .then(data => { setProducts(data); setLoading(false); })
-      .catch(() => setLoading(false));
+    setProducts(PRODUCTS);
+    setLoading(false);
   }, []);
 
   const bestsellers = products.filter(p => p.badge === 'BESTSELLER').slice(0, 8);

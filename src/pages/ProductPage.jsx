@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { Product } from '../api/entities';
 import { useCart } from '../contexts/CartContext';
+import { PRODUCTS } from '../api/productsData';
 import ProductCard from '../components/ui/ProductCard';
 import { Star, Shield, Truck, RotateCcw, ChevronDown, ChevronRight, Clock, Package, Zap } from 'lucide-react';
 
@@ -56,12 +57,10 @@ export default function ProductPage() {
   const [timeLeft, setTimeLeft] = useState({ hours: 3, minutes: 47, seconds: 22 });
 
   useEffect(() => {
-    Product.list().then(data => {
-      const p = data.find(p => p.slug === slug);
-      setProduct(p);
-      setAllProducts(data);
-      setLoading(false);
-    }).catch(() => setLoading(false));
+    const p = PRODUCTS.find(p => p.slug === slug);
+    setProduct(p);
+    setAllProducts(PRODUCTS);
+    setLoading(false);
   }, [slug]);
 
   useEffect(() => {
