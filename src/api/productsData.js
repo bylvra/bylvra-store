@@ -1079,5 +1079,475 @@ export const PRODUCTS = [
     "cjProductId": "1831960065138905088",
     "cjSku": "CJMB213027001AZ",
     "cjVariantId": "1831960065172459520"
+  },
+  {
+    "id": "bylvra_n01",
+    "name": "HydraGlow Brightening Toner",
+    "slug": "hydraglow-brightening-toner",
+    "category": "Skincare",
+    "price": 22.95,
+    "compare_at_price": 30.95,
+    "description": "HydraGlow combines Vitamin C (ethyl ascorbic acid, the stable ester form) with 5% Niacinamide and hyaluronic acid in a lightweight watery essence. Applied after cleansing, it preps the skin barrier, delivers actives at maximum penetration depth, and visibly brightens uneven tone within 3\u20134 weeks. pH-balanced at 5.5 to preserve the acid mantle.",
+    "short_description": "Vitamin C + 5% Niacinamide brightening toner. Stable ethyl ascorbic acid form for consistent potency. Preps skin barrier and evens tone in 3\u20134 weeks.",
+    "images": [
+      "https://images.pexels.com/photos/7428100/pexels-photo-7428100.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/7428102/pexels-photo-7428102.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "review_count": 1832,
+    "ingredients": "Ethyl Ascorbic Acid (3%), Niacinamide (5%), Sodium Hyaluronate, Panthenol, Centella Asiatica, Glycerin, Allantoin.",
+    "benefits": [
+      "Ethyl ascorbic acid \u2014 the most stable form of Vitamin C, no oxidation",
+      "5% Niacinamide brightens pigmentation and reinforces the skin barrier",
+      "Lightweight watery texture absorbs instantly with no residue",
+      "pH 5.5 preserves the acid mantle and maximises active efficacy",
+      "Visible even-toning in 3\u20134 weeks with twice-daily use"
+    ],
+    "whats_in_box": "HydraGlow Brightening Toner 150ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 94,
+    "variants": [],
+    "tags": [
+      "toner",
+      "vitamin c",
+      "brightening",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1779807134159474688",
+    "cjSku": "CJYD201195101AZ",
+    "cjVariantId": "1779807134226583552"
+  },
+  {
+    "id": "bylvra_n02",
+    "name": "RetinolRenew Night Cream",
+    "slug": "retinolrenew-night-cream",
+    "category": "Skincare",
+    "price": 38.95,
+    "compare_at_price": 52.95,
+    "description": "RetinolRenew delivers encapsulated Retinol (Vitamin A) alongside Collagen and Hyaluronic Acid in a rich night cream base. Encapsulation slows the release of retinol to reduce irritation while maintaining clinical efficacy \u2014 increasing cell turnover, stimulating collagen synthesis, and fading fine lines during sleep. Ideal for first-time retinol users and those with sensitive skin.",
+    "short_description": "Encapsulated Retinol + Collagen + Hyaluronic Acid in a rich night cream. Time-release delivery reduces irritation while maintaining cell turnover and collagen-boosting efficacy.",
+    "images": [
+      "https://images.pexels.com/photos/6621470/pexels-photo-6621470.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6621471/pexels-photo-6621471.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.8,
+    "review_count": 2104,
+    "ingredients": "Encapsulated Retinol (0.3%), Hydrolyzed Collagen, Sodium Hyaluronate (2%), Peptide Complex, Shea Butter, Ceramide NP, Squalane, Vitamin E.",
+    "benefits": [
+      "Encapsulated retinol releases gradually \u2014 effective without the irritation",
+      "Stimulates fibroblast activity and accelerates cell turnover overnight",
+      "Hydrolyzed collagen supports skin elasticity and plumpness while you sleep",
+      "Ceramide NP repairs the moisture barrier to counteract retinol dryness",
+      "Visible reduction in fine lines and skin texture within 6\u20138 weeks"
+    ],
+    "whats_in_box": "RetinolRenew Night Cream 50ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 67,
+    "variants": [],
+    "tags": [
+      "retinol",
+      "night cream",
+      "anti-aging",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1797886644280889344",
+    "cjSku": "CJYD205312301AZ",
+    "cjVariantId": "1797886644352192512"
+  },
+  {
+    "id": "bylvra_n03",
+    "name": "VoluMax Lip Plumper Gloss",
+    "slug": "volumax-lip-plumper-gloss",
+    "category": "Skincare",
+    "price": 19.95,
+    "compare_at_price": 27.95,
+    "description": "VoluMax uses a micro-circulation stimulating complex \u2014 Cinnamon Bark Extract and Capsicum-free Vasodilators \u2014 to increase blood flow to the lips for an immediate, natural plumping effect. Combined with high-gloss emollients and Peptide-3, it delivers both instant and cumulative volume without the sting of traditional capsaicin formulas.",
+    "short_description": "Capsaicin-free lip plumper with vasodilating Cinnamon Bark Extract. Delivers immediate visible volume + high-gloss finish. Peptide-3 for cumulative plumping.",
+    "images": [
+      "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3865548/pexels-photo-3865548.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "NEW",
+    "rating": 4.6,
+    "review_count": 987,
+    "ingredients": "Cinnamon Bark Extract, Peptide-3 (0.3%), Hyaluronic Acid, Vitamin E, Castor Oil, Shea Butter, High-Gloss Emollient Base.",
+    "benefits": [
+      "Cinnamon bark vasodilators increase lip circulation for immediate visible plumping",
+      "Zero capsaicin \u2014 no burning, stinging, or inflammation",
+      "Peptide-3 builds cumulative lip volume with daily use over 4 weeks",
+      "High-gloss finish enhances light reflection for a fuller visual effect",
+      "Deeply moisturising \u2014 conditions lip barrier and prevents moisture loss"
+    ],
+    "whats_in_box": "VoluMax Lip Plumper Gloss 6ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 210,
+    "variants": [],
+    "tags": [
+      "lip",
+      "plumper",
+      "gloss",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2408120516091605700",
+    "cjSku": "CJKH210822009IR",
+    "cjVariantId": "1859534528671797248"
+  },
+  {
+    "id": "bylvra_n04",
+    "name": "ClearBeam Acne Light Therapy",
+    "slug": "clearbeam-acne-light-therapy",
+    "category": "Tools & Devices",
+    "price": 54.95,
+    "compare_at_price": 74.95,
+    "description": "ClearBeam is a wireless, rechargeable dual-wavelength light therapy device. Blue light at 415nm targets and neutralizes P.acnes bacteria in active breakouts. Red light at 630nm reduces post-inflammatory redness and accelerates skin repair. Clinically the same mechanism used in dermatology office treatments \u2014 now available for daily home use at a fraction of the cost.",
+    "short_description": "Dual-wavelength: Blue 415nm neutralizes P.acnes bacteria. Red 630nm reduces inflammation and accelerates repair. Wireless, rechargeable \u2014 10 minutes daily.",
+    "images": [
+      "https://images.pexels.com/photos/7189303/pexels-photo-7189303.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/8728560/pexels-photo-8728560.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "review_count": 1563,
+    "ingredients": "Blue LED (415nm): neutralizes Propionibacterium acnes. Red LED (630nm): reduces inflammation, accelerates wound healing. Medical-grade LED chips. Wireless USB-C rechargeable.",
+    "benefits": [
+      "Blue 415nm light destroys P.acnes bacteria responsible for inflammatory acne",
+      "Red 630nm reduces post-inflammatory erythema and speeds healing",
+      "Wireless and cordless \u2014 use anywhere, no wires during treatment",
+      "10 minutes daily shows measurable reduction in active breakouts by week 2",
+      "Safe for daily use on face, back, and chest"
+    ],
+    "whats_in_box": "ClearBeam Device \u00d7 1, USB-C charging cable \u00d7 1, protective pouch \u00d7 1, user manual \u00d7 1",
+    "in_stock": true,
+    "stock_count": 45,
+    "variants": [],
+    "tags": [
+      "acne",
+      "led",
+      "light therapy",
+      "devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "D2E12604-CA71-4D95-9BF2-A1E563F9752B",
+    "cjSku": "CJBJMRPF00210-White",
+    "cjVariantId": "20F3C2B7-F8D0-446B-9608-C45B671B78A0"
+  },
+  {
+    "id": "bylvra_n05",
+    "name": "RosehipRevive Facial Oil",
+    "slug": "rosehiprevive-facial-oil",
+    "category": "Skincare",
+    "price": 29.95,
+    "compare_at_price": 39.95,
+    "description": "RosehipRevive is cold-pressed from Rosa canina hips \u2014 the richest natural source of trans-retinoic acid (natural retinol precursor), linoleic acid, and Vitamin C. Linoleic acid specifically targets acne-prone skin by rebalancing sebum composition; trans-retinoic acid stimulates cell renewal; Vitamin C brightens hyperpigmentation. Absorbs completely with no greasiness.",
+    "short_description": "Cold-pressed Rosehip Oil rich in natural retinoic acid precursors + Linoleic Acid. Fades scars, rebalances acne-prone skin, and brightens hyperpigmentation.",
+    "images": [
+      "https://images.pexels.com/photos/4041388/pexels-photo-4041388.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4041395/pexels-photo-4041395.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.8,
+    "review_count": 2891,
+    "ingredients": "Rosa Canina (Rosehip) Seed Oil (cold-pressed, 100%), Vitamin E (antioxidant stabilizer).",
+    "benefits": [
+      "Cold-pressed to preserve maximum trans-retinoic acid and Vitamin C content",
+      "Linoleic acid rebalances sebum \u2014 clinically shown to reduce acne severity",
+      "Fades post-acne marks and hyperpigmentation within 6\u20138 weeks",
+      "Dry oil texture \u2014 absorbs fully with zero greasy residue",
+      "Suitable for all skin types including oily and sensitive"
+    ],
+    "whats_in_box": "RosehipRevive Facial Oil 30ml \u00d7 1, dropper cap \u00d7 1",
+    "in_stock": true,
+    "stock_count": 73,
+    "variants": [],
+    "tags": [
+      "rosehip",
+      "facial oil",
+      "brightening",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1831949978706006016",
+    "cjSku": "CJJY213016201AZ",
+    "cjVariantId": "1831949978731171840"
+  },
+  {
+    "id": "bylvra_n06",
+    "name": "PeptideEye Lift Serum",
+    "slug": "peptideeye-lift-serum",
+    "category": "Skincare",
+    "price": 31.95,
+    "compare_at_price": 43.95,
+    "description": "PeptideEye targets the three primary under-eye concerns \u2014 dark circles, puffiness, and fine lines \u2014 with a multi-active peptide and botanical complex. Haloxyl reduces hemoglobin degradation products in skin (the direct cause of dark circles). Eyeliss reduces capillary permeability to drain lymphatic fluid and reduce puffiness. Argireline relaxes the delicate orbital muscles for smoother crow's feet.",
+    "short_description": "Haloxyl + Eyeliss + Argireline \u2014 the clinical trio for dark circles, puffiness, and crow's feet. Measurable results in 4 weeks of twice-daily application.",
+    "images": [
+      "https://images.pexels.com/photos/3762882/pexels-photo-3762882.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3762883/pexels-photo-3762883.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "review_count": 1644,
+    "ingredients": "Haloxyl (2%), Eyeliss (2%), Argireline (3%), Caffeine (2%), Sodium Hyaluronate, Peptide Complex, Cucumber Extract, Vitamin K.",
+    "benefits": [
+      "Haloxyl at 2% reduces hemosiderin deposits \u2014 the biochemical cause of dark circles",
+      "Eyeliss reduces capillary fragility and drains under-eye lymphatic fluid",
+      "Argireline at 3% relaxes orbital muscle contractions forming crow's feet",
+      "Caffeine at 2% provides immediate vasoconstrictive depuffing effect",
+      "Lightweight gel texture \u2014 applies under makeup without pilling"
+    ],
+    "whats_in_box": "PeptideEye Lift Serum 15ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 82,
+    "variants": [],
+    "tags": [
+      "eye cream",
+      "peptide",
+      "dark circles",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1555448591160979456",
+    "cjSku": "CJJT153902901AZ",
+    "cjVariantId": "1555448591198728192"
+  },
+  {
+    "id": "bylvra_n07",
+    "name": "KonjacPure Cleansing Sponge",
+    "slug": "konjacpure-cleansing-sponge",
+    "category": "Skincare",
+    "price": 12.95,
+    "compare_at_price": 17.95,
+    "description": "KonjacPure is made from 100% natural konjac plant fiber \u2014 a biodegradable, sustainably harvested root vegetable. At a natural pH of 9.5, it gently exfoliates by lifting dead skin cells and debris without abrasion. The fiber structure also produces a gentle lather that deep-cleans pores. Completely plastic-free and compostable.",
+    "short_description": "100% natural konjac fiber sponge. pH 9.5 gently exfoliates, deep-cleanses pores, and lifts impurities \u2014 no microplastics, fully biodegradable and compostable.",
+    "images": [
+      "https://images.pexels.com/photos/3373737/pexels-photo-3373737.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3373738/pexels-photo-3373738.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "NEW",
+    "rating": 4.5,
+    "review_count": 3421,
+    "ingredients": "100% Amorphophallus Konjac (Konjac) Root Fiber. No synthetic binders or additives.",
+    "benefits": [
+      "Natural pH 9.5 dissolves surface dead cells without mechanical scrubbing",
+      "Konjac fiber deep-cleans pores while being gentle enough for sensitive skin",
+      "Fully biodegradable \u2014 zero microplastics, zero synthetic materials",
+      "Lasts 4\u20136 weeks with proper drying between uses",
+      "Use dry for light exfoliation or wet for gentle daily cleanse"
+    ],
+    "whats_in_box": "KonjacPure Cleansing Sponge \u00d7 1",
+    "in_stock": true,
+    "stock_count": 340,
+    "variants": [],
+    "tags": [
+      "cleanser",
+      "sponge",
+      "exfoliator",
+      "skincare",
+      "eco"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "C5FC8AA4-B78D-4766-8C3B-56641913B6F2",
+    "cjSku": "CJBJMRPF00214-Black",
+    "cjVariantId": "6B82B1DD-0A07-4A25-A555-DEF10C01694D"
+  },
+  {
+    "id": "bylvra_n08",
+    "name": "ShieldSPF Sunscreen Stick",
+    "slug": "shieldspf-sunscreen-stick",
+    "category": "Skincare",
+    "price": 18.95,
+    "compare_at_price": 24.95,
+    "description": "ShieldSPF is a broad-spectrum SPF 50+ sunscreen in a clean stick format \u2014 no white cast, no greasy texture, no reapplication fuss. Zinc Oxide provides physical UV protection while chemical filters Tinosorb S and Uvinul A Plus extend coverage across the full UVA/UVB spectrum. Antioxidant Vitamin E neutralizes free radical damage from UV exposure. Portable, mess-free, and water-resistant for 80 minutes.",
+    "short_description": "SPF 50+ broad-spectrum stick with Zinc Oxide + Tinosorb S. No white cast, no grease. Water-resistant 80 minutes. Antioxidant Vitamin E included.",
+    "images": [
+      "https://images.pexels.com/photos/3997994/pexels-photo-3997994.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3997995/pexels-photo-3997995.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "NEW",
+    "rating": 4.6,
+    "review_count": 876,
+    "ingredients": "Zinc Oxide (10%), Tinosorb S (Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, 5%), Uvinul A Plus (4%), Vitamin E, Squalane, Beeswax base.",
+    "benefits": [
+      "SPF 50+ with PA++++ rating for maximum UVA and UVB protection",
+      "Zinc Oxide physical filter \u2014 no skin sensitization, safe for sensitive skin",
+      "Tinosorb S is photostable \u2014 protection doesn't degrade in sunlight",
+      "Zero white cast \u2014 applies transparent even on medium-dark skin tones",
+      "Water-resistant for 80 minutes \u2014 reapply after towel-drying"
+    ],
+    "whats_in_box": "ShieldSPF Sunscreen Stick 15g \u00d7 1",
+    "in_stock": true,
+    "stock_count": 128,
+    "variants": [],
+    "tags": [
+      "sunscreen",
+      "spf",
+      "sun protection",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1775469650051084288",
+    "cjSku": "CJJT200266001AZ",
+    "cjVariantId": "1775469650126581760"
+  },
+  {
+    "id": "bylvra_n09",
+    "name": "ZapDot Hydrocolloid Acne Patches",
+    "slug": "zapdot-hydrocolloid-acne-patches",
+    "category": "Skincare",
+    "price": 14.95,
+    "compare_at_price": 19.95,
+    "description": "ZapDot uses medical-grade hydrocolloid technology \u2014 the same wound-healing material in clinical dressings \u2014 to absorb sebum, pus, and debris from active pimples overnight. The occlusive seal prevents picking, bacteria transfer, and inflammation while the active healing environment accelerates recovery. Invisible matte finish \u2014 wear during the day or overnight.",
+    "short_description": "Medical-grade hydrocolloid absorbs sebum and pus from active breakouts. Creates a sterile healing environment that flattens and clears pimples 2\u00d7 faster overnight.",
+    "images": [
+      "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.8,
+    "review_count": 4102,
+    "ingredients": "Hydrocolloid (Carboxymethylcellulose, Pectin). Medical-grade adhesive. BPA-free, latex-free.",
+    "benefits": [
+      "Medical-grade hydrocolloid \u2014 clinically proven wound-healing technology",
+      "Absorbs sebum and pus directly from the pimple without squeezing",
+      "Occlusive barrier blocks bacteria, dirt, and finger contact",
+      "Flattens active pimples up to 2\u00d7 faster vs. untreated",
+      "Ultra-thin and matte \u2014 invisible under makeup and in daylight"
+    ],
+    "whats_in_box": "ZapDot Hydrocolloid Patches \u00d7 36 (3 sizes in 1 pack)",
+    "in_stock": true,
+    "stock_count": 290,
+    "variants": [],
+    "tags": [
+      "acne",
+      "patches",
+      "hydrocolloid",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1833078772334481408",
+    "cjSku": "CJMB213298801AZ",
+    "cjVariantId": "1833078772363841536"
+  },
+  {
+    "id": "bylvra_n10",
+    "name": "VitaC Complete Skincare Set",
+    "slug": "vitac-complete-skincare-set",
+    "category": "Skincare",
+    "price": 44.95,
+    "compare_at_price": 62.95,
+    "description": "VitaC Complete is a 3-step Vitamin C brightening system \u2014 cleanser, serum, and moisturizer \u2014 each formulated at the optimal pH for synergistic efficacy. The cleanser preps skin at pH 5.0; the 15% L-ascorbic acid serum delivers maximal brightening at pH 3.5; the moisturizer seals in hydration and prevents oxidative degradation of the applied Vitamin C. Everything you need for a clinical brightening routine in one set.",
+    "short_description": "3-step Vitamin C system: pH-optimized cleanser + 15% L-ascorbic acid serum + protective moisturizer. A complete brightening routine engineered for synergistic results.",
+    "images": [
+      "https://images.pexels.com/photos/5069436/pexels-photo-5069436.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/5069437/pexels-photo-5069437.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "SALE",
+    "rating": 4.7,
+    "review_count": 1203,
+    "ingredients": "Step 1 Cleanser: pH 5.0, gentle surfactant base. Step 2 Serum: L-Ascorbic Acid (15%), Ferulic Acid (0.5%), Vitamin E. Step 3 Moisturizer: Sodium Hyaluronate, Ceramide NP, Squalane.",
+    "benefits": [
+      "15% L-ascorbic acid at pH 3.5 \u2014 the gold-standard brightening concentration",
+      "Ferulic Acid + Vitamin E stabilize Vitamin C and amplify antioxidant effect 8\u00d7",
+      "pH-sequenced routine ensures each product works at peak efficacy",
+      "Visibly brighter, more even skin tone within 4 weeks",
+      "Complete routine \u2014 no guesswork about what to layer with what"
+    ],
+    "whats_in_box": "Vitamin C Cleanser 100ml \u00d7 1, Vitamin C Serum 30ml \u00d7 1, Vitamin C Moisturizer 50ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 55,
+    "variants": [],
+    "tags": [
+      "vitamin c",
+      "skincare set",
+      "brightening",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2406180225531606100",
+    "cjSku": "CJMB206267301AZ",
+    "cjVariantId": "2406180225531606300"
+  },
+  {
+    "id": "bylvra_n11",
+    "name": "LumiGlow Essence Toner",
+    "slug": "lumiglow-essence-toner",
+    "category": "Skincare",
+    "price": 26.95,
+    "compare_at_price": 35.95,
+    "description": "LumiGlow is a hybrid toner-essence that bridges the gap between prep and treatment. First application delivers intense hydration via beta-glucan and polyglutamic acid \u2014 a HA alternative that holds 5,000\u00d7 its weight in water. Second application locks in radiance-boosting actives. The result is a dewy, glass-skin texture that makes every subsequent product in your routine perform better.",
+    "short_description": "Polyglutamic Acid (holds 5000\u00d7 its weight in water) + Beta-Glucan essence-toner hybrid. Delivers glass-skin radiance and primes skin for all actives.",
+    "images": [
+      "https://images.pexels.com/photos/7428101/pexels-photo-7428101.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/7428103/pexels-photo-7428103.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "NEW",
+    "rating": 4.6,
+    "review_count": 743,
+    "ingredients": "Polyglutamic Acid (2%), Beta-Glucan (1%), Sodium Hyaluronate, Niacinamide (3%), Panthenol, Glycerin, Centella Asiatica Extract.",
+    "benefits": [
+      "Polyglutamic acid holds 5,000\u00d7 its weight in water \u2014 outperforms standard HA",
+      "Beta-Glucan calms redness and reinforces the skin barrier",
+      "3% Niacinamide brightens and minimizes pores with repeated use",
+      "Watery texture layers easily \u2014 no stickiness or pilling",
+      "Apply 2\u20133 layers (7 Skin Method) for maximum dewy glass-skin effect"
+    ],
+    "whats_in_box": "LumiGlow Essence Toner 150ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 108,
+    "variants": [],
+    "tags": [
+      "toner",
+      "essence",
+      "hydration",
+      "glass skin",
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "1793186169690267648",
+    "cjSku": "CJYD204260201AZ",
+    "cjVariantId": "1793186169769959424"
+  },
+  {
+    "id": "bylvra_n12",
+    "name": "AcneOff Wireless Light Wand",
+    "slug": "acneoff-wireless-light-wand",
+    "category": "Tools & Devices",
+    "price": 42.95,
+    "compare_at_price": 58.95,
+    "description": "AcneOff is a precision spot-treatment device that delivers targeted Blue (415nm) and Red (630nm) LED therapy directly to active breakouts. Unlike full-face masks that treat everything, AcneOff concentrates energy on individual spots \u2014 ideal for cystic acne, whiteheads, and hormonal breakouts. The gentle warmth setting (38\u00b0C) opens the follicle for deeper light penetration.",
+    "short_description": "Targeted spot treatment: Blue 415nm + Red 630nm LEDs with 38\u00b0C warmth. Concentrates acne-clearing light energy on individual breakouts for precision healing.",
+    "images": [
+      "https://images.pexels.com/photos/9427924/pexels-photo-9427924.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/7755188/pexels-photo-7755188.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "NEW",
+    "rating": 4.5,
+    "review_count": 612,
+    "ingredients": "Blue LED (415nm): targets P.acnes bacteria. Red LED (630nm): reduces inflammation. Gentle heat (38\u00b0C): enhances follicular permeability. USB-C rechargeable.",
+    "benefits": [
+      "Spot-targeted delivery \u2014 concentrates light on single breakouts, not the whole face",
+      "Blue 415nm eradicates P.acnes bacteria in the targeted follicle",
+      "Red 630nm reduces inflammation and redness around active spots",
+      "38\u00b0C warmth opens the follicle for deeper light penetration",
+      "5-minute targeted session per spot \u2014 see results within 24\u201348 hours"
+    ],
+    "whats_in_box": "AcneOff Wand \u00d7 1, USB-C charging cable \u00d7 1, user manual \u00d7 1",
+    "in_stock": true,
+    "stock_count": 39,
+    "variants": [],
+    "tags": [
+      "acne",
+      "spot treatment",
+      "led",
+      "devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "D2E12604-CA71-4D95-9BF2-A1E563F9752B",
+    "cjSku": "CJBJMRPF00210-White",
+    "cjVariantId": "20F3C2B7-F8D0-446B-9608-C45B671B78A0"
   }
 ];
