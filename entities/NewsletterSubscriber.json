@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "properties": {
+    "email": {
+      "type": "string"
+    },
+    "first_name": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "discount_sent": {
+      "type": "boolean"
+    }
+  },
+  "required": [],
+  "name": "NewsletterSubscriber"
+}
