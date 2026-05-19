@@ -20,6 +20,7 @@ import ReturnsPolicy from './pages/ReturnsPolicy';
 import TrackOrder from './pages/TrackOrder';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import TermsOfService from './pages/TermsOfService';
+import CJImporter from './pages/CJImporter';
 
 function Layout({ children }) {
   return (
@@ -66,6 +67,7 @@ export default function App() {
 
           {/* Catch-all */}
           <Route path="*" element={<Layout><NotFound /></Layout>} />
+          <Route path="/admin/import" element={<CJImporter />} />
         </Routes>
       </CartProvider>
     </BrowserRouter>
