@@ -33,7 +33,7 @@ export default function ReturnsPolicy() {
           {
             icon: <AlertCircle size={20}/>,
             title: 'Damaged or Defective Items',
-            body: 'If your item arrived damaged, defective, or incorrect, please contact us within 7 days of delivery at hello@lumara.com with:\n— Your order number\n— A photo of the damaged item and packaging\n\nWe will arrange a replacement or full refund at no cost to you, including return shipping.'
+            body: 'If your item arrived damaged, defective, or incorrect, please contact us within 7 days of delivery at hello@bylvra.shop with:\n— Your order number\n— A photo of the damaged item and packaging\n\nWe will arrange a replacement or full refund at no cost to you, including return shipping.'
           },
           {
             icon: <Clock size={20}/>,
@@ -43,12 +43,12 @@ export default function ReturnsPolicy() {
           {
             icon: <Package size={20}/>,
             title: 'How to Initiate a Return',
-            body: 'Step 1: Email hello@lumara.com with subject "Return Request — [Order Number]"\nStep 2: Include your order number, the item(s) you wish to return, and reason\nStep 3: We\'ll reply within 24 hours with your return shipping label\nStep 4: Pack the item securely and drop it at your nearest carrier location\nStep 5: Receive your refund within 5–10 business days of us receiving the item'
+            body: 'Step 1: Email hello@bylvra.shop with subject "Return Request — [Order Number]"\nStep 2: Include your order number, the item(s) you wish to return, and reason\nStep 3: We\'ll reply within 24 hours with your return shipping label\nStep 4: Pack the item securely and drop it at your nearest carrier location\nStep 5: Receive your refund within 5–10 business days of us receiving the item'
           },
           {
             icon: <Globe size={20}/>,
             title: 'Return Shipping Costs',
-            body: 'For standard returns (change of mind, size/fit issues), return shipping costs are the responsibility of the customer. We provide a pre-paid label for your convenience — the cost is deducted from your refund.\n\nFor damaged, defective, or incorrectly shipped items, return shipping is fully covered by Lumara at no cost to you.'
+            body: 'For standard returns (change of mind, size/fit issues), return shipping costs are the responsibility of the customer. We provide a pre-paid label for your convenience — the cost is deducted from your refund.\n\nFor damaged, defective, or incorrectly shipped items, return shipping is fully covered by BYLVRA at no cost to you.'
           },
         ].map((s, i) => (
           <div key={i} style={{ marginBottom: '40px' }}>
@@ -66,7 +66,7 @@ export default function ReturnsPolicy() {
         <div style={{ background: '#1A1A1A', borderRadius: '12px', padding: '32px', textAlign: 'center' }}>
           <p style={{ color: '#B8E0D2', fontSize: '12px', fontWeight: '700', letterSpacing: '1.5px', textTransform: 'uppercase', marginBottom: '12px' }}>Need to Return Something?</p>
           <p style={{ color: '#fff', fontSize: '18px', fontWeight: '700', marginBottom: '8px' }}>We're here to help.</p>
-          <p style={{ color: '#aaa', marginBottom: '24px', fontSize: '14px' }}>Email us at hello@lumara.com and we'll have you sorted within 24 hours.</p>
+          <p style={{ color: '#aaa', marginBottom: '24px', fontSize: '14px' }}>Email us at hello@bylvra.shop and we'll have you sorted within 24 hours.</p>
           <a href="/pages/contact" style={{ display: 'inline-block', background: '#B8E0D2', color: '#1A1A1A', textDecoration: 'none', padding: '14px 32px', borderRadius: '6px', fontSize: '13px', fontWeight: '700', letterSpacing: '1px', textTransform: 'uppercase' }}>Contact Support</a>
         </div>
       </div>

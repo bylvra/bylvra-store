@@ -18,7 +18,7 @@ export default function TermsOfService() {
       </div>
 
       <div style={{ maxWidth: '720px', margin: '0 auto', padding: '64px 24px 96px' }}>
-        <P>These Terms of Service ("Terms") govern your access to and use of the Lumara Beauty website ("Site") and the purchase of products from Lumara Beauty ("Lumara," "we," "our," or "us"). By accessing our Site or placing an order, you agree to be bound by these Terms.</P>
+        <P>These Terms of Service ("Terms") govern your access to and use of the BYLVRA Beauty website ("Site") and the purchase of products from BYLVRA Beauty ("Lumara," "we," "our," or "us"). By accessing our Site or placing an order, you agree to be bound by these Terms.</P>
 
         <Section title="1. Use of the Website">
           <P>You must be at least 18 years of age to use this Site and place orders. By using this Site, you represent and warrant that you are 18 years of age or older. You agree to use the Site only for lawful purposes and in accordance with these Terms. You may not use the Site in any way that violates applicable laws or regulations.</P>
@@ -40,7 +40,7 @@ export default function TermsOfService() {
         </Section>
 
         <Section title="5. Shipping and Delivery">
-          <P>Shipping timelines are estimates and are not guaranteed. Lumara is not liable for delays caused by carriers, customs, natural disasters, or other circumstances beyond our control. Risk of loss and title for items passes to you upon delivery to the carrier.</P>
+          <P>Shipping timelines are estimates and are not guaranteed. BYLVRA is not liable for delays caused by carriers, customs, natural disasters, or other circumstances beyond our control. Risk of loss and title for items passes to you upon delivery to the carrier.</P>
         </Section>
 
         <Section title="6. Returns and Refunds">
@@ -48,11 +48,11 @@ export default function TermsOfService() {
         </Section>
 
         <Section title="7. Intellectual Property">
-          <P>All content on this Site — including text, images, logos, product descriptions, and design — is the property of Lumara Beauty and is protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or create derivative works from any Site content without our express written permission.</P>
+          <P>All content on this Site — including text, images, logos, product descriptions, and design — is the property of BYLVRA Beauty and is protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or create derivative works from any Site content without our express written permission.</P>
         </Section>
 
         <Section title="8. Limitation of Liability">
-          <P>To the fullest extent permitted by law, Lumara Beauty shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our Site or products, even if we have been advised of the possibility of such damages.</P>
+          <P>To the fullest extent permitted by law, BYLVRA Beauty shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our Site or products, even if we have been advised of the possibility of such damages.</P>
           <P>Our total liability to you for any claim arising from the use of our Site or products shall not exceed the amount you paid for the relevant product or service.</P>
         </Section>
 
@@ -73,7 +73,7 @@ export default function TermsOfService() {
         </Section>
 
         <Section title="13. Contact">
-          <P>For questions about these Terms, please contact us at:<br/><strong>Email:</strong> legal@lumara.com<br/><strong>General support:</strong> hello@lumara.com</P>
+          <P>For questions about these Terms, please contact us at:<br/><strong>Email:</strong> legal@bylvra.shop<br/><strong>General support:</strong> hello@bylvra.shop</P>
         </Section>
       </div>
     </div>

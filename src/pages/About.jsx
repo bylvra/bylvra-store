@@ -9,7 +9,7 @@ export default function About() {
       <div style={{ position: 'relative', height: '480px', overflow: 'hidden' }}>
         <img
           src="https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=1800&fit=crop"
-          alt="About Lumara"
+          alt="About BYLVRA"
           style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center 25%' }}
         />
         <div style={{ position: 'absolute', inset: 0, background: 'rgba(26,26,26,0.5)' }} />
@@ -19,7 +19,7 @@ export default function About() {
             Built on Science.<br />Driven by Results.
           </h1>
           <p style={{ color: 'rgba(255,255,255,0.8)', fontSize: '18px', maxWidth: '480px' }}>
-            We built Lumara because we were frustrated with skincare that promised everything and delivered nothing.
+            We built BYLVRA because we were frustrated with skincare that promised everything and delivered nothing.
           </p>
         </div>
       </div>
@@ -27,15 +27,15 @@ export default function About() {
       {/* Mission Section - 2 column split */}
       <section style={{ maxWidth: '1280px', margin: '0 auto', padding: '96px 24px', display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '80px', alignItems: 'center' }} className="about-grid">
         <div>
-          <p style={{ fontSize: '11px', fontWeight: '700', letterSpacing: '3px', textTransform: 'uppercase', color: '#B8E0D2', marginBottom: '16px' }}>The Lumara Mission</p>
+          <p style={{ fontSize: '11px', fontWeight: '700', letterSpacing: '3px', textTransform: 'uppercase', color: '#B8E0D2', marginBottom: '16px' }}>The BYLVRA Mission</p>
           <h2 style={{ fontSize: 'clamp(28px, 3vw, 42px)', fontWeight: '800', color: '#1A1A1A', letterSpacing: '-1px', marginBottom: '24px', lineHeight: 1.15 }}>
             Skincare shouldn't be a guessing game.
           </h2>
           <p style={{ fontSize: '16px', color: '#555', lineHeight: 1.8, marginBottom: '20px' }}>
-            We founded Lumara in 2023 after years of watching people spend thousands on products with no clinical evidence behind them — flashy packaging, vague "natural" claims, and ingredients so under-dosed they couldn't possibly work.
+            We founded BYLVRA in 2023 after years of watching people spend thousands on products with no clinical evidence behind them — flashy packaging, vague "natural" claims, and ingredients so under-dosed they couldn't possibly work.
           </p>
           <p style={{ fontSize: '16px', color: '#555', lineHeight: 1.8, marginBottom: '20px' }}>
-            Every Lumara product is formulated around one principle: does the active ingredient work at this concentration, at this pH, in this delivery format? If the published literature doesn't support it, we don't make the claim. Full stop.
+            Every BYLVRA product is formulated around one principle: does the active ingredient work at this concentration, at this pH, in this delivery format? If the published literature doesn't support it, we don't make the claim. Full stop.
           </p>
           <p style={{ fontSize: '16px', color: '#555', lineHeight: 1.8 }}>
             We source clinical-grade actives — niacinamide at 10%, L-ascorbic acid at 15%, retinol in time-release encapsulation — and pair them with the latest at-home devices that replicate what you'd find in a dermatologist's treatment room.
@@ -44,7 +44,7 @@ export default function About() {
         <div style={{ borderRadius: '16px', overflow: 'hidden', aspectRatio: '4/5' }}>
           <img
             src="https://images.unsplash.com/photo-1556228578-8e89ef1b2120?w=800&fit=crop"
-            alt="Lumara Lab"
+            alt="BYLVRA Lab"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div>

@@ -38,7 +38,7 @@ export default async function handler(req: Request) {
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:580px;margin:0 auto;background:#FFFFFF;border-radius:12px;overflow:hidden;">
 
 <tr><td style="background:#1A1A1A;padding:32px 40px;text-align:center;">
-  <span style="font-size:24px;font-weight:800;letter-spacing:4px;color:#FFFFFF;">LUMARA</span>
+  <span style="font-size:24px;font-weight:800;letter-spacing:4px;color:#FFFFFF;">BYLVRA</span>
   <p style="color:#B8E0D2;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;margin:8px 0 0;">Order Confirmed</p>
 </td></tr>
 
@@ -91,8 +91,8 @@ export default async function handler(req: Request) {
 </td></tr>
 
 <tr><td style="padding:28px 40px;text-align:center;border-top:1px solid #F0F0F0;">
-  <p style="font-size:12px;color:#AAA;margin:0 0 6px;">Questions? Contact us at support@lumara.com</p>
-  <p style="font-size:11px;color:#CCC;margin:0;">© 2026 Lumara Beauty. All rights reserved.</p>
+  <p style="font-size:12px;color:#AAA;margin:0 0 6px;">Questions? Contact us at support@bylvra.shop</p>
+  <p style="font-size:11px;color:#CCC;margin:0;">© 2026 BYLVRA Beauty. All rights reserved.</p>
 </td></tr>
 
 </table>
@@ -100,8 +100,8 @@ export default async function handler(req: Request) {
 </table>
 </body></html>`;
 
-  const subject = `Order Confirmed — ${orderNumber} | LUMARA`;
-  const mime = [`From: LUMARA Beauty <me>`, `To: ${customerEmail}`, `Subject: ${subject}`, `MIME-Version: 1.0`, `Content-Type: text/html; charset=UTF-8`, ``, html].join("\r\n");
+  const subject = `Order Confirmed — ${orderNumber} | BYLVRA`;
+  const mime = [`From: BYLVRA Beauty <me>`, `To: ${customerEmail}`, `Subject: ${subject}`, `MIME-Version: 1.0`, `Content-Type: text/html; charset=UTF-8`, ``, html].join("\r\n");
   const encoded = btoa(unescape(encodeURIComponent(mime))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
 
   const gmailRes = await fetch("https://gmail.googleapis.com/gmail/v1/users/me/messages/send", {

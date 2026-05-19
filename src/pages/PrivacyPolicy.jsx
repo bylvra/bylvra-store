@@ -19,7 +19,7 @@ export default function PrivacyPolicy() {
       </div>
 
       <div style={{ maxWidth: '720px', margin: '0 auto', padding: '64px 24px 96px' }}>
-        <P>At Lumara Beauty ("Lumara," "we," "our," or "us"), we are committed to protecting your personal data and your right to privacy. This Privacy Policy explains what information we collect, how we use it, and what rights you have regarding your data.</P>
+        <P>At BYLVRA Beauty ("Lumara," "we," "our," or "us"), we are committed to protecting your personal data and your right to privacy. This Privacy Policy explains what information we collect, how we use it, and what rights you have regarding your data.</P>
         <P>By using our website and purchasing our products, you agree to the collection and use of information in accordance with this policy.</P>
 
         <Section title="Information We Collect">
@@ -54,7 +54,7 @@ export default function PrivacyPolicy() {
 
         <Section title="Your Rights">
           <P>Depending on your jurisdiction, you may have the following rights regarding your personal data: the right to access data we hold about you; the right to correct inaccurate data; the right to deletion ("right to be forgotten"); the right to restrict or object to processing; the right to data portability; the right to withdraw consent at any time.</P>
-          <P>To exercise any of these rights, email us at privacy@lumara.com. We will respond within 30 days.</P>
+          <P>To exercise any of these rights, email us at privacy@bylvra.shop. We will respond within 30 days.</P>
         </Section>
 
         <Section title="Data Retention">
@@ -71,8 +71,8 @@ export default function PrivacyPolicy() {
 
         <Section title="Contact Us">
           <P>For any privacy-related questions or concerns, contact us at:<br/>
-          <strong>Email:</strong> privacy@lumara.com<br/>
-          <strong>General support:</strong> hello@lumara.com</P>
+          <strong>Email:</strong> privacy@bylvra.shop<br/>
+          <strong>General support:</strong> hello@bylvra.shop</P>
         </Section>
       </div>
     </div>

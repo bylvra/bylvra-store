@@ -37,7 +37,7 @@ const CATEGORY_META = {
   },
   'all': {
     title: 'All Products',
-    subtitle: 'Every Lumara product — clinically formulated, results-driven.',
+    subtitle: 'Every BYLVRA product — clinically formulated, results-driven.',
     img: 'https://images.unsplash.com/photo-1556228578-8e89ef1b2120?w=1600&h=500&fit=crop',
     filter: null
   }

@@ -179,7 +179,7 @@ export default function Home() {
       <section style={{ background: '#FAFAFA', padding: '80px 24px' }}>
         <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: '56px' }}>
-            <h2 style={{ fontSize: 'clamp(28px, 3vw, 44px)', fontWeight: '800', color: '#1A1A1A', letterSpacing: '-1px' }}>Why Choose Lumara</h2>
+            <h2 style={{ fontSize: 'clamp(28px, 3vw, 44px)', fontWeight: '800', color: '#1A1A1A', letterSpacing: '-1px' }}>Why Choose BYLVRA</h2>
           </div>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '32px' }}>
             {TRUST_BADGES.map((badge, i) => (
@@ -213,7 +213,7 @@ export default function Home() {
               Formulated for<br />real skin. Real results.
             </h2>
             <p style={{ color: 'rgba(255,255,255,0.8)', fontSize: '16px', marginBottom: '36px', lineHeight: 1.7 }}>
-              Every product in the Lumara range is developed around clinical-grade actives at proven concentrations.
+              Every product in the BYLVRA range is developed around clinical-grade actives at proven concentrations.
             </p>
             <Link to="/pages/about" style={{
               display: 'inline-flex', alignItems: 'center', gap: '8px',
@@ -271,7 +271,7 @@ export default function Home() {
       {/* NEWSLETTER */}
       <section style={{ background: '#1A1A1A', padding: '80px 24px' }}>
         <div style={{ maxWidth: '560px', margin: '0 auto', textAlign: 'center' }}>
-          <p style={{ fontSize: '11px', fontWeight: '700', letterSpacing: '3px', textTransform: 'uppercase', color: '#B8E0D2', marginBottom: '16px' }}>Lumara Insiders</p>
+          <p style={{ fontSize: '11px', fontWeight: '700', letterSpacing: '3px', textTransform: 'uppercase', color: '#B8E0D2', marginBottom: '16px' }}>BYLVRA Insiders</p>
           <h2 style={{ fontSize: 'clamp(28px, 4vw, 44px)', fontWeight: '800', color: '#fff', letterSpacing: '-1px', marginBottom: '16px' }}>
             Get 10% Off Your First Order
           </h2>

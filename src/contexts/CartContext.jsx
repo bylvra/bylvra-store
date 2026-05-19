@@ -7,12 +7,12 @@ export function CartProvider({ children }) {
   const [cartOpen, setCartOpen] = useState(false);
 
   useEffect(() => {
-    const saved = localStorage.getItem('lumara_cart');
+    const saved = localStorage.getItem('bylvra_cart');
     if (saved) setCartItems(JSON.parse(saved));
   }, []);
 
   useEffect(() => {
-    localStorage.setItem('lumara_cart', JSON.stringify(cartItems));
+    localStorage.setItem('bylvra_cart', JSON.stringify(cartItems));
   }, [cartItems]);
 
   const addToCart = (product, quantity = 1) => {

@@ -69,9 +69,9 @@ export default function Contact() {
         <div>
           <h3 style={{ fontSize: '20px', fontWeight: '700', color: '#1A1A1A', marginBottom: '32px' }}>Support Information</h3>
           {[
-            { icon: <Mail size={20}/>, title: 'Email Support', info: 'hello@lumara.com', sub: 'We reply within 24 hours, 7 days a week.' },
+            { icon: <Mail size={20}/>, title: 'Email Support', info: 'hello@bylvra.shop', sub: 'We reply within 24 hours, 7 days a week.' },
             { icon: <Clock size={20}/>, title: 'Support Hours', info: 'Mon–Sun, 9AM–8PM PST', sub: 'Including weekends and holidays.' },
-            { icon: <MessageCircle size={20}/>, title: 'Order Inquiries', info: 'orders@lumara.com', sub: 'For order status, tracking, or modifications.' },
+            { icon: <MessageCircle size={20}/>, title: 'Order Inquiries', info: 'orders@bylvra.shop', sub: 'For order status, tracking, or modifications.' },
           ].map((item, i) => (
             <div key={i} style={{ display: 'flex', gap: '20px', marginBottom: '24px', padding: '24px', background: '#FAFAFA', borderRadius: '12px', border: '1px solid #F0F0F0' }}>
               <div style={{ width: '44px', height: '44px', background: '#F0FAF5', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#2D9E6B', flexShrink: 0 }}>{item.icon}</div>
@@ -85,7 +85,7 @@ export default function Contact() {
           <div style={{ background: '#1A1A1A', borderRadius: '12px', padding: '28px' }}>
             <p style={{ color: '#B8E0D2', fontSize: '12px', fontWeight: '600', letterSpacing: '1px', textTransform: 'uppercase', marginBottom: '10px' }}>30-Day Guarantee</p>
             <p style={{ color: '#fff', fontSize: '15px', fontWeight: '600', marginBottom: '8px' }}>Not satisfied? We'll make it right.</p>
-            <p style={{ color: '#aaa', fontSize: '13px', lineHeight: 1.7 }}>Every Lumara product comes with a 30-day satisfaction guarantee. If you're not seeing results, reach out — no hoops to jump through.</p>
+            <p style={{ color: '#aaa', fontSize: '13px', lineHeight: 1.7 }}>Every BYLVRA product comes with a 30-day satisfaction guarantee. If you're not seeing results, reach out — no hoops to jump through.</p>
           </div>
         </div>
       </div>

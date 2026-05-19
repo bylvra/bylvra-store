@@ -9,7 +9,7 @@ export default function Footer() {
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '48px', marginBottom: '48px' }}>
           {/* Brand */}
           <div>
-            <h3 style={{ fontSize: '20px', fontWeight: '700', letterSpacing: '3px', textTransform: 'uppercase', marginBottom: '16px' }}>LUMARA</h3>
+            <h3 style={{ fontSize: '20px', fontWeight: '700', letterSpacing: '3px', textTransform: 'uppercase', marginBottom: '16px' }}>BYLVRA</h3>
             <p style={{ color: '#aaa', fontSize: '14px', lineHeight: 1.7, marginBottom: '24px' }}>
               Clinically formulated skincare and beauty tools. Visible results backed by science.
             </p>
@@ -73,7 +73,7 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div style={{ borderTop: '1px solid #333', paddingTop: '24px', display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '12px' }}>
-          <p style={{ color: '#666', fontSize: '12px' }}>© 2025 Lumara Beauty. All rights reserved.</p>
+          <p style={{ color: '#666', fontSize: '12px' }}>© 2025 BYLVRA Beauty. All rights reserved.</p>
           <p style={{ color: '#666', fontSize: '12px' }}>Crafted with clinical precision. Every formula, every device.</p>
         </div>
       </div>

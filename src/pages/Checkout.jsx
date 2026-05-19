@@ -112,7 +112,7 @@ export default function Checkout() {
       {/* Header */}
       <div style={{ background: '#fff', borderBottom: '1px solid #F0F0F0', padding: '20px 24px' }}>
         <div style={{ maxWidth: '1100px', margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <Link to="/" style={{ textDecoration: 'none', fontSize: '20px', fontWeight: '800', letterSpacing: '2px', color: '#1A1A1A' }}>LUMARA</Link>
+          <Link to="/" style={{ textDecoration: 'none', fontSize: '20px', fontWeight: '800', letterSpacing: '2px', color: '#1A1A1A' }}>BYLVRA</Link>
           <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '12px', color: '#888' }}>
             <Lock size={12} /> Secure Checkout
           </div>

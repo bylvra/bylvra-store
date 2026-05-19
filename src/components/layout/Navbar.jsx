@@ -55,7 +55,7 @@ export default function Navbar() {
             <span style={{
               fontSize: '22px', fontWeight: '700', letterSpacing: '3px',
               color: '#1A1A1A', textTransform: 'uppercase', fontFamily: 'Inter, sans-serif'
-            }}>LUMARA</span>
+            }}>BYLVRA</span>
           </Link>
 
           {/* Desktop Nav Links */}
