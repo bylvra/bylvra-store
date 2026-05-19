@@ -1,0 +1,1 @@
+{"functions":[{"bundler":"zisi","buildData":{"runtimeAPIVersion":1},"mainFile":"/app/netlify/functions/cj.js","name":"cj","priority":10,"runtimeVersion":"nodejs20.x","path":"/app/.netlify/functions/cj.zip","runtime":"js"}],"system":{"arch":"x64","platform":"linux"},"timestamp":1779211894645,"version":1}

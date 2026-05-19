@@ -35,7 +35,7 @@ export default function CJImporter() {
     try {
       // Use CJ API via proxy — falls back to direct fetch
       const res = await fetch(
-        `https://app.base44.app/functions/cjProxy?action=search&keyword=${encodeURIComponent(q)}&size=20`
+        `/.netlify/functions/cj?action=search&keyword=${encodeURIComponent(q)}&size=20`
       );
       const data = await res.json();
       if (data.error) throw new Error(data.error);
@@ -51,7 +51,7 @@ export default function CJImporter() {
     setImporting(prev => ({ ...prev, [p.cjId]: true }));
     try {
       const res = await fetch(
-        `https://app.base44.app/functions/cjProxy?action=import`,
+        `/.netlify/functions/cj?action=import`,
         {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -145,7 +145,7 @@ export default function CJImporter() {
               <input
                 value={keyword}
                 onChange={e => setKeyword(e.target.value)}
-                onKeyDown={e => e.key === 'Enter' && searchCJ()}
+                onKeyDown={e => e.key === 'Enter' && searchCJ(keyword)}
                 placeholder="Search CJ catalog… e.g. vitamin c serum, jade roller, hair mask"
                 style={{
                   width: '100%', padding: '12px 12px 12px 44px', border: '1.5px solid #E5E5E5',
@@ -157,7 +157,7 @@ export default function CJImporter() {
               />
             </div>
             <button
-              onClick={() => searchCJ()}
+              onClick={() => searchCJ(keyword)}
               disabled={loading}
               style={{
                 background: '#1A1A1A', color: '#fff', border: 'none', borderRadius: 10,
