@@ -2,6 +2,20 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Instagram, Twitter, Youtube } from 'lucide-react';
 
+// TikTok SVG icon (not in lucide-react)
+const TikTokIcon = () => (
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1V9.01a6.33 6.33 0 0 0-.79-.05 6.34 6.34 0 0 0-6.34 6.34 6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.33-6.34V8.69a8.18 8.18 0 0 0 4.78 1.52V6.75a4.85 4.85 0 0 1-1.01-.06z"/>
+  </svg>
+);
+
+const socialLinks = [
+  { icon: <TikTokIcon />, href: 'https://www.tiktok.com/@bylvra' },
+  { icon: <Instagram size={18} />, href: 'https://www.instagram.com/bylvra' },
+  { icon: <Twitter size={18} />, href: 'https://twitter.com/bylvra' },
+  { icon: <Youtube size={18} />, href: 'https://youtube.com/@bylvra' },
+];
+
 export default function Footer() {
   return (
     <footer style={{ background: '#1A1A1A', color: '#fff', paddingTop: '64px' }}>
@@ -14,8 +28,8 @@ export default function Footer() {
               Clinically formulated skincare and beauty tools. Visible results backed by science.
             </p>
             <div style={{ display: 'flex', gap: '16px' }}>
-              {[<Instagram size={18} />, <Twitter size={18} />, <Youtube size={18} />].map((icon, i) => (
-                <a key={i} href="#" style={{
+              {socialLinks.map(({ icon, href }, i) => (
+                <a key={i} href={href} target="_blank" rel="noopener noreferrer" style={{
                   color: '#aaa', display: 'flex', alignItems: 'center',
                   transition: 'color 0.2s',
                 }}
@@ -73,7 +87,7 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div style={{ borderTop: '1px solid #333', paddingTop: '24px', display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '12px' }}>
-          <p style={{ color: '#666', fontSize: '12px' }}>© 2025 BYLVRA Beauty. All rights reserved.</p>
+          <p style={{ color: '#666', fontSize: '12px' }}>© 2026 BYLVRA Beauty. All rights reserved.</p>
           <p style={{ color: '#666', fontSize: '12px' }}>Crafted with clinical precision. Every formula, every device.</p>
         </div>
       </div>

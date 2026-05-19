@@ -65,9 +65,11 @@ export default function App() {
           <Route path="/pages/privacy" element={<Layout><PrivacyPolicy /></Layout>} />
           <Route path="/pages/terms" element={<Layout><TermsOfService /></Layout>} />
 
+          {/* Admin */}
+          <Route path="/admin/import" element={<CJImporter />} />
+
           {/* Catch-all */}
           <Route path="*" element={<Layout><NotFound /></Layout>} />
-          <Route path="/admin/import" element={<CJImporter />} />
         </Routes>
       </CartProvider>
     </BrowserRouter>
