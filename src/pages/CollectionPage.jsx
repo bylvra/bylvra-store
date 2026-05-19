@@ -59,7 +59,7 @@ export default function CollectionPage() {
   const [sortBy, setSortBy] = useState('featured');
 
   useEffect(() => {
-    Product.list().then(data => {
+    Product.list({ limit: 200 }).then(data => {
       let filtered = meta.filter ? data.filter(p => p.category === meta.filter) : data;
       setProducts(filtered);
       setLoading(false);

@@ -32,7 +32,7 @@ export default function Home() {
   const { addToCart } = useCart();
 
   useEffect(() => {
-    Product.list()
+    Product.list({ limit: 200 })
       .then(data => { setProducts(data); setLoading(false); })
       .catch(() => setLoading(false));
   }, []);
