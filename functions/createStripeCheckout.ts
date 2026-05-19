@@ -1,14 +1,17 @@
 Deno.serve(async (req) => {
   try {
-    const stripeKey = Deno.env.get("STRIPE_SECRET_KEY");
+    const body = await req.json().catch(() => ({}));
+    const { items, customerEmail, customerName, orderNumber, test: isTest } = body;
+
+    const stripeKey = isTest
+      ? Deno.env.get("STRIPE_TEST_SECRET_KEY")
+      : Deno.env.get("STRIPE_SECRET_KEY");
+
     if (!stripeKey) {
       return Response.json({ error: "Stripe not configured" }, { status: 500 });
     }
 
-    const body = await req.json().catch(() => ({}));
-    const { items, customerEmail, customerName, orderNumber } = body;
     const safeOrder = String(orderNumber ?? "BL000000");
-
     const allItems = Array.isArray(items) ? [...items] : [];
     const subtotal = allItems.reduce((s: number, i: any) => s + Number(i.price) * (Number(i.quantity) || 1), 0);
     if (subtotal < 50) allItems.push({ name: "Standard Shipping", price: 6.99, quantity: 1 });
