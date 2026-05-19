@@ -2,7 +2,13 @@ import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useCart } from '../contexts/CartContext';
 import { Order } from '../api/entities';
-import { Shield, Lock, ChevronRight } from 'lucide-react';
+import { Shield, Lock, ChevronRight, Tag, Truck, RotateCcw } from 'lucide-react';
+
+const DISCOUNT_CODES = {
+  'BYLVRA10': 0.10,
+  'WELCOME15': 0.15,
+  'BEAUTY20': 0.20,
+};
 
 const InputField = ({ label, ...props }) => (
   <div style={{ marginBottom: '16px' }}>
@@ -21,10 +27,7 @@ const InputField = ({ label, ...props }) => (
   </div>
 );
 
-// ─── Stripe checkout helper ──────────────────────────────────────────────────
-// When STRIPE_SECRET_KEY is set in your backend, this redirects to Stripe's
-// hosted checkout. Until then, it saves the order locally and redirects.
-async function redirectToStripe({ cartItems, email, name, orderNumber }) {
+async function redirectToStripe({ cartItems, email, name, orderNumber, shippingAddress }) {
   try {
     const { base44 } = await import('../api/base44Client.js');
     const res = await base44.functions.createStripeCheckout({
@@ -32,13 +35,14 @@ async function redirectToStripe({ cartItems, email, name, orderNumber }) {
       customerEmail: email,
       customerName: name,
       orderNumber,
+      shippingAddress,
     });
     if (res?.url) {
       window.location.href = res.url;
       return true;
     }
   } catch (e) {
-    // Stripe not configured yet — fall through to local order
+    // fall through
   }
   return false;
 }
@@ -48,51 +52,82 @@ export default function Checkout() {
   const navigate = useNavigate();
   const [step, setStep] = useState(1);
   const [submitting, setSubmitting] = useState(false);
+  const [discountCode, setDiscountCode] = useState('');
+  const [appliedDiscount, setAppliedDiscount] = useState(null);
+  const [discountError, setDiscountError] = useState('');
   const [form, setForm] = useState({
     firstName: '', lastName: '', email: '', phone: '',
     address: '', apartment: '', city: '', state: '', zip: '', country: 'United States',
-    cardNumber: '', expiry: '', cvv: '', cardName: '',
   });
 
   const shipping = cartSubtotal >= 50 ? 0 : 6.99;
-  const tax = cartSubtotal * 0.08;
-  const total = cartSubtotal + shipping + tax;
+  const discountAmount = appliedDiscount ? cartSubtotal * appliedDiscount.rate : 0;
+  const tax = (cartSubtotal - discountAmount) * 0.08;
+  const total = cartSubtotal - discountAmount + shipping + tax;
   const update = (field, value) => setForm(prev => ({ ...prev, [field]: value }));
+
+  const applyDiscount = () => {
+    const rate = DISCOUNT_CODES[discountCode.toUpperCase()];
+    if (rate) {
+      setAppliedDiscount({ code: discountCode.toUpperCase(), rate });
+      setDiscountError('');
+    } else {
+      setDiscountError('Invalid discount code.');
+    }
+  };
 
   const handlePlaceOrder = async () => {
     setSubmitting(true);
     const orderNum = 'BL' + Date.now().toString().slice(-6);
+    const shippingAddress = {
+      name: `${form.firstName} ${form.lastName}`,
+      line1: form.address,
+      line2: form.apartment,
+      city: form.city,
+      state: form.state,
+      zip: form.zip,
+      country: form.country,
+      countryCode: 'US',
+      phone: form.phone,
+    };
 
     try {
-      // Save order record first
       await Order.create({
         order_number: orderNum,
         customer_email: form.email,
         customer_name: `${form.firstName} ${form.lastName}`,
         customer_phone: form.phone,
-        shipping_address: { address: form.address, apartment: form.apartment, city: form.city, state: form.state, zip: form.zip, country: form.country },
-        items: cartItems.map(i => ({ id: i.id, name: i.name, price: i.price, quantity: i.quantity })),
+        shipping_address: shippingAddress,
+        items: cartItems.map(i => ({
+          id: i.id,
+          name: i.name,
+          price: i.price,
+          quantity: i.quantity,
+          cjSku: i.cjSku || null,
+          cjProductId: i.cjProductId || null,
+          images: i.images,
+        })),
         subtotal: cartSubtotal,
         shipping_cost: shipping,
+        discount_amount: discountAmount,
+        discount_code: appliedDiscount?.code || null,
         total,
         status: 'pending',
         payment_status: 'pending',
       });
 
-      // Attempt Stripe redirect
       const stripeRedirected = await redirectToStripe({
         cartItems,
         email: form.email,
         name: `${form.firstName} ${form.lastName}`,
         orderNumber: orderNum,
+        shippingAddress,
       });
 
       if (!stripeRedirected) {
-        // Stripe not configured — proceed to confirmation
         clearCart();
         navigate(`/order-confirmation?order=${orderNum}`);
       }
-      // If Stripe redirected, user leaves the page — cart cleared on return
     } catch (err) {
       clearCart();
       navigate(`/order-confirmation?order=${orderNum}`);
@@ -102,7 +137,7 @@ export default function Checkout() {
 
   if (cartItems.length === 0) return (
     <div style={{ textAlign: 'center', padding: '80px 24px', fontFamily: 'Inter, sans-serif' }}>
-      <h2 style={{ marginBottom: '16px' }}>Your cart is empty</h2>
+      <h2 style={{ marginBottom: '16px', fontWeight: '800' }}>Your cart is empty</h2>
       <Link to="/" style={{ color: '#1A1A1A', fontWeight: '700' }}>Continue Shopping →</Link>
     </div>
   );
@@ -122,9 +157,9 @@ export default function Checkout() {
       <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '40px 24px', display: 'grid', gridTemplateColumns: '1.2fr 1fr', gap: '40px', alignItems: 'start' }} className="checkout-grid">
         {/* Left: form */}
         <div>
-          {/* Step indicators */}
+          {/* Steps */}
           <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '32px' }}>
-            {['Contact & Shipping', 'Payment'].map((s, i) => (
+            {['Contact & Shipping', 'Review & Pay'].map((s, i) => (
               <React.Fragment key={i}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                   <div style={{ width: '28px', height: '28px', borderRadius: '50%', background: step >= i + 1 ? '#1A1A1A' : '#E0E0E0', color: step >= i + 1 ? '#fff' : '#888', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '12px', fontWeight: '700' }}>{i + 1}</div>
@@ -154,97 +189,144 @@ export default function Checkout() {
                 <div style={{ display: 'grid', gridTemplateColumns: '2fr 1fr 1fr', gap: '0 16px' }}>
                   <InputField label="City" value={form.city} onChange={e => update('city', e.target.value)} required />
                   <InputField label="State" value={form.state} onChange={e => update('state', e.target.value)} required />
-                  <InputField label="ZIP Code" value={form.zip} onChange={e => update('zip', e.target.value)} required />
+                  <InputField label="ZIP" value={form.zip} onChange={e => update('zip', e.target.value)} required />
                 </div>
                 <InputField label="Country" value={form.country} onChange={e => update('country', e.target.value)} required />
               </div>
 
               <button
                 onClick={() => setStep(2)}
-                disabled={!form.firstName || !form.email || !form.address}
+                disabled={!form.firstName || !form.email || !form.address || !form.city || !form.zip}
                 style={{ width: '100%', background: '#1A1A1A', color: '#fff', border: 'none', padding: '17px', borderRadius: '6px', cursor: 'pointer', fontSize: '14px', fontWeight: '700', letterSpacing: '1px', textTransform: 'uppercase', opacity: (!form.firstName || !form.email || !form.address) ? 0.5 : 1 }}
-              >Continue to Payment</button>
+              >Continue to Review →</button>
             </div>
           )}
 
           {step === 2 && (
             <div>
-              <div style={{ background: '#fff', borderRadius: '12px', padding: '28px', border: '1px solid #F0F0F0', marginBottom: '24px' }}>
-                <h3 style={{ fontSize: '16px', fontWeight: '700', marginBottom: '8px' }}>Payment Information</h3>
-                <p style={{ fontSize: '12px', color: '#888', marginBottom: '20px', display: 'flex', alignItems: 'center', gap: '6px' }}>
-                  <Lock size={12} /> Your payment info is encrypted and secure.
-                </p>
-                <InputField label="Name on Card" value={form.cardName} onChange={e => update('cardName', e.target.value)} required />
-                <InputField label="Card Number" value={form.cardNumber} onChange={e => update('cardNumber', e.target.value)} placeholder="1234 5678 9012 3456" required />
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0 16px' }}>
-                  <InputField label="Expiry Date" value={form.expiry} onChange={e => update('expiry', e.target.value)} placeholder="MM/YY" required />
-                  <InputField label="CVV" value={form.cvv} onChange={e => update('cvv', e.target.value)} placeholder="123" required />
+              {/* Shipping summary */}
+              <div style={{ background: '#fff', borderRadius: '12px', padding: '20px 28px', border: '1px solid #F0F0F0', marginBottom: '16px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                <div>
+                  <p style={{ fontSize: '12px', color: '#888', textTransform: 'uppercase', letterSpacing: '0.5px', marginBottom: '2px' }}>Shipping to</p>
+                  <p style={{ fontSize: '14px', fontWeight: '600' }}>{form.address}, {form.city}, {form.state} {form.zip}</p>
                 </div>
-                <div style={{ display: 'flex', gap: '8px', marginTop: '8px' }}>
-                  {['VISA', 'MC', 'AMEX', 'PAYPAL', '🍎PAY'].map((p, i) => (
-                    <span key={i} style={{ background: '#F5F5F5', border: '1px solid #E0E0E0', borderRadius: '4px', padding: '4px 8px', fontSize: '10px', fontWeight: '700', color: '#666' }}>{p}</span>
+                <button onClick={() => setStep(1)} style={{ background: 'none', border: 'none', fontSize: '13px', fontWeight: '600', color: '#1A1A1A', cursor: 'pointer', textDecoration: 'underline' }}>Edit</button>
+              </div>
+
+              {/* Payment via Stripe */}
+              <div style={{ background: '#fff', borderRadius: '12px', padding: '28px', border: '1px solid #F0F0F0', marginBottom: '24px' }}>
+                <h3 style={{ fontSize: '16px', fontWeight: '700', marginBottom: '8px' }}>Payment</h3>
+                <p style={{ fontSize: '13px', color: '#888', marginBottom: '20px', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                  <Lock size={12} /> You'll be securely redirected to Stripe's checkout to complete payment.
+                </p>
+                <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap', marginBottom: '8px' }}>
+                  {['Visa', 'Mastercard', 'Amex', 'Apple Pay', 'Google Pay'].map(m => (
+                    <span key={m} style={{ padding: '4px 10px', background: '#F5F5F5', borderRadius: '4px', fontSize: '11px', fontWeight: '600', color: '#555', border: '1px solid #E8E8E8' }}>{m}</span>
                   ))}
                 </div>
               </div>
 
-              <div style={{ display: 'flex', gap: '12px', marginBottom: '12px' }}>
-                <button onClick={() => setStep(1)} style={{ flex: '0 0 auto', background: '#F5F5F5', color: '#1A1A1A', border: 'none', padding: '17px 24px', borderRadius: '6px', cursor: 'pointer', fontSize: '13px', fontWeight: '600' }}>← Back</button>
-                <button
-                  onClick={handlePlaceOrder}
-                  disabled={submitting || !form.cardNumber || !form.cvv}
-                  style={{ flex: 1, background: '#1A1A1A', color: '#fff', border: 'none', padding: '17px', borderRadius: '6px', cursor: 'pointer', fontSize: '14px', fontWeight: '700', letterSpacing: '1px', textTransform: 'uppercase', opacity: (submitting || !form.cardNumber) ? 0.6 : 1, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}
-                >
-                  <Lock size={14} />
-                  {submitting ? 'Processing…' : `Place Order — $${total.toFixed(2)}`}
-                </button>
+              <button
+                onClick={handlePlaceOrder}
+                disabled={submitting}
+                style={{ width: '100%', background: '#1A1A1A', color: '#fff', border: 'none', padding: '18px', borderRadius: '6px', cursor: submitting ? 'not-allowed' : 'pointer', fontSize: '15px', fontWeight: '800', letterSpacing: '1px', textTransform: 'uppercase', opacity: submitting ? 0.7 : 1, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}
+              >
+                <Lock size={14} /> {submitting ? 'Redirecting to Payment…' : `Pay $${total.toFixed(2)} Securely`}
+              </button>
+
+              <div style={{ display: 'flex', justifyContent: 'center', gap: '24px', marginTop: '16px', flexWrap: 'wrap' }}>
+                {[
+                  [Shield, '256-bit SSL'],
+                  [Truck, 'Free shipping $50+'],
+                  [RotateCcw, '30-day returns'],
+                ].map(([Icon, text]) => (
+                  <div key={text} style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '11px', color: '#888' }}>
+                    <Icon size={12} />{text}
+                  </div>
+                ))}
               </div>
-              <p style={{ fontSize: '12px', color: '#888', textAlign: 'center' }}>
-                By placing your order you agree to our <Link to="/pages/terms" style={{ color: '#1A1A1A' }}>Terms</Link> and <Link to="/pages/privacy" style={{ color: '#1A1A1A' }}>Privacy Policy</Link>.
-              </p>
             </div>
           )}
         </div>
 
         {/* Right: order summary */}
-        <div style={{ background: '#fff', borderRadius: '12px', padding: '28px', border: '1px solid #F0F0F0', position: 'sticky', top: '20px' }}>
-          <h3 style={{ fontSize: '16px', fontWeight: '700', marginBottom: '24px' }}>Order Summary</h3>
-          <div style={{ maxHeight: '300px', overflowY: 'auto', marginBottom: '24px' }}>
-            {cartItems.map(item => (
-              <div key={item.id} style={{ display: 'flex', gap: '12px', marginBottom: '16px', alignItems: 'center' }}>
-                <div style={{ position: 'relative', flexShrink: 0 }}>
-                  <div style={{ width: '56px', height: '56px', borderRadius: '8px', overflow: 'hidden', background: '#F8F4F4' }}>
-                    <img src={item.images?.[0]} alt={item.name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+        <div style={{ position: 'sticky', top: '24px' }}>
+          <div style={{ background: '#fff', borderRadius: '12px', padding: '28px', border: '1px solid #F0F0F0' }}>
+            <h3 style={{ fontSize: '15px', fontWeight: '700', marginBottom: '20px' }}>Order Summary</h3>
+
+            {/* Items */}
+            <div style={{ marginBottom: '20px' }}>
+              {cartItems.map(item => (
+                <div key={item.id} style={{ display: 'flex', gap: '14px', marginBottom: '16px' }}>
+                  <div style={{ position: 'relative', flexShrink: 0 }}>
+                    <div style={{ width: '64px', height: '64px', borderRadius: '8px', overflow: 'hidden', background: '#F5F0F0' }}>
+                      <img src={item.images?.[0]} alt={item.name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                    </div>
+                    <span style={{ position: 'absolute', top: '-6px', right: '-6px', background: '#1A1A1A', color: '#fff', borderRadius: '50%', width: '20px', height: '20px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '10px', fontWeight: '700' }}>{item.quantity}</span>
                   </div>
-                  <span style={{ position: 'absolute', top: '-6px', right: '-6px', background: '#1A1A1A', color: '#fff', fontSize: '10px', fontWeight: '700', width: '18px', height: '18px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>{item.quantity}</span>
+                  <div style={{ flex: 1, display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+                    <div>
+                      <p style={{ fontSize: '13px', fontWeight: '600', lineHeight: 1.3, marginBottom: '2px' }}>{item.name}</p>
+                      <p style={{ fontSize: '12px', color: '#888' }}>{item.category}</p>
+                    </div>
+                    <p style={{ fontSize: '14px', fontWeight: '700', marginLeft: '8px', whiteSpace: 'nowrap' }}>${(item.price * item.quantity).toFixed(2)}</p>
+                  </div>
                 </div>
-                <div style={{ flex: 1 }}>
-                  <p style={{ fontSize: '13px', fontWeight: '600', marginBottom: '2px' }}>{item.name}</p>
-                  <p style={{ fontSize: '12px', color: '#888' }}>{item.category}</p>
-                </div>
-                <span style={{ fontSize: '14px', fontWeight: '700' }}>${(item.price * item.quantity).toFixed(2)}</span>
-              </div>
-            ))}
-          </div>
-          <div style={{ borderTop: '1px solid #F0F0F0', paddingTop: '16px' }}>
-            {[['Subtotal', `$${cartSubtotal.toFixed(2)}`], ['Shipping', shipping === 0 ? 'FREE' : `$${shipping.toFixed(2)}`], ['Estimated Tax', `$${tax.toFixed(2)}`]].map(([label, val]) => (
-              <div key={label} style={{ display: 'flex', justifyContent: 'space-between', fontSize: '14px', color: label === 'Shipping' && shipping === 0 ? '#2D9E6B' : '#666', marginBottom: '8px', fontWeight: label === 'Shipping' && shipping === 0 ? '600' : '400' }}>
-                <span>{label}</span><span>{val}</span>
-              </div>
-            ))}
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '18px', fontWeight: '800', borderTop: '1.5px solid #E0E0E0', paddingTop: '16px', marginTop: '8px' }}>
-              <span>Total</span><span>${total.toFixed(2)}</span>
+              ))}
             </div>
-          </div>
-          <div style={{ marginTop: '20px', padding: '14px', background: '#F8FFF8', borderRadius: '8px', border: '1px solid #B8E0D2', display: 'flex', alignItems: 'center', gap: '10px' }}>
-            <Shield size={16} style={{ color: '#2D9E6B', flexShrink: 0 }} />
-            <p style={{ fontSize: '12px', color: '#1A5F3D', fontWeight: '500' }}>30-day satisfaction guarantee. Returns made easy.</p>
+
+            {/* Discount code */}
+            <div style={{ marginBottom: '20px', paddingBottom: '20px', borderBottom: '1px solid #F0F0F0' }}>
+              {!appliedDiscount ? (
+                <div style={{ display: 'flex', gap: '8px' }}>
+                  <input
+                    type="text"
+                    value={discountCode}
+                    onChange={e => setDiscountCode(e.target.value)}
+                    placeholder="Discount code"
+                    style={{ flex: 1, border: '1.5px solid #E0E0E0', borderRadius: '6px', padding: '10px 12px', fontSize: '13px', outline: 'none', fontFamily: 'Inter, sans-serif' }}
+                    onFocus={e => e.target.style.borderColor = '#1A1A1A'}
+                    onBlur={e => e.target.style.borderColor = '#E0E0E0'}
+                    onKeyDown={e => e.key === 'Enter' && applyDiscount()}
+                  />
+                  <button onClick={applyDiscount} style={{ background: '#1A1A1A', color: '#fff', border: 'none', borderRadius: '6px', padding: '10px 16px', fontSize: '13px', fontWeight: '600', cursor: 'pointer' }}>Apply</button>
+                </div>
+              ) : (
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px', padding: '10px 12px', background: '#F0FDF4', borderRadius: '6px', border: '1px solid #BBF7D0' }}>
+                  <Tag size={14} style={{ color: '#166534' }} />
+                  <span style={{ fontSize: '13px', fontWeight: '600', color: '#166534', flex: 1 }}>{appliedDiscount.code} — {Math.round(appliedDiscount.rate * 100)}% off</span>
+                  <button onClick={() => { setAppliedDiscount(null); setDiscountCode(''); }} style={{ background: 'none', border: 'none', fontSize: '12px', color: '#888', cursor: 'pointer' }}>✕</button>
+                </div>
+              )}
+              {discountError && <p style={{ fontSize: '12px', color: '#EF4444', marginTop: '6px' }}>{discountError}</p>}
+            </div>
+
+            {/* Totals */}
+            <div style={{ fontSize: '14px' }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '10px', color: '#555' }}>
+                <span>Subtotal</span><span>${cartSubtotal.toFixed(2)}</span>
+              </div>
+              {appliedDiscount && (
+                <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '10px', color: '#166534', fontWeight: '600' }}>
+                  <span>Discount</span><span>−${discountAmount.toFixed(2)}</span>
+                </div>
+              )}
+              <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '10px', color: '#555' }}>
+                <span>Shipping</span>
+                <span style={{ color: shipping === 0 ? '#166534' : '#555', fontWeight: shipping === 0 ? '600' : '400' }}>
+                  {shipping === 0 ? 'FREE' : `$${shipping.toFixed(2)}`}
+                </span>
+              </div>
+              <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '16px', color: '#555' }}>
+                <span>Tax (est.)</span><span>${tax.toFixed(2)}</span>
+              </div>
+              <div style={{ display: 'flex', justifyContent: 'space-between', paddingTop: '16px', borderTop: '2px solid #1A1A1A', fontSize: '16px', fontWeight: '800' }}>
+                <span>Total</span><span>${total.toFixed(2)}</span>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-
-      <style>{`
-        @media (max-width: 768px) { .checkout-grid { grid-template-columns: 1fr !important; } }
-      `}</style>
     </div>
   );
 }

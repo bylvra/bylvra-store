@@ -6,9 +6,7 @@
   padding: 0;
 }
 
-html {
-  scroll-behavior: smooth;
-}
+html { scroll-behavior: smooth; }
 
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -19,46 +17,100 @@ body {
   line-height: 1.5;
 }
 
-a {
-  color: inherit;
+a { color: inherit; }
+img { max-width: 100%; display: block; }
+button { font-family: inherit; }
+input, textarea, select { font-family: inherit; }
+
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: #F5F5F5; }
+::-webkit-scrollbar-thumb { background: #D0D0D0; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #B0B0B0; }
+::selection { background: #B8E0D2; color: #1A1A1A; }
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
 
-img {
-  max-width: 100%;
-  display: block;
+/* ── Layout grid classes ──────────────────────────────────────────── */
+
+/* Product grid: 4 col → 2 col on mobile */
+.product-grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
 }
 
-button {
-  font-family: inherit;
+/* Checkout 2-col layout */
+.checkout-grid {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 40px;
+  align-items: start;
 }
 
-input, textarea, select {
-  font-family: inherit;
+/* Product page 2-col */
+.product-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  align-items: start;
 }
 
-/* Scrollbar styling */
-::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
-}
-::-webkit-scrollbar-track {
-  background: #F5F5F5;
-}
-::-webkit-scrollbar-thumb {
-  background: #D0D0D0;
-  border-radius: 3px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: #B0B0B0;
+/* About 2-col */
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: center;
 }
 
-/* Selection color */
-::selection {
-  background: #B8E0D2;
-  color: #1A1A1A;
+/* Category grid 5-col */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
 }
 
-/* Smooth transitions globally */
-* {
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+/* ── Mobile overrides ─────────────────────────────────────────────── */
+@media (max-width: 900px) {
+  .checkout-grid {
+    grid-template-columns: 1fr;
+  }
+  .product-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+  .about-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  .product-grid-4 {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+  .category-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .product-grid-4 {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .category-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
