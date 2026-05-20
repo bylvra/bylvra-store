@@ -86,7 +86,7 @@ export const PRODUCTS = [
     "description": "LiftWave delivers targeted microcurrent pulses that mimic the body's own bioelectrical signals. At 200\u2013400 microamps, it stimulates adenosine triphosphate (ATP) production in skin cells by up to 500% \u2014 accelerating collagen and elastin synthesis and re-educating the underlying facial muscles for a sustained lifting effect. This is the same mechanism used in clinical microcurrent facials, now available for home use.",
     "short_description": "Microcurrent technology at 200\u2013400\u03bcA re-educates facial muscles and stimulates ATP production for a visible non-surgical lifting effect within 5 sessions.",
     "images": [
-      "https://images.pexels.com/photos/6621448/pexels-photo-6621448.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/7446686/pexels-photo-7446686.jpeg?auto=compress&cs=tinysrgb&w=800",
       "https://images.pexels.com/photos/7755187/pexels-photo-7755187.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "NEW",
