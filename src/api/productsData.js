@@ -9,7 +9,7 @@ export const PRODUCTS = [
     "description": "The GlowPro LED Mask delivers 7 clinically validated light wavelengths directly to your skin \u2014 red for collagen, blue for acne, near-infrared for inflammation, and four more targeting specific skin concerns. Each session runs 10 minutes and activates cellular processes that topical products simply cannot reach. Developed around the same photobiomodulation research used in medical aesthetics clinics.",
     "short_description": "7-color phototherapy at clinical wavelengths. Red (660nm) boosts collagen synthesis. Blue (415nm) neutralizes acne bacteria. Delivers spa-grade results in 10 minutes daily.",
     "images": [
-      "https://images.pexels.com/photos/7189303/pexels-photo-7189303.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6663369/pexels-photo-6663369.jpeg?auto=compress&cs=tinysrgb&w=800",
       "https://images.pexels.com/photos/8728560/pexels-photo-8728560.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
@@ -1207,7 +1207,7 @@ export const PRODUCTS = [
     "description": "ClearBeam is a wireless, rechargeable dual-wavelength light therapy device. Blue light at 415nm targets and neutralizes P.acnes bacteria in active breakouts. Red light at 630nm reduces post-inflammatory redness and accelerates skin repair. Clinically the same mechanism used in dermatology office treatments \u2014 now available for daily home use at a fraction of the cost.",
     "short_description": "Dual-wavelength: Blue 415nm neutralizes P.acnes bacteria. Red 630nm reduces inflammation and accelerates repair. Wireless, rechargeable \u2014 10 minutes daily.",
     "images": [
-      "https://images.pexels.com/photos/7189303/pexels-photo-7189303.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6663369/pexels-photo-6663369.jpeg?auto=compress&cs=tinysrgb&w=800",
       "https://images.pexels.com/photos/8728560/pexels-photo-8728560.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
