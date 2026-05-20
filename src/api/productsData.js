@@ -733,7 +733,7 @@ export const PRODUCTS = [
     "description": "DreamSilk uses 22-momme grade 6A mulberry silk \u2014 the highest commercial silk grade \u2014 which creates virtually no friction against delicate eye-area skin. Cotton pillowcases and masks generate repeated mechanical trauma during sleep that causes compression wrinkles and lash breakage over time. Silk's smooth surface eliminates this, and its natural temperature regulation keeps the eye area cool. The contoured 3D inner cavity prevents any pressure on the eyes or lashes.",
     "short_description": "22-momme mulberry silk blocks 100% of light without compressing the eye area. Reduces sleep-crease wrinkles and lash breakage compared to cotton alternatives.",
     "images": [
-      "https://images.pexels.com/photos/3807571/pexels-photo-3807571.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6541122/pexels-photo-6541122.jpeg?auto=compress&cs=tinysrgb&w=800",
       "https://images.pexels.com/photos/3807572/pexels-photo-3807572.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": null,
@@ -850,7 +850,7 @@ export const PRODUCTS = [
     "description": "ElectroSculpt combines traditional gua sha scraping mechanics with EMS microcurrent pulses and gentle heat therapy. The 42\u00b0C warming function opens pores and softens fascia for deeper lymphatic drainage; the EMS stimulates muscle tone and accelerates product absorption. Three modes target lifting, drainage, and firming in a single device.",
     "short_description": "3-in-1 electric gua sha: EMS microcurrent + 42\u00b0C heat + scraping mechanics. Lifts, drains lymphatic fluid, and tones facial muscles in 10-minute sessions.",
     "images": [
-      "https://images.pexels.com/photos/6621376/pexels-photo-6621376.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/7607300/pexels-photo-7607300.jpeg?auto=compress&cs=tinysrgb&w=800",
       "https://images.pexels.com/photos/6621377/pexels-photo-6621377.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "NEW",
@@ -1168,7 +1168,7 @@ export const PRODUCTS = [
     "description": "VoluMax uses a micro-circulation stimulating complex \u2014 Cinnamon Bark Extract and Capsicum-free Vasodilators \u2014 to increase blood flow to the lips for an immediate, natural plumping effect. Combined with high-gloss emollients and Peptide-3, it delivers both instant and cumulative volume without the sting of traditional capsaicin formulas.",
     "short_description": "Capsaicin-free lip plumper with vasodilating Cinnamon Bark Extract. Delivers immediate visible volume + high-gloss finish. Peptide-3 for cumulative plumping.",
     "images": [
-      "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/9871669/pexels-photo-9871669.jpeg?auto=compress&cs=tinysrgb&w=800",
       "https://images.pexels.com/photos/3865548/pexels-photo-3865548.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "NEW",
@@ -1207,7 +1207,7 @@ export const PRODUCTS = [
     "description": "ClearBeam is a wireless, rechargeable dual-wavelength light therapy device. Blue light at 415nm targets and neutralizes P.acnes bacteria in active breakouts. Red light at 630nm reduces post-inflammatory redness and accelerates skin repair. Clinically the same mechanism used in dermatology office treatments \u2014 now available for daily home use at a fraction of the cost.",
     "short_description": "Dual-wavelength: Blue 415nm neutralizes P.acnes bacteria. Red 630nm reduces inflammation and accelerates repair. Wireless, rechargeable \u2014 10 minutes daily.",
     "images": [
-      "https://images.pexels.com/photos/6663369/pexels-photo-6663369.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6663443/pexels-photo-6663443.jpeg?auto=compress&cs=tinysrgb&w=800",
       "https://images.pexels.com/photos/8728560/pexels-photo-8728560.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     "badge": "BESTSELLER",
