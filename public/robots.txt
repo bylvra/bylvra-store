@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block checkout and admin pages from indexing
+Disallow: /checkout
+Disallow: /admin/
+Disallow: /order-confirmation
+
+Sitemap: https://bylvra.shop/sitemap.xml
