@@ -5,6 +5,8 @@ import { useCart } from '../contexts/CartContext';
 import { PRODUCTS } from '../api/productsData';
 import ProductCard from '../components/ui/ProductCard';
 import { Star, Shield, Truck, RotateCcw, ChevronDown, ChevronRight, Clock, Package, Zap } from 'lucide-react';
+import RecentlyViewed, { trackView } from '../components/ui/RecentlyViewed';
+import StickyAddToCart from '../components/ui/StickyAddToCart';
 
 function StarRating({ rating, size = 14 }) {
   return (
@@ -127,12 +129,8 @@ export default function ProductPage() {
               style={{ width: '100%', height: '100%', objectFit: 'cover', transition: 'opacity 0.3s' }}
             />
           </div>
-          <div style={{ display: 'flex', gap: '10px' }}>
-            {(product.images || []).concat([
-              'https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=300',
-              'https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=300',
-              'https://images.unsplash.com/photo-1556228578-8e89ef1b2120?w=300',
-            ]).slice(0, 5).map((img, i) => (
+          <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+            {(product.images || []).slice(0, 5).map((img, i) => (
               <div
                 key={i}
                 onClick={() => setSelectedImage(i)}
@@ -332,6 +330,9 @@ export default function ProductPage() {
           </div>
         </div>
       )}
+
+      <RecentlyViewed currentId={product?.id} />
+      <StickyAddToCart product={product} selectedVariant={selectedVariant} quantity={qty} />
 
       <style>{`
         @keyframes spin { to { transform: rotate(360deg) } }

@@ -201,7 +201,7 @@ export default function Home() {
       {/* EDITORIAL BANNER */}
       <section style={{ position: 'relative', minHeight: '520px', display: 'flex', alignItems: 'center', overflow: 'hidden', margin: '0' }}>
         <img
-          src="https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=1800&fit=crop"
+          src="https://images.pexels.com/photos/3621234/pexels-photo-3621234.jpeg?w=1800&fit=crop"
           alt="Editorial"
           style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center 30%' }}
         />
@@ -273,7 +273,7 @@ export default function Home() {
         <div style={{ maxWidth: '560px', margin: '0 auto', textAlign: 'center' }}>
           <p style={{ fontSize: '11px', fontWeight: '700', letterSpacing: '3px', textTransform: 'uppercase', color: '#B8E0D2', marginBottom: '16px' }}>BYLVRA Insiders</p>
           <h2 style={{ fontSize: 'clamp(28px, 4vw, 44px)', fontWeight: '800', color: '#fff', letterSpacing: '-1px', marginBottom: '16px' }}>
-            Get 10% Off Your First Order
+            Get 15% Off Your First Order
           </h2>
           <p style={{ color: '#888', fontSize: '15px', marginBottom: '36px', lineHeight: 1.6 }}>
             Subscribe for exclusive access to new launches, clinical insights, and subscriber-only offers.

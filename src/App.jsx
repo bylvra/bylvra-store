@@ -22,11 +22,13 @@ import PrivacyPolicy from './pages/PrivacyPolicy';
 import TermsOfService from './pages/TermsOfService';
 import CJImporter from './pages/CJImporter';
 import EmailCapturePopup from './components/layout/EmailCapturePopup';
+import FreeShippingBar from './components/ui/FreeShippingBar';
 
 function Layout({ children }) {
   return (
     <>
       <AnnouncementBar />
+      <FreeShippingBar />
       <Navbar />
       <CartDrawer />
       <main style={{ minHeight: '60vh' }}>{children}</main>
