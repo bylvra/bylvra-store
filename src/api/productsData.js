@@ -2293,38 +2293,38 @@ export const PRODUCTS = [
     "cjSku": "CJMJ2899162"
   },
   {
-    "id": "bylvra-0481623600",
-    "name": "High-Waisted Slimming Yoga Pants For Women Stretchy Tight-Fitting Booty-Lifting Workout Leggings",
-    "slug": "highwaisted-slimming-yoga-pants-for-women-stretchy-tigh",
+    "id": "bylvra-7131627100",
+    "name": "Beauty LED Hot Compress Eye Mask",
+    "slug": "beauty-led-hot-compress-eye-mask",
     "category": "Tools & Devices",
-    "price": 18.95,
-    "compare_at_price": 26.84,
-    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "price": 97.95,
+    "compare_at_price": 138.12,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://cf.cjdropshipping.com/quick/product/d429516e-42ce-428b-acbd-81de18153cd6.jpg"
+      "https://oss-cf.cjdropshipping.com/product/2026/05/18/10/49f3e058-58cf-49b2-b09b-655cd30bc623.jpg"
     ],
-    "badge": "HOT",
+    "badge": null,
     "rating": 4.7,
-    "review_count": 1473,
+    "review_count": 683,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Professional-grade technology for home use \u2014 no clinic required",
-      "Clinically validated mechanism of action for measurable results",
-      "Safe for daily use \u2014 engineered for long-term skin improvement",
-      "Enhances serum and active absorption when used before application",
-      "Visible improvement in skin quality within 3\u20134 weeks of use"
+      "Professional-grade technology for home use",
+      "Clinically validated for measurable results",
+      "Safe for daily use \u2014 engineered for long-term improvement",
+      "Enhances serum absorption when used before application",
+      "Visible results within 3\u20134 weeks"
     ],
-    "whats_in_box": "High-Waisted Slimming Yoga Pants For Women Stretchy Tight-Fitting Booty-Lifting Workout Leggings \u00d7 1",
+    "whats_in_box": "Beauty LED Hot Compress Eye Mask \u00d7 1",
     "in_stock": true,
-    "stock_count": 12,
+    "stock_count": 24,
     "variants": [],
     "tags": [
       "tools-devices"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2605211000481623600",
-    "cjSku": "CJTZ2899419"
+    "cjProductId": "2605181007131627100",
+    "cjSku": "CJAM2894951"
   },
   {
     "id": "bylvra-0581616300",
@@ -3143,38 +3143,38 @@ export const PRODUCTS = [
     "cjSku": "CJYD2896359"
   },
   {
-    "id": "bylvra-2581606100",
-    "name": "Cross-border 75kg Large-capacity Mini Washing Machine And Shoe Washer Combo Supports Drop Shipping",
-    "slug": "crossborder-75kg-largecapacity-mini-washing-machine-and",
+    "id": "bylvra-7051623000",
+    "name": "UV-sensing Sterilization Automatic Disinfection Device",
+    "slug": "uvsensing-sterilization-automatic-disinfection-device",
     "category": "Tools & Devices",
-    "price": 77.95,
-    "compare_at_price": 103.84,
-    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
-    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "price": 35.95,
+    "compare_at_price": 48.53,
+    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium beauty device. Clinically active technology for visible results.",
     "images": [
-      "https://cf.cjdropshipping.com/quick/product/f7f593e4-7593-46e2-ac91-faa5635293e3.jpg"
+      "https://oss-cf.cjdropshipping.com/product/2026/05/20/02/c38670b3-e9df-4b1a-9159-4ffbcd1d91fc_trans.jpeg"
     ],
-    "badge": null,
-    "rating": 4.4,
-    "review_count": 1167,
-    "ingredients": "Full ingredient list available on product packaging.",
+    "badge": "NEW",
+    "rating": 4.8,
+    "review_count": 814,
+    "ingredients": "N/A \u2014 electronic device.",
     "benefits": [
-      "Professional-grade technology for home use \u2014 no clinic required",
-      "Clinically validated mechanism of action for measurable results",
-      "Safe for daily use \u2014 engineered for long-term skin improvement",
-      "Enhances serum and active absorption when used before application",
-      "Visible improvement in skin quality within 3\u20134 weeks of use"
+      "Professional-grade technology for home use",
+      "Clinically validated for measurable results",
+      "Safe for daily use",
+      "Enhances serum absorption",
+      "Visible results within 3\u20134 weeks"
     ],
-    "whats_in_box": "Cross-border 75kg Large-capacity Mini Washing Machine And Shoe Washer Combo Supports Drop Shipping \u00d7 1",
+    "whats_in_box": "UV-sensing Sterilization Automatic Disinfection Device \u00d7 1",
     "in_stock": true,
-    "stock_count": 30,
+    "stock_count": 24,
     "variants": [],
     "tags": [
       "tools-devices"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2605190152581606100",
-    "cjSku": "CJYD2895118"
+    "cjProductId": "2605200247051623000",
+    "cjSku": "CJJT2896891"
   },
   {
     "id": "bylvra-5161603900",
@@ -3721,38 +3721,38 @@ export const PRODUCTS = [
     "cjSku": "CJPF2898677"
   },
   {
-    "id": "bylvra-9331615700",
-    "name": "Pet Hair Cleaning Spray",
-    "slug": "pet-hair-cleaning-spray",
+    "id": "bylvra-9717798913",
+    "name": "Herbal Nourishing Shampoo Bar",
+    "slug": "herbal-nourishing-shampoo-bar",
     "category": "Hair",
-    "price": 4.95,
-    "compare_at_price": 6.53,
-    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "price": 11.95,
+    "compare_at_price": 16.07,
+    "description": "A clinically formulated scalp and hair treatment targeting follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://cf.cjdropshipping.com/quick/product/bd8fab63-9403-4983-9b92-727101294e61.jpg"
+      "https://cf.cjdropshipping.com/bdb27f41-9bdd-4049-9d85-3cdd2ea653a4.jpg"
     ],
-    "badge": "HOT",
-    "rating": 4.8,
-    "review_count": 1223,
+    "badge": "BESTSELLER",
+    "rating": 4.3,
+    "review_count": 551,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Targets hair follicles to support density and growth",
+      "Targets follicles to support density and growth",
       "Strengthens strand integrity from root to tip",
-      "Reduces breakage and shedding with regular use",
-      "Scalp-safe formula suitable for all hair types",
-      "Visible improvement in hair fullness within 6\u20138 weeks"
+      "Reduces breakage and shedding",
+      "Scalp-safe for all hair types",
+      "Visible improvement within 6\u20138 weeks"
     ],
-    "whats_in_box": "Pet Hair Cleaning Spray \u00d7 1",
+    "whats_in_box": "Herbal Nourishing Shampoo Bar \u00d7 1",
     "in_stock": true,
-    "stock_count": 27,
+    "stock_count": 23,
     "variants": [],
     "tags": [
       "hair"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2605200909331615700",
-    "cjSku": "CJYD2897956"
+    "cjProductId": "2057004909717798913",
+    "cjSku": "CJST2897629"
   },
   {
     "id": "bylvra-6131612700",
@@ -5047,38 +5047,38 @@ export const PRODUCTS = [
     "cjSku": "CJPF2900005"
   },
   {
-    "id": "bylvra-8471636900",
-    "name": "White Musk Fragrance Oil",
-    "slug": "white-musk-fragrance-oil",
+    "id": "bylvra-9311602900",
+    "name": "Gentle Moisturizing Self-tanning Lotion For A Sun-kissed Wheat-toned Complexion",
+    "slug": "gentle-moisturizing-selftanning-lotion-for-a-sunkissed",
     "category": "Body",
-    "price": 5.95,
-    "compare_at_price": 8.25,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "price": 7.95,
+    "compare_at_price": 10.48,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/30c3af5d-99a2-449a-b50e-9aa630d8fccc.jpg"
+      "https://cf.cjdropshipping.com/quick/product/24074c26-6a71-456d-928a-9b3c5e028cf4.jpg"
     ],
-    "badge": "HOT",
-    "rating": 4.2,
-    "review_count": 2732,
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 1396,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Dermatologist-tested for all skin types",
+      "Visible improvement within 4 weeks"
     ],
-    "whats_in_box": "White Musk Fragrance Oil \u00d7 1",
+    "whats_in_box": "Gentle Moisturizing Self-tanning Lotion For A Sun-kissed Wheat-toned Complexion \u00d7 1",
     "in_stock": true,
-    "stock_count": 26,
+    "stock_count": 12,
     "variants": [],
     "tags": [
       "body"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2605211258471636900",
-    "cjSku": "CJPF2899569"
+    "cjProductId": "2605200259311602900",
+    "cjSku": "CJYD2896921"
   },
   {
     "id": "bylvra-6381629000",
@@ -5115,72 +5115,72 @@ export const PRODUCTS = [
     "cjSku": "CJMJ2899547"
   },
   {
-    "id": "bylvra-4201633200",
-    "name": "Three-Color Camouflage Oil Set Outdoor Gear",
-    "slug": "threecolor-camouflage-oil-set-outdoor-gear",
+    "id": "bylvra-5431629500",
+    "name": "African Black Soap 150g, Shea Butter Essential Oil, Handmade",
+    "slug": "african-black-soap-150g-shea-butter-essential-oil-handm",
     "category": "Body",
     "price": 3.95,
-    "compare_at_price": 5.42,
-    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "compare_at_price": 5.67,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://cf.cjdropshipping.com/quick/product/fa743662-864a-49ec-a707-4069d672b4c4.jpg"
-    ],
-    "badge": null,
-    "rating": 4.3,
-    "review_count": 2217,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
-    ],
-    "whats_in_box": "Three-Color Camouflage Oil Set Outdoor Gear \u00d7 1",
-    "in_stock": true,
-    "stock_count": 46,
-    "variants": [],
-    "tags": [
-      "body"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605210924201633200",
-    "cjSku": "CJYD2899324"
-  },
-  {
-    "id": "bylvra-4299905026",
-    "name": "Brightening Clear Cushion Cream Natural Shade",
-    "slug": "brightening-clear-cushion-cream-natural-shade",
-    "category": "Body",
-    "price": 9.95,
-    "compare_at_price": 14.34,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
-    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://cf.cjdropshipping.com/975c3b07-cc8c-4639-8ffc-351de31d1eff.jpg"
+      "https://cf.cjdropshipping.com/quick/product/c328d8be-47f0-4786-b244-a65c6d110a96.jpg"
     ],
     "badge": null,
     "rating": 4.5,
-    "review_count": 3074,
+    "review_count": 1004,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Dermatologist-tested for all skin types",
+      "Visible improvement within 4 weeks"
     ],
-    "whats_in_box": "Brightening Clear Cushion Cream Natural Shade \u00d7 1",
+    "whats_in_box": "African Black Soap 150g, Shea Butter Essential Oil, Handmade \u00d7 1",
     "in_stock": true,
-    "stock_count": 42,
+    "stock_count": 17,
     "variants": [],
     "tags": [
       "body"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2057703184299905026",
-    "cjSku": "CJMB2900073"
+    "cjProductId": "2605190955431629500",
+    "cjSku": "CJYD2896550"
+  },
+  {
+    "id": "bylvra-7011625900",
+    "name": "Brightening Sunscreen Lotion",
+    "slug": "brightening-sunscreen-lotion",
+    "category": "Body",
+    "price": 5.95,
+    "compare_at_price": 8.62,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/19/04/4b8540f6-652a-49b5-b54c-91c34f4fb56e.jpg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 1872,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Dermatologist-tested for all skin types",
+      "Visible improvement within 4 weeks"
+    ],
+    "whats_in_box": "Brightening Sunscreen Lotion \u00d7 1",
+    "in_stock": true,
+    "stock_count": 43,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605190417011625900",
+    "cjSku": "CJPF2895564"
   },
   {
     "id": "bylvra-3261604000",
@@ -6169,38 +6169,38 @@ export const PRODUCTS = [
     "cjSku": "CJMB2897020"
   },
   {
-    "id": "bylvra-1011616800",
-    "name": "50ml Pump-Dispenser Bottle Hyaluronic Acid Vitamin C Collagen Face Cream",
-    "slug": "50ml-pumpdispenser-bottle-hyaluronic-acid-vitamin-c-col",
+    "id": "bylvra-2531622700",
+    "name": "Collagen Moisturizing Cream 10g",
+    "slug": "collagen-moisturizing-cream-10g",
     "category": "Wellness",
-    "price": 7.95,
-    "compare_at_price": 10.69,
+    "price": 4.95,
+    "compare_at_price": 6.76,
     "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://cf.cjdropshipping.com/quick/product/df4e1587-3799-4eff-836a-b85481bb75e6.jpg"
+      "https://cf.cjdropshipping.com/quick/product/c6f139a2-8d77-4eb4-a8e6-e44193b28185.jpg"
     ],
-    "badge": "BESTSELLER",
-    "rating": 4.4,
-    "review_count": 2921,
+    "badge": "HOT",
+    "rating": 4.9,
+    "review_count": 2385,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Evidence-backed active ingredients at clinically effective doses",
+      "Evidence-backed actives at effective doses",
       "Supports skin, hair, and nail health from within",
-      "Clean formula \u2014 no unnecessary fillers or artificial additives",
-      "Easy daily format designed for consistent long-term results",
-      "Complements your topical routine for inside-out improvement"
+      "Clean formula \u2014 no unnecessary fillers",
+      "Easy daily format for consistent results",
+      "Complements topical skincare for inside-out results"
     ],
-    "whats_in_box": "50ml Pump-Dispenser Bottle Hyaluronic Acid Vitamin C Collagen Face Cream \u00d7 1",
+    "whats_in_box": "Collagen Moisturizing Cream 10g \u00d7 1",
     "in_stock": true,
-    "stock_count": 36,
+    "stock_count": 49,
     "variants": [],
     "tags": [
       "wellness"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2605210601011616800",
-    "cjSku": "CJMJ2898811"
+    "cjProductId": "2605210142531622700",
+    "cjSku": "CJMJ2898399"
   },
   {
     "id": "bylvra-5271601400",
@@ -6645,38 +6645,38 @@ export const PRODUCTS = [
     "cjSku": "CJYD2872233"
   },
   {
-    "id": "bylvra-4331636900",
-    "name": "Scalp Serum Applicator With Liquid-delivery Electric Wireless Comb",
-    "slug": "scalp-serum-applicator-with-liquiddelivery-electric-wir",
+    "id": "bylvra-6153750530",
+    "name": "Black Hair Shampoo",
+    "slug": "black-hair-shampoo",
     "category": "Hair",
     "price": 11.95,
-    "compare_at_price": 17.01,
-    "description": "This concentrated hair treatment delivers results where it counts \u2014 at the root. Strengthens strands, calms the scalp, and supports healthy follicle function long-term.",
+    "compare_at_price": 16.63,
+    "description": "A clinically formulated scalp and hair treatment targeting follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://cf.cjdropshipping.com/quick/product/79b06260-ae8e-4c2e-b397-25137381367a.jpg"
+      "https://cf.cjdropshipping.com/a41cb22f-e6ba-4849-a8be-104e78f74f04.jpg"
     ],
-    "badge": "NEW",
-    "rating": 4.5,
-    "review_count": 1729,
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 2356,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Targets hair follicles to support density and growth",
+      "Targets follicles to support density and growth",
       "Strengthens strand integrity from root to tip",
-      "Reduces breakage and shedding with regular use",
-      "Scalp-safe formula suitable for all hair types",
-      "Visible improvement in hair fullness within 6\u20138 weeks"
+      "Reduces breakage and shedding",
+      "Scalp-safe for all hair types",
+      "Visible improvement within 6\u20138 weeks"
     ],
-    "whats_in_box": "Scalp Serum Applicator With Liquid-delivery Electric Wireless Comb \u00d7 1",
+    "whats_in_box": "Black Hair Shampoo \u00d7 1",
     "in_stock": true,
-    "stock_count": 7,
+    "stock_count": 45,
     "variants": [],
     "tags": [
       "hair"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2605060614331636900",
-    "cjSku": "CJYD2871343"
+    "cjProductId": "2056608746153750530",
+    "cjSku": "CJST2895763"
   },
   {
     "id": "bylvra-1281603800",
@@ -6815,106 +6815,106 @@ export const PRODUCTS = [
     "cjSku": "CJAM2868144"
   },
   {
-    "id": "bylvra-3191611100",
-    "name": "Tinted Eyebrow Gel",
-    "slug": "tinted-eyebrow-gel",
+    "id": "bylvra-8231639000",
+    "name": "Natural Glow Dark-Skin Body Lotion",
+    "slug": "natural-glow-darkskin-body-lotion",
     "category": "Body",
-    "price": 8.95,
-    "compare_at_price": 11.6,
-    "description": "Formulated for the body's larger surface area with higher concentrations of proven actives. Visible improvement in tone, firmness, and texture within 4 weeks of daily use.",
+    "price": 7.95,
+    "compare_at_price": 10.3,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/22/04/4f611b40-fb1c-45ca-9933-ec346a6c8fd4.jpg"
+      "https://cf.cjdropshipping.com/quick/product/b4440999-166e-4847-a56e-f1f9862f9e51.jpg"
     ],
     "badge": null,
-    "rating": 4.3,
-    "review_count": 1348,
+    "rating": 4.7,
+    "review_count": 3123,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Dermatologist-tested for all skin types",
+      "Visible improvement within 4 weeks"
     ],
-    "whats_in_box": "Tinted Eyebrow Gel \u00d7 1",
+    "whats_in_box": "Natural Glow Dark-Skin Body Lotion \u00d7 1",
     "in_stock": true,
-    "stock_count": 44,
+    "stock_count": 26,
     "variants": [],
     "tags": [
       "body"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2605220453191611100",
-    "cjSku": "CJEP2899957"
+    "cjProductId": "2605190218231639000",
+    "cjSku": "CJMJ2895181"
   },
   {
-    "id": "bylvra-3526296577",
-    "name": "UV LED Nail Lamp,280W Nail Curing Lamps For Gel Polish With Automatic Sensor 4 Timer Setting,Led Nail Dryer, Professional Nail Art Drying Tools For Fingernail And Toenail",
-    "slug": "uv-led-nail-lamp280w-nail-curing-lamps-for-gel-polish-w",
+    "id": "bylvra-2555918337",
+    "name": "BARUBT Self Tanner Tanning Lotion 222ml, Sunless Tanning Body Lotion",
+    "slug": "barubt-self-tanner-tanning-lotion-222ml-sunless-tanning",
     "category": "Body",
-    "price": 59.95,
-    "compare_at_price": 80.69,
-    "description": "This targeted body treatment skips filler ingredients and focuses purely on results. Dermatologist-tested, fast-absorbing, and safe for all skin types.",
+    "price": 10.95,
+    "compare_at_price": 14.22,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://cf.cjdropshipping.com/cd2d6cc3-b703-4ec2-a1e2-38c1e920eac9.jpg"
+      "https://cf.cjdropshipping.com/9c4fb197-9711-4d2f-824a-b7bce2d9e269.jpg"
     ],
     "badge": null,
-    "rating": 4.3,
-    "review_count": 306,
+    "rating": 4.8,
+    "review_count": 2283,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Dermatologist-tested for all skin types",
+      "Visible improvement within 4 weeks"
     ],
-    "whats_in_box": "UV LED Nail Lamp,280W Nail Curing Lamps For Gel Polish With Automatic Sensor 4 Timer Setting,Led Nail Dryer, Professional Nail Art Drying Tools For Fingernail And Toenail \u00d7 1",
+    "whats_in_box": "BARUBT Self Tanner Tanning Lotion 222ml, Sunless Tanning Body Lotion \u00d7 1",
     "in_stock": true,
-    "stock_count": 45,
+    "stock_count": 11,
     "variants": [],
     "tags": [
       "body"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2057714673526296577",
-    "cjSku": "CJMJ2900149"
+    "cjProductId": "2055554982555918337",
+    "cjSku": "CJST2893399"
   },
   {
-    "id": "bylvra-3211629500",
-    "name": "Wig Styling Gel",
-    "slug": "wig-styling-gel",
+    "id": "bylvra-4581610200",
+    "name": "Hydrating And Moisturizing Cosmetics Set Toner And Lotion",
+    "slug": "hydrating-and-moisturizing-cosmetics-set-toner-and-loti",
     "category": "Body",
-    "price": 5.95,
-    "compare_at_price": 7.92,
-    "description": "Formulated for the body's larger surface area with higher concentrations of proven actives. Visible improvement in tone, firmness, and texture within 4 weeks of daily use.",
+    "price": 11.95,
+    "compare_at_price": 16.79,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/812e35db-3715-4d48-8111-be688d749024.jpg"
+      "https://oss-cf.cjdropshipping.com/product/2026/05/15/03/0fa7f88f-39e5-41de-8950-b585efa11d95.jpg"
     ],
-    "badge": "BESTSELLER",
-    "rating": 4.4,
-    "review_count": 2926,
+    "badge": null,
+    "rating": 4.9,
+    "review_count": 1519,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Dermatologist-tested for all skin types",
+      "Visible improvement within 4 weeks"
     ],
-    "whats_in_box": "Wig Styling Gel \u00d7 1",
+    "whats_in_box": "Hydrating And Moisturizing Cosmetics Set Toner And Lotion \u00d7 1",
     "in_stock": true,
-    "stock_count": 35,
+    "stock_count": 38,
     "variants": [],
     "tags": [
       "body"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2605211153211629500",
-    "cjSku": "CJJT2899514"
+    "cjProductId": "2605150304581610200",
+    "cjSku": "CJYD2891790"
   },
   {
     "id": "bylvra-8341605700",
@@ -6951,38 +6951,38 @@ export const PRODUCTS = [
     "cjSku": "CJPF2898672"
   },
   {
-    "id": "bylvra-4736785409",
-    "name": "Eyebrow Gel",
-    "slug": "eyebrow-gel",
+    "id": "bylvra-7171634200",
+    "name": "Beeswax Body Lotion",
+    "slug": "beeswax-body-lotion",
     "category": "Body",
-    "price": 10.95,
-    "compare_at_price": 14.29,
+    "price": 5.95,
+    "compare_at_price": 8.62,
     "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://cf.cjdropshipping.com/5522fc21-9293-4140-9987-0c94005ab210.png"
+      "https://oss-cf.cjdropshipping.com/product/2026/05/12/09/8c73128e-2c8c-4079-b621-da8af9b437ce.jpg"
     ],
-    "badge": "BESTSELLER",
-    "rating": 4.4,
-    "review_count": 807,
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 2560,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Dermatologist-tested for all skin types",
+      "Visible improvement within 4 weeks"
     ],
-    "whats_in_box": "Eyebrow Gel \u00d7 1",
+    "whats_in_box": "Beeswax Body Lotion \u00d7 1",
     "in_stock": true,
-    "stock_count": 31,
+    "stock_count": 38,
     "variants": [],
     "tags": [
       "body"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2057392974736785409",
-    "cjSku": "CJCZ2899321"
+    "cjProductId": "2605120917171634200",
+    "cjSku": "CJPF2883223"
   },
   {
     "id": "bylvra-7421605600",
@@ -7019,71 +7019,71 @@ export const PRODUCTS = [
     "cjSku": "CJPF2898664"
   },
   {
-    "id": "bylvra-5679362050",
-    "name": "Digital Air Fryer 7L Visible Oil Free Kitchen Cooker Frying Low Fat Mini Oven",
-    "slug": "digital-air-fryer-7l-visible-oil-free-kitchen-cooker-fr",
+    "id": "bylvra-2498917378",
+    "name": "Deodorizer, Anti Sweat Long Term Deodorizer, Fragrant Antiperspirant With Beads And Antiperspirant Lotion, Fresh And Fragrant",
+    "slug": "deodorizer-anti-sweat-long-term-deodorizer-fragrant-ant",
     "category": "Body",
-    "price": 178.95,
-    "compare_at_price": 259.76,
-    "description": "Formulated for the body's larger surface area with higher concentrations of proven actives. Visible improvement in tone, firmness, and texture within 4 weeks of daily use.",
+    "price": 35.95,
+    "compare_at_price": 50.13,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://cf.cjdropshipping.com/30038d4d-c987-468b-8bf9-28e16d57f189.jpg"
+      "https://cf.cjdropshipping.com/95004864-6e73-4be4-9e6c-536f65b47103.jpg"
     ],
-    "badge": "BESTSELLER",
+    "badge": null,
     "rating": 4.7,
-    "review_count": 2133,
+    "review_count": 1654,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Dermatologist-tested for all skin types",
+      "Visible improvement within 4 weeks"
     ],
-    "whats_in_box": "Digital Air Fryer 7L Visible Oil Free Kitchen Cooker Frying Low Fat Mini Oven \u00d7 1",
+    "whats_in_box": "Deodorizer, Anti Sweat Long Term Deodorizer, Fragrant Antiperspirant With Beads And Antiperspirant Lotion, Fresh And Fragrant \u00d7 1",
     "in_stock": true,
-    "stock_count": 23,
+    "stock_count": 5,
     "variants": [],
     "tags": [
       "body"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2057303005679362050",
-    "cjSku": "CJCF2898607"
+    "cjProductId": "2054099712498917378",
+    "cjSku": "CJPF2881942"
   },
   {
-    "id": "bylvra-9041620300",
-    "name": "Fashionable And Creative Colorful Dripped-Oil Cherry Bracelet",
-    "slug": "fashionable-and-creative-colorful-drippedoil-cherry-bra",
+    "id": "bylvra-3972421634",
+    "name": "Retinol Body Lotion, Moisturizing & Smoothing Skin Care Lotion 50ml",
+    "slug": "retinol-body-lotion-moisturizing-smoothing-skin-care-lo",
     "category": "Body",
-    "price": 4.95,
-    "compare_at_price": 7.16,
-    "description": "Formulated for the body's larger surface area with higher concentrations of proven actives. Visible improvement in tone, firmness, and texture within 4 weeks of daily use.",
+    "price": 14.95,
+    "compare_at_price": 19.24,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
-      "https://cf.cjdropshipping.com/quick/product/4fdfc397-d085-4654-a0c3-29ea0ae23913.jpg"
+      "https://cf.cjdropshipping.com/80197d68-0c1b-45a1-b3c3-c33363552669.jpg"
     ],
-    "badge": "BESTSELLER",
-    "rating": 4.5,
-    "review_count": 1459,
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 3134,
     "ingredients": "Full ingredient list available on product packaging.",
     "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Dermatologist-tested for all skin types",
+      "Visible improvement within 4 weeks"
     ],
-    "whats_in_box": "Fashionable And Creative Colorful Dripped-Oil Cherry Bracelet \u00d7 1",
+    "whats_in_box": "Retinol Body Lotion, Moisturizing & Smoothing Skin Care Lotion 50ml \u00d7 1",
     "in_stock": true,
-    "stock_count": 57,
+    "stock_count": 27,
     "variants": [],
     "tags": [
       "body"
     ],
     "frequently_bought_with": [],
-    "cjProductId": "2605201019041620300",
-    "cjSku": "CJSL2898203"
+    "cjProductId": "2054135543972421634",
+    "cjSku": "CJST2883088"
   }
 ];
