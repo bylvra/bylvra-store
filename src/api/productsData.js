@@ -6,7 +6,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 89.95,
     "compare_at_price": 119.95,
-    "description": "The GlowPro LED Mask delivers 7 clinically validated light wavelengths directly to your skin \u2014 red for collagen, blue for acne, near-infrared for inflammation, and four more targeting specific skin concerns. Each session runs 10 minutes and activates cellular processes that topical products simply cannot reach. Developed around the same photobiomodulation research used in medical aesthetics clinics.",
+    "description": "A clinical-grade LED phototherapy mask delivering red (630nm) and near-infrared (830nm) wavelengths to the full face simultaneously. Red light stimulates fibroblast activity and collagen synthesis; near-infrared penetrates deeper to reduce inflammation and accelerate cellular repair.",
     "short_description": "7-color phototherapy at clinical wavelengths. Red (660nm) boosts collagen synthesis. Blue (415nm) neutralizes acne bacteria. Delivers spa-grade results in 10 minutes daily.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2025/02/24/05/30c5f243-5192-419c-aee7-d26913c8c71a_trans.jpeg",
@@ -48,7 +48,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 24.95,
     "compare_at_price": 34.95,
-    "description": "The Sculpt Tool is crafted from genuine hetian jade \u2014 naturally cool to the touch and dense enough to apply meaningful pressure without effort. The curved end contours the jawline and cheekbones; the notched edge works the neck and brow bone. Gua sha works by stimulating microcirculation and clearing stagnant lymphatic fluid, which reduces puffiness and over time lifts and sculpts facial contours.",
+    "description": "A professional facial sculpting tool using a combination of gua sha technique and facial massage to lift, contour, and drain the face. Regular use reduces facial puffiness, defines the jawline, and improves lymphatic drainage for a naturally more sculpted appearance.",
     "short_description": "Double-ended jade gua sha sculpted for facial anatomy. Promotes lymphatic drainage, reduces puffiness, and defines jawline and cheekbones with consistent use.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/03/10/07/e17da40f-f35f-4efb-a910-38281e67a5d6.jpg",
@@ -89,7 +89,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 119.95,
     "compare_at_price": 159.95,
-    "description": "LiftWave delivers targeted microcurrent pulses that mimic the body's own bioelectrical signals. At 200\u2013400 microamps, it stimulates adenosine triphosphate (ATP) production in skin cells by up to 500% \u2014 accelerating collagen and elastin synthesis and re-educating the underlying facial muscles for a sustained lifting effect. This is the same mechanism used in clinical microcurrent facials, now available for home use.",
+    "description": "A microcurrent device delivering bioelectrical impulses that mirror the body's natural electrical signals to re-educate facial muscles. FDA-cleared technology for facial muscle toning \u2014 clinical equivalent of the 'non-surgical facelift' with measurable results in 10 sessions.",
     "short_description": "Microcurrent technology at 200\u2013400\u03bcA re-educates facial muscles and stimulates ATP production for a visible non-surgical lifting effect within 5 sessions.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/02/24/07/cf514f38-4563-4499-a124-775208c109fe.jpg",
@@ -130,7 +130,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 28.95,
     "compare_at_price": 38.95,
-    "description": "PlumpLab uses Tripeptide-1 to stimulate collagen synthesis at the lip border and 2% low-molecular-weight hyaluronic acid to pull moisture into the skin from within. Unlike tingling plumpers that rely on irritants to create temporary swelling, PlumpLab delivers structural plumping that builds over time. Lips appear fuller, lines soften, and the lip border becomes more defined.",
+    "description": "A multi-peptide lip formula designed to restore volume and definition without fillers. Stimulates natural collagen production in the lip tissue, plumping from within while deeply hydrating the lip barrier. Results are gradual, compounding, and permanent over time.",
     "short_description": "Tripeptide-1 and Hyaluronic Acid at 2% visibly plump lip volume and smooth vertical lines in 4 weeks. No irritating capsaicin \u2014 just clinical actives.",
     "images": [
       "https://cf.cjdropshipping.com/17415648/1898982178172440576.jpg",
@@ -172,7 +172,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 19.95,
     "compare_at_price": 27.95,
-    "description": "The MicroStim Derma Roller uses 540 precision-ground titanium microneedles at 0.25mm depth to create micro-channels in the skin surface. This triggers a controlled wound-healing response \u2014 increasing collagen and elastin production \u2014 and allows serums applied immediately after to penetrate up to 200% deeper than topical application alone. Use 2\u20133x per week for optimal results.",
+    "description": "A 540-needle titanium dermaroller at 0.25mm depth \u2014 designed for home use to stimulate collagen induction therapy without causing dermal damage. Creates micro-perforations that trigger the skin's wound-healing response, boosting collagen and hyaluronic acid production.",
     "short_description": "0.25mm titanium microneedle roller triggers the skin's repair response, boosting collagen and increasing serum absorption by up to 200%.",
     "images": [
       "https://cf.cjdropshipping.com/1620177543540.jpg",
@@ -213,7 +213,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 34.95,
     "compare_at_price": 44.95,
-    "description": "ScalpSonic delivers targeted vibration at 6,000 pulses per minute across 12 flexible silicone nodes. This mechanical stimulation increases blood flow to the scalp's microcirculation by up to 30%, delivering more oxygen and nutrients directly to hair follicles. Consistent use 3\u20134x per week has been clinically associated with reduced hair shedding and reactivation of dormant follicles.",
+    "description": "An electric scalp massager using sonic vibration technology to stimulate blood flow to hair follicles. Improved scalp circulation is the single most evidence-backed non-pharmaceutical method for supporting hair density \u2014 use for 5 minutes daily before applying serums.",
     "short_description": "Electric scalp massager with 12 silicone nodes stimulates blood microcirculation to the hair follicle \u2014 clinically linked to reduced shedding and increased follicle activity.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/04/01/07/97fcc9a8-b691-4fe2-989d-9833b3ecc7ae.jpg",
@@ -254,7 +254,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 29.95,
     "compare_at_price": 39.95,
-    "description": "The CryoGlobe set uses the principles of cryotherapy \u2014 rapid surface cooling to below 50\u00b0F \u2014 to trigger vasoconstriction, which immediately reduces puffiness, calms redness, and minimizes the appearance of pores. The sealed liquid core retains cold for up to 20 minutes per session. Use before makeup for a smooth base, after extractions to close pores, or any morning to reverse overnight inflammation.",
+    "description": "Chilled cryo globes designed to rapidly cool the skin surface to constrict blood vessels and reduce inflammation. Used after serums or masks, they drive active ingredients deeper through thermodynamic pressure while visibly de-puffing and firming the skin.",
     "short_description": "Stainless steel ice globes reduce inflammation, close pores, and depuff instantly via cryotherapy vasoconstriction. Results in 60 seconds.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2025/05/19/07/5f6b2cf9-8c91-41b7-8e9b-e12fe638675d.jpg",
@@ -295,7 +295,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 44.95,
     "compare_at_price": 59.95,
-    "description": "LashDense targets the two primary mechanisms of lash loss: shortened anagen phase and follicle miniaturisation. Biotinoyl Tripeptide-1 is clinically proven to extend the growth phase and strengthen the lash shaft, while Myristoyl Pentapeptide-17 upregulates keratin gene expression in follicle keratinocytes. Apply nightly to the upper lash line. Results typically appear at week 4, with full effect at 8\u201312 weeks.",
+    "description": "Formulated with a blend of peptides and follicle-stimulating actives, this serum targets the lash root to support lash density and length. Applied nightly, it works during the hair's anagen growth phase for measurable improvement in 6\u20138 weeks.",
     "short_description": "Biotinoyl Tripeptide-1 and Myristoyl Pentapeptide-17 extend the lash growth phase (anagen) and stimulate follicle keratinocytes. Visible density in 4 weeks.",
     "images": [
       "https://cf.cjdropshipping.com/46ff1130-0db2-48a3-844d-6f097021fd2f.png"
@@ -332,7 +332,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 39.95,
     "compare_at_price": 54.95,
-    "description": "AlignPro uses a biomechanically engineered figure-8 design to passively retract the scapulae and pull the shoulders into proper alignment. Unlike rigid braces that do the work for you, AlignPro applies just enough resistance to prompt your own muscles to engage \u2014 retraining posture rather than creating dependency. Clinically recommended for kyphosis, forward head posture, and chronic upper back tension.",
+    "description": "A medically-designed posture correction brace that gently realigns the thoracic spine and shoulders into their natural position. Worn for 20\u201330 minutes daily during sedentary work, it builds muscle memory that improves posture progressively over a 4\u20136 week period.",
     "short_description": "Figure-8 clavicle brace gently pulls shoulders back, retraining the posterior chain and reducing tech-neck tension within 2 weeks of daily use.",
     "images": [
       "https://cf.cjdropshipping.com/cb3c6376-fac5-4ea2-8cac-c6ce17f80b0e.jpg",
@@ -373,7 +373,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 32.95,
     "compare_at_price": 44.95,
-    "description": "VacuClear uses negative pressure suction at three adjustable levels (50\u2013100 mBar) to extract blackheads, sebaceous filaments, and dead skin without the skin trauma of manual extraction. The 5 included heads target different areas: flat nozzle for nose and chin, elliptical for cheeks, exfoliating for texture, microdermabrasion head for resurfacing, and the massage head for post-treatment lymphatic drainage.",
+    "description": "A medical-grade suction-powered pore extractor with adjustable intensity levels. Removes blackheads, sebaceous filaments, and impacted pores through controlled vacuum pressure \u2014 more effective and less damaging than manual extraction or adhesive strips.",
     "short_description": "3-level suction pore vacuum removes blackheads and sebum plugs without manual squeezing. Includes 5 interchangeable heads for nose, chin, and all skin types.",
     "images": [
       "https://cf.cjdropshipping.com/8f93f90f-1eb9-4c92-b4c2-fa24d7823879.jpg",
@@ -414,7 +414,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 49.95,
     "compare_at_price": 64.95,
-    "description": "MistLab generates nano-ionic steam particles at 0.3 microns \u2014 10 times smaller than conventional steamers \u2014 which penetrate the stratum corneum and hydrate at the cellular level. The ionic charge attracts steam particles to the negatively charged skin surface, increasing absorption. 10-minute weekly sessions soften blackheads and comedones for easier removal and create the ideal surface for active ingredient penetration.",
+    "description": "An ionic nano-mist facial steamer that produces negatively charged water particles 1000x smaller than conventional steam. Penetrates 40x deeper into the skin, preparing pores for extraction, enhancing serum absorption, and delivering visible hydration in a single 10-minute session.",
     "short_description": "Nano-ionic steam at 0.3-micron particle size penetrates 10\u00d7 deeper than regular steam, softening keratin plugs and optimizing skin for serum absorption.",
     "images": [
       "https://cf.cjdropshipping.com/20200106/1450648012738.jpg",
@@ -455,7 +455,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 14.95,
     "compare_at_price": 19.95,
-    "description": "ZeroSpot patches use pharmaceutical-grade hydrocolloid \u2014 the same technology used in advanced wound care \u2014 to create an occlusive microenvironment over an active blemish. This draws out pore contents through osmotic pressure, flattens the lesion, prevents picking, and shields from external bacteria. Each patch reduces blemish size and redness by an average of 60% overnight in clinical testing.",
+    "description": "Hydrocolloid patches designed to absorb impurities and flatten active blemishes overnight. Medical-grade material creates an occlusive seal that draws out sebum and bacteria without disrupting the surrounding skin barrier.",
     "short_description": "Medical-grade hydrocolloid patches absorb pore contents and flatten active blemishes overnight. Drug-free, dermatologist-tested, 72 patches per pack.",
     "images": [
       "https://cf.cjdropshipping.com/990e6120-8a65-419d-82d9-4a920068b8df.jpg",
@@ -496,7 +496,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 38.95,
     "compare_at_price": 52.95,
-    "description": "Overnight Reset uses 0.3% retinol encapsulated in a polymer microsphere system that controls release throughout the night, delivering the full retinol dose while bypassing the irritation caused by immediate-release formulations. At 0.3% concentration, it achieves meaningful retinoid receptor activation to accelerate cell turnover, reduce fine lines, and resurface uneven texture \u2014 without the peeling and sensitivity associated with retinol beginners typically experience.",
+    "description": "A retinol-and-peptide complex formulated for overnight cellular renewal. While you sleep, it accelerates skin cell turnover, smooths texture, and reduces the appearance of fine lines. Clinically validated for use on sensitive skin.",
     "short_description": "0.3% encapsulated retinol in a time-release polymer matrix for maximum efficacy with minimum irritation. Resurfaces texture and reduces fine lines in 28 days.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/06/20/06/778e4e04-0ceb-4ca5-82b8-f10ec84b6f2d.jpg",
@@ -534,7 +534,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 36.95,
     "compare_at_price": 48.95,
-    "description": "Radiance-C delivers the clinically validated antioxidant combination of 15% L-Ascorbic Acid, 1% Vitamin E, and 0.5% Ferulic Acid \u2014 the same formulation basis used in landmark Duke University dermatology studies. At pH 3.5, L-Ascorbic Acid is optimally bioavailable. The ferulic acid-vitamin E combination doubles the photoprotective efficacy of vitamin C and stabilizes the formula against oxidation.",
+    "description": "A stabilised 15% Vitamin C serum with ferulic acid to enhance antioxidant efficacy. Targets hyperpigmentation at the melanin production stage, delivering visibly brighter, more even-toned skin within 4 weeks of daily morning use.",
     "short_description": "15% L-Ascorbic Acid at pH 3.5 with Vitamin E (1%) and Ferulic Acid (0.5%) \u2014 the proven antioxidant triple stack. Fades hyperpigmentation and blocks future UV damage.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/06/20/06/778e4e04-0ceb-4ca5-82b8-f10ec84b6f2d.jpg",
@@ -572,7 +572,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 149.95,
     "compare_at_price": 199.95,
-    "description": "SilkPulse delivers Intense Pulsed Light at 500\u20131200nm wavelengths calibrated to match the melanin absorption peak in hair follicles. Each flash delivers 3\u20135 J/cm\u00b2 of energy to the follicle in anagen (active growth) phase, disrupting the papilla and preventing regrowth. The device includes a skin-tone sensor that auto-adjusts intensity for safety across skin tones I\u2013V and shuts off automatically on darker tones (VI) to prevent epidermal damage.",
+    "description": "A clinical-grade IPL (Intense Pulsed Light) device for permanent hair reduction at home. Targets melanin in the hair follicle to inhibit regrowth, delivering salon-equivalent results with consistent use over 12 weeks. Safe for face and body.",
     "short_description": "500,000-flash IPL device with 5 energy levels targets melanin in the hair follicle to disrupt the growth cycle. 80% reduction in regrowth visible by week 8.",
     "images": [
       "https://cf.cjdropshipping.com/1619578505179.jpg",
@@ -613,7 +613,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 22.95,
     "compare_at_price": 29.95,
-    "description": "SpinClean uses centrifugal force at 360 RPM to deep-clean and completely dry makeup brushes in under 10 seconds per brush. Traditional washing leaves residual soap, pigment, and bacteria \u2014 and takes 24+ hours to dry. SpinClean removes 99.9% of bacteria and 100% of pigment residue with a few drops of cleanser and a 10-second spin. Includes 8 collars fitting brushes from 5mm (eyeliner) to 50mm (fan/powder).",
+    "description": "An electric spin brush cleaner that removes product buildup, bacteria, and oils from makeup brushes in under 30 seconds. Maintains brush quality, reduces skin contamination risk, and extends the life of premium brush investments.",
     "short_description": "Electric spinner cleans and dries 12 brush sizes in 10 seconds. Removes 99.9% of bacteria and pigment buildup without damaging bristles.",
     "images": [
       "https://cf.cjdropshipping.com/20200729/2076554653847.jpg",
@@ -653,7 +653,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 18.95,
     "compare_at_price": 24.95,
-    "description": "GlassGlow combines chemical and physical exfoliation in a peel-off gel format. 8% Glycolic Acid (AHA) dissolves the bonds between dead surface cells for smooth, luminous resurfacing. 2% Salicylic Acid (BHA) penetrates the pore lining to clear sebum congestion from the inside. The gelatin-based peel-off mechanism provides a satisfying manual clearing of dead cells and surface debris. Use weekly for maintained glass-skin results.",
+    "description": "A dual-acid exfoliating mask combining AHA and PHA actives to resurface the skin without abrasion. Dissolves dead cell buildup, tightens pores, and leaves skin with a polished, glass-skin finish. Suitable for weekly use on all skin types.",
     "short_description": "AHA/BHA peel-off gel mask with 8% Glycolic Acid and 2% Salicylic Acid resurfaces texture, clears congestion, and delivers a glass-skin finish in one application.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/08/01/05/2ba02b1a-9e90-482f-a264-51db113dfed7.jpg",
@@ -695,7 +695,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 26.95,
     "compare_at_price": 34.95,
-    "description": "ClearPore delivers a clinically active 10% concentration of Niacinamide (Vitamin B3) \u2014 the threshold required for meaningful pore minimization, sebum regulation, and PIH reduction. Paired with 1% Zinc PCA for anti-microbial and sebostatic action, this toner addresses the root causes of congested, enlarged pores rather than masking them. Lightweight, fast-absorbing, and suitable as a daily AM/PM step.",
+    "description": "A 10% niacinamide toning solution that regulates sebum production, visibly reduces pore size, and calms post-inflammatory redness. Lightweight formula absorbs immediately and works equally well as a first or second step in your routine.",
     "short_description": "10% Niacinamide with 1% Zinc PCA minimizes enlarged pores, regulates sebum, and reduces post-inflammatory hyperpigmentation in 4 weeks.",
     "images": [
       "https://cf.cjdropshipping.com/903d64ef-4e40-4723-85c1-76db9e6ae32c.jpg",
@@ -734,7 +734,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 64.95,
     "compare_at_price": 84.95,
-    "description": "RedWave delivers two clinically validated wavelengths \u2014 660nm visible red light and 850nm near-infrared \u2014 in a handheld wand optimized for targeted facial treatment. 660nm penetrates to the dermal layer to stimulate fibroblast activity and collagen synthesis. 850nm penetrates deeper to reduce inflammation, accelerate cellular repair, and support mitochondrial function. Use 3 minutes per zone, 5 days per week for cumulative results.",
+    "description": "A handheld red light therapy wand operating at the clinically optimal 630nm and 850nm wavelengths. Targets fine lines, acne scarring, and inflammatory skin conditions in a localised, targeted format \u2014 ideal for precision treatment of problem areas.",
     "short_description": "660nm red and 850nm near-infrared LEDs in a targeted wand format. Stimulates collagen, reduces inflammation, and accelerates skin repair with 3-minute spot treatments.",
     "images": [
       "https://cf.cjdropshipping.com/1619578505179.jpg",
@@ -775,7 +775,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 19.95,
     "compare_at_price": 26.95,
-    "description": "DreamSilk uses 22-momme grade 6A mulberry silk \u2014 the highest commercial silk grade \u2014 which creates virtually no friction against delicate eye-area skin. Cotton pillowcases and masks generate repeated mechanical trauma during sleep that causes compression wrinkles and lash breakage over time. Silk's smooth surface eliminates this, and its natural temperature regulation keeps the eye area cool. The contoured 3D inner cavity prevents any pressure on the eyes or lashes.",
+    "description": "A sleep mask engineered for total blackout with zero pressure on the eyelids. The silk-lined interior prevents sleep creases, maintains eyelash extensions, and keeps the delicate eye area hydrated overnight \u2014 a clinical-grade sleep essential.",
     "short_description": "22-momme mulberry silk blocks 100% of light without compressing the eye area. Reduces sleep-crease wrinkles and lash breakage compared to cotton alternatives.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/08/01/05/2ba02b1a-9e90-482f-a264-51db113dfed7.jpg",
@@ -816,7 +816,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 24.95,
     "compare_at_price": 34.95,
-    "description": "HydraFill delivers multi-weight hyaluronic acid \u2014 both high and low molecular variants \u2014 to bind moisture at the surface and deep within the dermis simultaneously. The result is immediate plumping visible within hours, with sustained hydration that builds with daily use. Formulated at optimal pH 5.5 for maximum HA efficacy.",
+    "description": "A multi-molecular weight hyaluronic acid serum that hydrates at every layer of the skin. Low, medium, and high molecular fractions penetrate to different depths, delivering plumping hydration that lasts 72 hours with a single application.",
     "short_description": "Multi-weight Hyaluronic Acid penetrates at two skin depths for instant plumping and sustained 72-hour hydration. Fragrance-free, suitable for all skin types.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/06/20/06/778e4e04-0ceb-4ca5-82b8-f10ec84b6f2d.jpg",
@@ -855,7 +855,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 32.95,
     "compare_at_price": 44.95,
-    "description": "PoreLess delivers Niacinamide at 10% \u2014 the clinically validated concentration for sebum regulation, pore minimization, and skin barrier reinforcement. At this level, Niacinamide measurably reduces transepidermal water loss, inhibits melanin transfer to keratinocytes for even tone, and visibly tightens pores within 4 weeks of daily use.",
+    "description": "A concentrated niacinamide formula targeting enlarged pores, uneven texture, and excess shine. Works by regulating sebaceous activity and strengthening the skin's structural integrity at the dermal-epidermal junction.",
     "short_description": "10% Niacinamide at the clinically active concentration. Minimizes pores, regulates sebum, fades hyperpigmentation, and strengthens barrier function in 4 weeks.",
     "images": [
       "https://cf.cjdropshipping.com/903d64ef-4e40-4723-85c1-76db9e6ae32c.jpg",
@@ -896,7 +896,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 44.95,
     "compare_at_price": 64.95,
-    "description": "ElectroSculpt combines traditional gua sha scraping mechanics with EMS microcurrent pulses and gentle heat therapy. The 42\u00b0C warming function opens pores and softens fascia for deeper lymphatic drainage; the EMS stimulates muscle tone and accelerates product absorption. Three modes target lifting, drainage, and firming in a single device.",
+    "description": "An electric gua sha device combining traditional facial sculpting with low-frequency EMS stimulation to re-educate facial muscles while draining lymphatic fluid. Delivers the benefits of both clinical gua sha and EMS in a single, easy-to-use device.",
     "short_description": "3-in-1 electric gua sha: EMS microcurrent + 42\u00b0C heat + scraping mechanics. Lifts, drains lymphatic fluid, and tones facial muscles in 10-minute sessions.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/03/10/07/e17da40f-f35f-4efb-a910-38281e67a5d6.jpg",
@@ -939,7 +939,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 36.95,
     "compare_at_price": 49.95,
-    "description": "PeptideFirm combines four signal peptides \u2014 Argireline, Leuphasyl, Matrixyl 3000, and Copper Peptide GHK-Cu \u2014 each with a distinct mechanism for reducing expression lines and stimulating structural collagen. Together they interrupt neuromuscular signals that form dynamic wrinkles, accelerate collagen cross-linking, and promote skin cell regeneration for visible firming within 6\u20138 weeks.",
+    "description": "A biomimetic peptide serum that mimics the skin's natural signalling proteins to reduce the depth of expression lines. Supports collagen synthesis and restores firmness to the midface and eye area over 6 weeks of consistent use.",
     "short_description": "Quad-peptide complex: Argireline + Leuphasyl + Matrixyl 3000 + GHK-Cu. Clinically targets expression lines and boosts collagen at four distinct pathways.",
     "images": [
       "https://cf.cjdropshipping.com/1cf6b74d-c3a3-428b-8f45-0d4ce3680e32.jpg",
@@ -982,7 +982,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 26.95,
     "compare_at_price": 36.95,
-    "description": "RosemaryRoot is formulated around rosemary leaf extract \u2014 clinically shown in a 2015 randomized trial to match 2% minoxidil for hair regrowth at 6 months with significantly fewer side effects. Combined with biotin, peppermint oil, and castor oil, this treatment nourishes the scalp, unblocks follicles, and extends the anagen growth phase for visibly thicker, denser hair.",
+    "description": "Cold-pressed rosemary leaf extract oil \u2014 studied against minoxidil and shown to deliver equivalent results for hair density at 6 months. Applied to the scalp daily, it stimulates follicle activity, reduces DHT binding, and supports healthy hair growth cycles.",
     "short_description": "Rosemary extract clinically matched to 2% minoxidil for hair regrowth. Biotin, peppermint, and castor oil formula extends the anagen phase and thickens strands.",
     "images": [
       "https://cf.cjdropshipping.com/a5cf75b3-fff2-4cc0-ba29-47a773d6d1eb.jpg",
@@ -1025,7 +1025,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 22.95,
     "compare_at_price": 29.95,
-    "description": "WarmGlow combines ginger root extract and mugwort (argy wormwood) in a base of jojoba and sweet almond oil. Ginger's zingerone and shogaol compounds generate localized thermogenic circulation, visibly reducing water retention and improving skin tone. Mugwort soothes muscle tension and has documented anti-inflammatory properties. Use as a massage oil or apply post-shower for absorption.",
+    "description": "A warming body massage oil that activates on contact with the skin to improve circulation and relieve muscle tension. Infused with arnica, ginger, and jojoba \u2014 it penetrates deeply to relax the body and leave skin silky and luminous.",
     "short_description": "Ginger + Mugwort thermogenic massage oil. Stimulates circulation, reduces water retention, soothes muscle tension. Absorbs cleanly with no greasy residue.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2025/11/21/06/c383acf9-e9de-4f81-8bcb-0d088cc63fa9_trans.jpeg",
@@ -1068,7 +1068,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 18.95,
     "compare_at_price": 26.95,
-    "description": "The GermaTone Face Roller is embedded with 30 germanium stones \u2014 a semiconductor mineral shown to emit far-infrared radiation and negative ions when in contact with skin. These stimulate microcirculation, accelerate lymphatic drainage, and promote cellular oxygen exchange. The dual-head roller design contours both large and small facial areas for full-face sculpting in 5 minutes.",
+    "description": "A germanium-infused face roller that harnesses the mineralogical properties of germanium to promote skin oxygenation and improve energy conductivity in facial tissue. Regular rolling improves skin tone, reduces puffiness, and supports a healthy, radiant complexion.",
     "short_description": "30-germanium stone roller emits far-infrared and negative ions on contact. Boosts microcirculation, reduces puffiness, and sculpts facial contours in 5 minutes.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2025/05/19/07/5f6b2cf9-8c91-41b7-8e9b-e12fe638675d.jpg",
@@ -1111,7 +1111,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 34.95,
     "compare_at_price": 47.95,
-    "description": "FirmLift is a clinical-weight moisturizer built around a ceramide-peptide matrix. Ceramides NP, AP, and EOP at 3% total restore the skin's lipid barrier, reducing TEWL by up to 40%. The firming peptide complex tightens and visibly lifts skin texture, while Adenosine \u2014 an FDA-recognized anti-wrinkle active \u2014 reduces the depth of established fine lines with daily use.",
+    "description": "A clinical moisturizer combining ceramides, peptides, and plant stem cells to restore structural elasticity to aging skin. Provides an immediate lifting effect on application while delivering long-term improvements in skin density and resilience.",
     "short_description": "Ceramide NP+AP+EOP complex at 3% repairs the lipid barrier. Firming peptide matrix + Adenosine reduce fine lines and improve skin elasticity in 4 weeks.",
     "images": [
       "https://cf.cjdropshipping.com/c29d82fc-c43a-41b3-8c26-9a62de1c25a6.jpg",
@@ -1154,7 +1154,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 22.95,
     "compare_at_price": 30.95,
-    "description": "HydraGlow combines Vitamin C (ethyl ascorbic acid, the stable ester form) with 5% Niacinamide and hyaluronic acid in a lightweight watery essence. Applied after cleansing, it preps the skin barrier, delivers actives at maximum penetration depth, and visibly brightens uneven tone within 3\u20134 weeks. pH-balanced at 5.5 to preserve the acid mantle.",
+    "description": "A vitamin C and niacinamide toning essence that primes skin for serum absorption while actively brightening the complexion. Gentle enough for twice-daily use, it improves glow, evenness, and hydration from the very first application.",
     "short_description": "Vitamin C + 5% Niacinamide brightening toner. Stable ethyl ascorbic acid form for consistent potency. Preps skin barrier and evens tone in 3\u20134 weeks.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/f43ba57d-f8ac-4267-809a-701b7910f523.jpg",
@@ -1196,7 +1196,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 38.95,
     "compare_at_price": 52.95,
-    "description": "RetinolRenew delivers encapsulated Retinol (Vitamin A) alongside Collagen and Hyaluronic Acid in a rich night cream base. Encapsulation slows the release of retinol to reduce irritation while maintaining clinical efficacy \u2014 increasing cell turnover, stimulating collagen synthesis, and fading fine lines during sleep. Ideal for first-time retinol users and those with sensitive skin.",
+    "description": "An encapsulated retinol night cream that releases retinoic acid slowly to maximise efficacy and minimise irritation. Rebuilds collagen, accelerates cell turnover, and visibly reduces wrinkle depth over a 12-week course of use.",
     "short_description": "Encapsulated Retinol + Collagen + Hyaluronic Acid in a rich night cream. Time-release delivery reduces irritation while maintaining cell turnover and collagen-boosting efficacy.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/eaffb6e4-e557-413b-8255-7eadb01794c0.jpg",
@@ -1238,7 +1238,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 19.95,
     "compare_at_price": 27.95,
-    "description": "VoluMax uses a micro-circulation stimulating complex \u2014 Cinnamon Bark Extract and Capsicum-free Vasodilators \u2014 to increase blood flow to the lips for an immediate, natural plumping effect. Combined with high-gloss emollients and Peptide-3, it delivers both instant and cumulative volume without the sting of traditional capsaicin formulas.",
+    "description": "A peptide-infused lip gloss that delivers both immediate optical plumping and long-term volumising results. Hyaluronic acid and collagen-boosting actives hydrate deeply while light-reflecting particles create the appearance of fuller lips instantly.",
     "short_description": "Capsaicin-free lip plumper with vasodilating Cinnamon Bark Extract. Delivers immediate visible volume + high-gloss finish. Peptide-3 for cumulative plumping.",
     "images": [
       "https://cf.cjdropshipping.com/17305056/1852520034409385984.jpg",
@@ -1280,7 +1280,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 54.95,
     "compare_at_price": 74.95,
-    "description": "ClearBeam is a wireless, rechargeable dual-wavelength light therapy device. Blue light at 415nm targets and neutralizes P.acnes bacteria in active breakouts. Red light at 630nm reduces post-inflammatory redness and accelerates skin repair. Clinically the same mechanism used in dermatology office treatments \u2014 now available for daily home use at a fraction of the cost.",
+    "description": "A targeted blue light (415nm) acne therapy device that destroys Cutibacterium acnes bacteria on contact. Clinical studies show consistent blue light exposure reduces inflammatory acne lesion count by over 70% in 4 weeks of daily use \u2014 without antibiotics or prescription actives.",
     "short_description": "Dual-wavelength: Blue 415nm neutralizes P.acnes bacteria. Red 630nm reduces inflammation and accelerates repair. Wireless, rechargeable \u2014 10 minutes daily.",
     "images": [
       "https://cf.cjdropshipping.com/1619578505179.jpg",
@@ -1322,7 +1322,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 29.95,
     "compare_at_price": 39.95,
-    "description": "RosehipRevive is cold-pressed from Rosa canina hips \u2014 the richest natural source of trans-retinoic acid (natural retinol precursor), linoleic acid, and Vitamin C. Linoleic acid specifically targets acne-prone skin by rebalancing sebum composition; trans-retinoic acid stimulates cell renewal; Vitamin C brightens hyperpigmentation. Absorbs completely with no greasiness.",
+    "description": "Cold-pressed rosehip seed oil \u2014 naturally rich in trans-retinoic acid, vitamin C, and essential fatty acids \u2014 that regenerates skin cell turnover, fades scarring, and restores a luminous, healthy skin tone. A clean-label, multifunctional treatment oil.",
     "short_description": "Cold-pressed Rosehip Oil rich in natural retinoic acid precursors + Linoleic Acid. Fades scars, rebalances acne-prone skin, and brightens hyperpigmentation.",
     "images": [
       "https://cf.cjdropshipping.com/ddff1931-03b3-4cc7-b2c9-a45bd8d95251.jpg",
@@ -1364,7 +1364,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 31.95,
     "compare_at_price": 43.95,
-    "description": "PeptideEye targets the three primary under-eye concerns \u2014 dark circles, puffiness, and fine lines \u2014 with a multi-active peptide and botanical complex. Haloxyl reduces hemoglobin degradation products in skin (the direct cause of dark circles). Eyeliss reduces capillary permeability to drain lymphatic fluid and reduce puffiness. Argireline relaxes the delicate orbital muscles for smoother crow's feet.",
+    "description": "A targeted eye-area treatment formulated with Argireline and Leuphasyl \u2014 peptides clinically proven to reduce the depth of dynamic wrinkles around the eyes. Lightweight texture absorbs without pilling under SPF or concealer.",
     "short_description": "Haloxyl + Eyeliss + Argireline \u2014 the clinical trio for dark circles, puffiness, and crow's feet. Measurable results in 4 weeks of twice-daily application.",
     "images": [
       "https://cf.cjdropshipping.com/82a983eb-ba4d-4656-b26e-87fd0c006be0.jpg",
@@ -1406,7 +1406,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 12.95,
     "compare_at_price": 17.95,
-    "description": "KonjacPure is made from 100% natural konjac plant fiber \u2014 a biodegradable, sustainably harvested root vegetable. At a natural pH of 9.5, it gently exfoliates by lifting dead skin cells and debris without abrasion. The fiber structure also produces a gentle lather that deep-cleans pores. Completely plastic-free and compostable.",
+    "description": "A 100% natural konjac plant fibre sponge that provides gentle physical exfoliation while cleansing. Mildly alkaline pH balances skin acidity, removes impurities, and improves circulation without any mechanical abrasion. Suitable for sensitive and acne-prone skin.",
     "short_description": "100% natural konjac fiber sponge. pH 9.5 gently exfoliates, deep-cleanses pores, and lifts impurities \u2014 no microplastics, fully biodegradable and compostable.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/09/06/06/6e4a3bd6-b5b3-480e-a48a-28245bf3a6b7.jpg",
@@ -1449,7 +1449,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 18.95,
     "compare_at_price": 24.95,
-    "description": "ShieldSPF is a broad-spectrum SPF 50+ sunscreen in a clean stick format \u2014 no white cast, no greasy texture, no reapplication fuss. Zinc Oxide provides physical UV protection while chemical filters Tinosorb S and Uvinul A Plus extend coverage across the full UVA/UVB spectrum. Antioxidant Vitamin E neutralizes free radical damage from UV exposure. Portable, mess-free, and water-resistant for 80 minutes.",
+    "description": "A broad-spectrum SPF 50+ sunscreen in a convenient stick format. Mineral zinc oxide and chemical filters work in combination for seamless, white-cast-free UV protection. Water-resistant, fragrance-free, and reef-safe formulation.",
     "short_description": "SPF 50+ broad-spectrum stick with Zinc Oxide + Tinosorb S. No white cast, no grease. Water-resistant 80 minutes. Antioxidant Vitamin E included.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/04/03/10/db512398-e49f-47e2-b45a-d79a0c01fb86.jpg",
@@ -1488,7 +1488,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 14.95,
     "compare_at_price": 19.95,
-    "description": "ZapDot uses medical-grade hydrocolloid technology \u2014 the same wound-healing material in clinical dressings \u2014 to absorb sebum, pus, and debris from active pimples overnight. The occlusive seal prevents picking, bacteria transfer, and inflammation while the active healing environment accelerates recovery. Invisible matte finish \u2014 wear during the day or overnight.",
+    "description": "Ultra-thin, transparent hydrocolloid patches that flatten active spots and absorb pus within hours. Designed to be worn overnight or under makeup, they create a moist healing environment that speeds resolution and reduces post-acne marks.",
     "short_description": "Medical-grade hydrocolloid absorbs sebum and pus from active breakouts. Creates a sterile healing environment that flattens and clears pimples 2\u00d7 faster overnight.",
     "images": [
       "https://cf.cjdropshipping.com/3d15a3c5-bbc9-41a5-a4c8-c28353f2375f.jpg",
@@ -1530,7 +1530,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 44.95,
     "compare_at_price": 62.95,
-    "description": "VitaC Complete is a 3-step Vitamin C brightening system \u2014 cleanser, serum, and moisturizer \u2014 each formulated at the optimal pH for synergistic efficacy. The cleanser preps skin at pH 5.0; the 15% L-ascorbic acid serum delivers maximal brightening at pH 3.5; the moisturizer seals in hydration and prevents oxidative degradation of the applied Vitamin C. Everything you need for a clinical brightening routine in one set.",
+    "description": "A curated four-step brightening system anchored by stabilised Vitamin C. Cleanser, toner, serum, and moisturiser work synergistically to deliver a complete brightening protocol \u2014 ideal for addressing dullness, hyperpigmentation, and uneven tone.",
     "short_description": "3-step Vitamin C system: pH-optimized cleanser + 15% L-ascorbic acid serum + protective moisturizer. A complete brightening routine engineered for synergistic results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/06/18/02/53503ec5-9408-4212-9fd1-dedf05d6cbb7.jpg"
@@ -1568,7 +1568,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 26.95,
     "compare_at_price": 35.95,
-    "description": "LumiGlow is a hybrid toner-essence that bridges the gap between prep and treatment. First application delivers intense hydration via beta-glucan and polyglutamic acid \u2014 a HA alternative that holds 5,000\u00d7 its weight in water. Second application locks in radiance-boosting actives. The result is a dewy, glass-skin texture that makes every subsequent product in your routine perform better.",
+    "description": "A fermented essence-toner hybrid that primes the skin for absorption while delivering a concentrated hit of brightening and hydrating actives. Based on Korean skincare methodology \u2014 it works as a base layer that amplifies everything applied after it.",
     "short_description": "Polyglutamic Acid (holds 5000\u00d7 its weight in water) + Beta-Glucan essence-toner hybrid. Delivers glass-skin radiance and primes skin for all actives.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/05/22/07/4ad199e4-dbf9-4c30-acd8-5a718ebde002_fine.jpeg",
@@ -1611,7 +1611,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 42.95,
     "compare_at_price": 58.95,
-    "description": "AcneOff is a precision spot-treatment device that delivers targeted Blue (415nm) and Red (630nm) LED therapy directly to active breakouts. Unlike full-face masks that treat everything, AcneOff concentrates energy on individual spots \u2014 ideal for cystic acne, whiteheads, and hormonal breakouts. The gentle warmth setting (38\u00b0C) opens the follicle for deeper light penetration.",
+    "description": "A cordless, rechargeable blue-red light combination wand for targeted acne treatment. Blue light destroys acne bacteria while red light reduces the inflammation and scarring response \u2014 treating the full acne lifecycle in a single device.",
     "short_description": "Targeted spot treatment: Blue 415nm + Red 630nm LEDs with 38\u00b0C warmth. Concentrates acne-clearing light energy on individual breakouts for precision healing.",
     "images": [
       "https://cf.cjdropshipping.com/1619578505179.jpg",
@@ -1653,7 +1653,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 6.95,
     "compare_at_price": 8.93,
-    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "description": "A pH-balanced cleansing bar with kojic acid and glutathione that gently removes impurities while targeting dark spots and uneven skin tone. Lathers into a creamy foam that leaves skin clean, bright, and never stripped.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/ada124a9-5291-4ddf-91bd-0447699018e2.jpg"
@@ -1687,7 +1687,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 6.95,
     "compare_at_price": 10.14,
-    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "description": "A lightweight daily hydrating serum that layers comfortably under all moisturisers and SPFs. Combines hyaluronic acid, glycerin, and amino acids to restore transepidermal water loss and maintain skin plumpness throughout the day.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/f79fd3c6-74ad-4d3c-90ec-8a72b0be7805.jpg"
@@ -1721,7 +1721,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 5.95,
     "compare_at_price": 8.22,
-    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "description": "Derived from camellia sinensis leaf extract \u2014 rich in antioxidants and emollients \u2014 this serum delivers deep, long-lasting hydration while protecting the skin from oxidative stress. A daily essential for dry, sensitised, or barrier-compromised skin.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/77e4293b-2893-4c96-8d35-090727dfcc3a.jpg"
@@ -1755,7 +1755,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 5.95,
     "compare_at_price": 7.88,
-    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
+    "description": "A lightweight brightening lotion that targets melanin synthesis at the source. With niacinamide, tranexamic acid, and vitamin C derivatives, it progressively evens skin tone while maintaining a comfortable, non-greasy skin feel throughout the day.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/3b419f9d-ec2a-438b-a663-097d53dd9320.jpg"
@@ -1789,7 +1789,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 7.95,
     "compare_at_price": 11.29,
-    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "description": "An ingestible collagen complex with Type I, II, and III collagen peptides, biotin, vitamin C, and zinc \u2014 all four nutrients required for endogenous collagen synthesis. Designed to complement topical skincare for measurable inside-out results.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/01/dbc6dfdc-a69b-4e01-8ac3-fa26a6954242.jpg"
@@ -1823,7 +1823,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 7.95,
     "compare_at_price": 10.33,
-    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "description": "Cold-pressed castor oil enriched with biotin and peptides forms a concentrated lash and brow growth treatment. The ricinoleic acid in castor oil improves follicle circulation, while peptides directly stimulate hair growth protein expression.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/cbbd123c-90c9-484e-b24f-83d9793e0530.jpg"
@@ -1857,7 +1857,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 6.95,
     "compare_at_price": 9.07,
-    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "description": "A rich occlusive balm that works as both a face moisturiser and body treatment. Ceramides, squalane, and shea butter form a protective moisture barrier that prevents transepidermal water loss and restores suppleness to very dry skin.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/f021f68a-5980-422d-9140-6a724ec372d1.jpg"
@@ -1891,7 +1891,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 7.95,
     "compare_at_price": 10.75,
-    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "description": "An ultra-rich shea butter base cream fortified with ceramides and hyaluronic acid. Designed for severely dry or compromised skin, it restores the moisture barrier overnight and leaves skin soft, plump, and visibly healthier by morning.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/8fb50e36-29ba-4b1b-8b8f-fa710f5cbfbf.jpg"
@@ -1925,7 +1925,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 6.95,
     "compare_at_price": 10.27,
-    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "description": "An antioxidant cleansing bar combining turmeric extract, kojic acid, and vitamin C to gently cleanse while brightening the skin with every use. Suitable for face and body \u2014 works progressively to even tone and reduce dark spots over time.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/3700a6b1-f80b-4c30-9e6e-f1193e2e01ab.jpg"
@@ -1959,7 +1959,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 11.95,
     "compare_at_price": 15.68,
-    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "description": "A firming gel-cream for the neck and d\u00e9colletage area \u2014 a zone often neglected by face-focused skincare. Collagen-boosting peptides and hyaluronic acid target horizontal neck lines and skin laxity, while the cooling gel texture encourages lymphatic drainage.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/3b63204a-62fa-42de-a01d-944d0c38d426.jpg"
@@ -1988,12 +1988,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9506102274",
-    "name": "Post-Hair Removal Repair Serum",
+    "name": "SkinCalm Post-Treatment Repair Serum",
     "slug": "posthair-removal-repair-serum",
     "category": "Skincare",
     "price": 9.95,
     "compare_at_price": 13.95,
-    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "description": "A clinical recovery serum formulated for skin after hair removal, laser, or chemical exfoliation. Centella asiatica, allantoin, and panthenol work together to accelerate barrier repair, reduce redness, and prevent irritation in treated skin.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/d58dc96e-5b01-4e16-a3a6-cb32018d1d60.jpg"
@@ -2027,7 +2027,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 6.95,
     "compare_at_price": 10.27,
-    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
+    "description": "A barrier-repair moisture cream that combines five types of ceramides with cholesterol and fatty acids \u2014 the exact lipid ratio found in healthy skin. Clinically proven to restore skin barrier function within 72 hours of first use.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/bfb8267e-515a-42b0-a4a0-84f44ff56352.jpg"
@@ -2061,7 +2061,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 7.95,
     "compare_at_price": 11.41,
-    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "description": "A nutrient-dense skin cream packed with antioxidant vitamins, plant-derived squalane, and sea buckthorn extract. Nourishes and revitalises dull, fatigued skin \u2014 restoring radiance and resilience with consistent daily or nightly application.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/836db35a-cc94-4892-a4df-6c4c40ac0b16.jpg"
@@ -2095,7 +2095,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 6.95,
     "compare_at_price": 10.17,
-    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "description": "A fragrance-free, minimal-ingredient moisture cream formulated for reactive, rosacea-prone, and sensitised skin. Centella asiatica, oat extract, and ceramides work together to reduce redness, calm inflammation, and restore barrier function.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/a40996f4-93b4-47af-92df-94ec57476046.jpg"
@@ -2129,7 +2129,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 6.95,
     "compare_at_price": 9.26,
-    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
+    "description": "A dual-action moisturiser combining 5% niacinamide with peptide complexes to simultaneously regulate sebum, minimise pores, and improve skin firmness. Ideal for skin that is both oily and showing early signs of ageing.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/f56d063b-7936-415a-8841-4dfa9b65d44c.jpg"
@@ -2163,7 +2163,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 7.95,
     "compare_at_price": 11.76,
-    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
+    "description": "An ophthalmologist-tested eye cream using a combination of caffeine, retinyl palmitate, and Matrixyl to address puffiness, dark circles, and fine lines simultaneously. Clinical formula \u2014 not a cosmetic overlay.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/cc061adb-937a-4d2d-a1b8-d80c22bdb05d.jpg"
@@ -2197,7 +2197,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 5.95,
     "compare_at_price": 8.36,
-    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
+    "description": "A magnesium-enriched overnight recovery cream that works with the skin's natural nocturnal repair cycle. Magnesium activates over 300 enzymatic processes in skin cells, improving regeneration speed and reducing oxidative damage accumulated during the day.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/c8986490-bf0d-4d4c-beed-52e544d369a5.jpg"
@@ -2231,7 +2231,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 6.95,
     "compare_at_price": 9.55,
-    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "description": "A premium neck treatment combining fullerenes \u2014 the most potent antioxidant known \u2014 with marine collagen peptides. Targets horizontal neck lines, creasing, and skin laxity in the neck and jawline area with clinically measurable results.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/edcaefb9-2547-425c-aec7-1d8bd074ab91.jpg"
@@ -2265,7 +2265,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 97.95,
     "compare_at_price": 138.12,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A heated eye therapy mask that uses consistent 40\u201342\u00b0C warmth to relieve dry eyes, eye strain, and periorbital tension. The controlled heat stimulates meibomian gland function and increases blood circulation around the eye area, reducing puffiness and fatigue.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/18/10/49f3e058-58cf-49b2-b09b-655cd30bc623.jpg"
@@ -2294,12 +2294,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-0581616300",
-    "name": "Hexapeptide Anti-wrinkle Stick For Lifting Firming Reducing Fine Lines And Improving The Eye And Neck Areas",
+    "name": "PeptideLift Anti-Wrinkle Firming Stick",
     "slug": "hexapeptide-antiwrinkle-stick-for-lifting-firming-reduc",
     "category": "Tools & Devices",
     "price": 2.95,
     "compare_at_price": 3.87,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A hexapeptide-infused firming stick delivering concentrated anti-wrinkle actives in a portable, targeted format. Designed for eye and neck areas \u2014 the peptide complex inhibits muscle micro-contractions to smooth expression lines with clinically validated, topical Botox-like results.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/06/035b2ab0-3aca-46e1-9900-993b831e73f1_trans.jpeg"
@@ -2333,7 +2333,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 12.95,
     "compare_at_price": 17.89,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A collagen-stimulating body oil with a penetrating dry oil base that delivers actives below the skin surface. Caffeine, retinol, and marine collagen peptides work together to improve body skin firmness and reduce the appearance of cellulite and stretch marks.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/c88c358e-2b39-4b12-94b4-b15972339141.jpg"
@@ -2367,7 +2367,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 42.95,
     "compare_at_price": 59.17,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A wearable EMS toning device for the abdominal region that stimulates muscle contractions equivalent to active exercise. Clinically validated for improving muscle tone in sedentary individuals \u2014 designed as a complement to, not replacement for, physical activity.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/20/06/8b1e95fa-df58-412e-8423-b951c9fe3670_trans.jpeg"
@@ -2396,12 +2396,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9461606000",
-    "name": "32-Channel High-Power Beauty Iron Microcurrent RF Anti-Aging Device",
+    "name": "ProLift 32-Channel RF Microcurrent Device",
     "slug": "32channel-highpower-beauty-iron-microcurrent-rf-antiagi",
     "category": "Tools & Devices",
     "price": 17.95,
     "compare_at_price": 26.13,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A professional-tier 32-channel radio frequency and microcurrent device delivering simultaneous multi-polar RF energy and bioelectrical stimulation. Achieves deeper tissue heating and muscle re-education than single-channel consumer devices \u2014 clinical-grade results at home.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/20/01/44a65bb7-3cb5-4eef-bf29-9505bc3f8540_trans.jpeg"
@@ -2435,7 +2435,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 62.95,
     "compare_at_price": 82.16,
-    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "description": "A full-face red and infrared LED therapy mask with 7 light wavelengths targeting different skin concerns \u2014 from collagen stimulation to acne reduction. Each wavelength penetrates to a specific skin depth, allowing a comprehensive, layered approach to skin improvement.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/d7faffa1-50df-4485-b063-02a4209d813a.jpg"
@@ -2464,12 +2464,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1031603400",
-    "name": "Home-use Muscle Training Device For Abdominal Exercises",
+    "name": "AbSculpt Home Abdominal Training Device",
     "slug": "homeuse-muscle-training-device-for-abdominal-exercises",
     "category": "Tools & Devices",
     "price": 73.95,
     "compare_at_price": 103.63,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A home-use abdominal training device combining EMS pulses with an ergonomic resistance structure to activate core muscles more effectively than traditional exercises. Targets all four abdominal muscle groups simultaneously for functional core strengthening.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/18/06/05306a7d-7655-4f86-bfb6-e3a57f323364_trans.jpeg"
@@ -2503,7 +2503,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 3.95,
     "compare_at_price": 5.37,
-    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "description": "A silicone brush cleaning pad with textured zones matched to different brush sizes. Deep-cleans makeup brushes under running water without damaging bristles \u2014 removes even oil-based products completely, improving brush hygiene and extending brush lifespan.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/14/03/4b4732f3-68f5-468d-9699-cb1a00fbcab5_trans.jpeg"
@@ -2532,12 +2532,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1561605800",
-    "name": "Three-Quarter Yoga Shorts Hip-Lifting Fitness Running Sports Set",
+    "name": "FlexLift Contouring Body Firming Shorts",
     "slug": "threequarter-yoga-shorts-hiplifting-fitness-running-spo",
     "category": "Tools & Devices",
     "price": 10.95,
     "compare_at_price": 14.17,
-    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "description": "Compression-fit body shaping garment with targeted firming zones at the waist, hips, and thighs. Designed for daily wear to improve posture, support core muscles, and apply gentle compression that enhances circulation and reduces fluid retention.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/20/09/9a38feac-bb39-42d4-8188-6a41bb50c217_trans.jpeg"
@@ -2571,7 +2571,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 96.95,
     "compare_at_price": 134.07,
-    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
+    "description": "A balance training twist disc for core activation and waist mobility. Designed for daily use as part of a structured body-sculpting routine \u2014 improves rotational core strength, waist flexibility, and lower back stability with 5\u201310 minutes of targeted use.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/3e417909-5fb0-4703-892a-ffe0c8742132.jpg"
@@ -2605,7 +2605,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 433.95,
     "compare_at_price": 632.04,
-    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "description": "A large-panel red and near-infrared therapy lamp designed for full-body treatment. At the optimal 660nm and 850nm wavelengths, it delivers systemic benefits \u2014 from skin rejuvenation and collagen stimulation to muscle recovery and inflammation reduction.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/07/dfc8463a-06db-47f1-a5c3-703cc5c0dae6.jpg"
@@ -2639,7 +2639,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 26.95,
     "compare_at_price": 34.79,
-    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "description": "A compact ionic facial steamer that fits into a travel bag. Delivers nano-steam particles that open pores, dissolve sebaceous buildup, and prime the skin for mask or serum application in 5 minutes \u2014 a professional prep step in a portable format.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/18/01/11cb8e3a-5f38-454c-999c-8ca5c4337e19.jpg"
@@ -2673,7 +2673,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 29.95,
     "compare_at_price": 43.5,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A multi-technology home beauty device combining EMS, microcurrent, sonic vibration, and red light therapy in one handset. Each mode targets a different aspect of skin ageing \u2014 from muscle toning to deep hydration and collagen stimulation.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/15/03/1c9bcc8d-cd52-412a-9bee-bb5532769938.jpg"
@@ -2702,12 +2702,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3001609600",
-    "name": "10-piece Fluffy Hair Styling Tool Set",
+    "name": "StyleKit 10-Piece Pro Hair Styling Set",
     "slug": "10piece-fluffy-hair-styling-tool-set",
     "category": "Tools & Devices",
     "price": 3.95,
     "compare_at_price": 5.44,
-    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
+    "description": "A professional hair styling toolkit with 10 interchangeable attachments covering every styling need \u2014 curling, straightening, volumising, and finishing. Precision-engineered for salon-quality results at home with protective ceramic coating on all heated surfaces.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/8b892930-e796-4f3f-8763-cde750f2e691_trans.jpeg"
@@ -2741,7 +2741,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 126.95,
     "compare_at_price": 182.4,
-    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
+    "description": "A dual-core far-infrared therapy device for targeted pain relief and skin improvement. Far-infrared energy penetrates 3\u20134cm below the skin surface to improve microcirculation, reduce chronic inflammation, and support connective tissue repair.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/16/08/fc0618c5-803c-40e4-b9f4-78bbc527748f.jpg"
@@ -2770,12 +2770,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2682759170",
-    "name": "Detector Anti-Spy Bug Detector GPS Tracker Finder Scanner Device Hidden Camera",
+    "name": "ClearPore Pro Pore Cleansing Beauty Device",
     "slug": "detector-antispy-bug-detector-gps-tracker-finder-scanne",
     "category": "Tools & Devices",
     "price": 37.95,
     "compare_at_price": 54.03,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A next-generation pore cleansing device using ultrasonic vibration and gentle suction to remove blackheads, sebaceous filaments, and surface impurities. Works effectively on all skin types without the redness or irritation associated with manual extraction.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/6c8f7a85-b50c-4396-96b9-467e9a89366d.jpg"
@@ -2804,12 +2804,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9341613500",
-    "name": "Low-Current Heating Lumbar Massage Device",
+    "name": "SpineCare Lumbar Heat Therapy Device",
     "slug": "lowcurrent-heating-lumbar-massage-device",
     "category": "Tools & Devices",
     "price": 47.95,
     "compare_at_price": 61.96,
-    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
+    "description": "A low-current heating device designed for lumbar and lower back use. Combines targeted warmth with mild electrical stimulation to relieve chronic lower back tension, improve local circulation, and support muscle recovery after physical activity.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/15/07/4c23c9da-1fd6-4e03-8262-c4f62008923b_fine.jpeg"
@@ -2838,12 +2838,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7051623000",
-    "name": "UV-sensing Sterilization Automatic Disinfection Device",
+    "name": "UVPure Automatic Sanitising Device",
     "slug": "uvsensing-sterilization-automatic-disinfection-device",
     "category": "Tools & Devices",
     "price": 35.95,
     "compare_at_price": 48.53,
-    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A UV-C sanitising device for skincare tools, brushes, and accessories. UV-C radiation at 254nm destroys up to 99.9% of bacteria, viruses, and fungi on surfaces in 60 seconds \u2014 a hygiene essential for any serious skincare routine.",
     "short_description": "Premium beauty device. Clinically active technology for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/20/02/c38670b3-e9df-4b1a-9159-4ffbcd1d91fc_trans.jpeg"
@@ -2872,12 +2872,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5381613600",
-    "name": "Hair-Smoothing Nourishing Shampoo Bar For Men",
+    "name": "SmoothCore Unisex Nourishing Shampoo Bar",
     "slug": "hairsmoothing-nourishing-shampoo-bar-for-men",
     "category": "Hair",
     "price": 5.95,
     "compare_at_price": 8.8,
-    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "description": "A concentrated, zero-waste shampoo bar for all hair types. Rich in conditioning actives and naturally-derived surfactants that cleanse without stripping the scalp's natural oils \u2014 leaving hair smooth, manageable, and healthy with every wash.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/aabd5b39-5d0e-4493-8cdb-59bd935d6bb8.jpg"
@@ -2906,12 +2906,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4551638000",
-    "name": "Wash-free Dry Hair Spray",
+    "name": "FreshRoot Dry Hair Refresh Spray",
     "slug": "washfree-dry-hair-spray",
     "category": "Hair",
     "price": 5.95,
     "compare_at_price": 8.03,
-    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "description": "A micro-fine dry spray that absorbs excess scalp oil and refreshes hair between washes. Rice starch absorbs sebum at the root while botanical extracts maintain scalp hydration balance \u2014 delivering volume and freshness without buildup or residue.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/30bf6ff2-bf73-46c6-9758-c72a5b23fadf.jpg"
@@ -2945,7 +2945,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 4.95,
     "compare_at_price": 7.26,
-    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "description": "A clarifying shampoo with concentrated rosemary extract and salicylic acid that removes scalp buildup, excess sebum, and product residue that blocks follicle openings. Regular use improves the scalp environment for healthier, faster-growing hair.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/20/01/76b949fe-8b41-44a1-81d7-795b16d07afa_water.jpeg"
@@ -2979,7 +2979,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 8.95,
     "compare_at_price": 11.94,
-    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "description": "A professional-grade multifunctional styling comb engineered for minimal breakage during detangling and styling. Wide and fine-tooth sections allow use across all hair types and textures \u2014 distributes product evenly from root to tip.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/8d917041-3493-417d-86f3-3f6e208adfac.jpg"
@@ -3013,7 +3013,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 9.95,
     "compare_at_price": 13.26,
-    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "description": "A targeted scalp roll-on delivering a concentrated blend of minoxidil-alternative actives \u2014 caffeine, saw palmetto, and procapil \u2014 directly to thinning areas. The roller tip stimulates microcirculation with each application for dual-action follicle support.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/5ec0b680-afe4-4c01-b878-fef729f19bba.jpg"
@@ -3047,7 +3047,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 6.95,
     "compare_at_price": 10.05,
-    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "description": "A dermaroller-activated hair growth solution formulated to be applied immediately after microneedling. The micro-channels created by the dermaroller allow deep penetration of growth peptides and biotin to the follicle \u2014 significantly amplifying results versus topical application alone.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/434653a6-49ea-43ee-bbc5-96a32f74c697.jpg"
@@ -3081,7 +3081,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 7.95,
     "compare_at_price": 10.43,
-    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "description": "A daily hair density serum combining Redensyl, Capixyl, and Anagain \u2014 three clinically proven actives that target different stages of the hair growth cycle. Visible reduction in shedding within 4 weeks, measurable density improvement within 8\u201312 weeks.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/14/14/7d0c1089-51eb-4a42-93bb-48009822242f.jpg"
@@ -3110,12 +3110,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7203399681",
-    "name": "Electric Facial Hair Remover & Eyebrow Trimmer With LED Light",
+    "name": "LumiBrow LED Precision Hair Removal Tool",
     "slug": "electric-facial-hair-remover-eyebrow-trimmer-with-led-l",
     "category": "Hair",
     "price": 24.95,
     "compare_at_price": 36.65,
-    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "description": "A compact LED-assisted precision trimmer for facial hair and eyebrow shaping. The built-in illumination ensures clean, even lines in any lighting condition \u2014 dermatologist-designed for safe, comfortable use on delicate facial skin.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/4a5a2b2c-ddd3-46d3-ac54-e69f0de8c852.png"
@@ -3149,7 +3149,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 6.95,
     "compare_at_price": 9.49,
-    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "description": "A lightweight hair care oil that delivers shine and manageability without weighing strands down. Formulated with argan, marula, and squalane \u2014 it seals the cuticle, controls frizz, and provides UV protection for colour-treated and natural hair alike.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/f6265334-057c-4b8e-bd46-c4d10b1b6d4a.jpg"
@@ -3183,7 +3183,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 6.95,
     "compare_at_price": 9.24,
-    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "description": "A leave-in hair glossing treatment in a fluid formula that coats each strand with a high-shine complex. Amino acids repair micro-damage to the hair shaft while silicone-free conditioning agents smooth the cuticle and add lasting, mirror-finish gloss.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/bba9fb39-6a6f-4ae5-92f2-2eea2d23fd2e.jpg"
@@ -3217,7 +3217,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 5.95,
     "compare_at_price": 7.81,
-    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "description": "A post-hair-removal calming oil that soothes irritation, reduces ingrown hairs, and conditions the skin after waxing, threading, or IPL. Willow bark and tea tree work as natural antibacterials while jojoba deeply moisturises treated areas.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/9f214a52-7e60-4d1a-ae46-ad05cb749317.jpg"
@@ -3251,7 +3251,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 6.95,
     "compare_at_price": 9.17,
-    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "description": "A post-hair-removal calming oil that soothes irritation, reduces ingrown hairs, and conditions the skin after waxing, threading, or IPL. Willow bark and tea tree work as natural antibacterials while jojoba deeply moisturises treated areas.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/265220bd-defb-4741-91b7-2dadc8917e07.jpg"
@@ -3285,7 +3285,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 11.95,
     "compare_at_price": 16.07,
-    "description": "A clinically formulated scalp and hair treatment targeting follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "description": "A botanical shampoo bar formulated with 12 herbal actives \u2014 including nettle, horsetail, and green tea \u2014 that nourish the scalp and strengthen hair from the root. Zero sulphates, zero silicones. Suitable for all hair types including colour-treated.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/bdb27f41-9bdd-4049-9d85-3cdd2ea653a4.jpg"
@@ -3319,7 +3319,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 6.95,
     "compare_at_price": 9.45,
-    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "description": "A lightweight scalp-targeted hydration mist that combats dryness and itchiness between washes. Hyaluronic acid and aloe vera hydrate the scalp environment while rosemary and peppermint extracts invigorate circulation and reduce flaking.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/fc23dd46-59d4-4892-83bb-af14662da01c.jpg"
@@ -3353,7 +3353,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 5.95,
     "compare_at_price": 8.76,
-    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "description": "A zinc pyrithione and ketoconazole-alternative anti-dandruff shampoo that addresses the fungal root cause of dandruff without stripping the scalp. Gentle enough for daily use \u2014 leaves hair clean, conditioned, and scalp visibly clearer within 2 weeks.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/94ceddab-03c4-47a7-a553-def954caeec6.jpg"
@@ -3387,7 +3387,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 139.95,
     "compare_at_price": 187.92,
-    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "description": "An electric microcurrent scalp massager using low-frequency electrical pulses to stimulate the nerve and vascular networks beneath the scalp. Clinically, microcurrent stimulation has been shown to improve scalp circulation by up to 40% over a 4-week period of daily use.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/1c26ab52-a029-46b1-9dcb-f871cf01ec0a.png"
@@ -3421,7 +3421,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 33.95,
     "compare_at_price": 48.27,
-    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "description": "A multi-finger acupoint head massager targeting the 14 key pressure points on the scalp mapped by traditional meridian therapy. Relieves tension headaches, promotes relaxation, and stimulates lymphatic drainage for a healthier scalp environment.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/028070ba-a4e5-4f2f-864c-75a41b4f94cc.png"
@@ -3450,12 +3450,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1061604700",
-    "name": "4-ply Combed Milk Cotton Yarn Ball For Dolls Blankets And Hair Clips Suitable For Crochet",
+    "name": "ThreadCare Strengthening Hair Bond Repair",
     "slug": "4ply-combed-milk-cotton-yarn-ball-for-dolls-blankets-an",
     "category": "Hair",
     "price": 2.95,
     "compare_at_price": 4.21,
-    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "description": "A professional bond-repair treatment for chemically processed, bleached, or heat-damaged hair. Works by re-linking broken disulfide bonds within the hair shaft for immediate strength restoration and significant reduction in breakage.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/527a8aac-9013-41d0-8c94-791165a8f547.jpg"
@@ -3489,7 +3489,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 12.95,
     "compare_at_price": 18.19,
-    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "description": "A calming essential oil blend formulated to be applied to the skin immediately after waxing or laser hair removal. The combination of chamomile, calendula, and tea tree neutralises post-treatment inflammation and prevents ingrown hair formation.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/9a7c10db-e4f2-460a-bbed-4d79527ceb2f.jpg"
@@ -3523,7 +3523,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 17.95,
     "compare_at_price": 24.44,
-    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "description": "A professional lash cluster extension kit with 280 individual lash segments in a range of lengths and curls. Designed for at-home application without a professional \u2014 the cluster format bonds easily and lasts 5\u20137 days with proper care.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/4e7bed11-c5c1-4037-80b8-7fc134e274a5.jpg"
@@ -3557,7 +3557,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 25.95,
     "compare_at_price": 38.1,
-    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "description": "A mega-volume lash extension set with 640 individual cluster lashes for a full, dramatic look. Multiple length options allow you to build a customised lash map \u2014 from natural everyday wear to full glam without a salon appointment.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/7c5d58ea-eac4-489d-ae03-cb138f8463a3.jpg"
@@ -3591,7 +3591,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 18.95,
     "compare_at_price": 26.33,
-    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "description": "A natural-look individual lash kit with 168 ultra-fine lash clusters that mimic the look of natural lashes. The lightweight design ensures comfort for extended wear \u2014 ideal for beginners learning the cluster lash technique at home.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/5b605d11-feea-4f54-a6b3-1c80a1cf2428.png"
@@ -3625,7 +3625,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 10.95,
     "compare_at_price": 15.45,
-    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "description": "A dual-active scalp spray combining rosemary leaf extract with fermented rice water \u2014 both clinically associated with improved hair density and reduced shedding. Spritz directly onto the scalp daily and massage in for best results.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/44477345-a84a-4b72-b1fe-29cda9b4ee18.png"
@@ -3659,7 +3659,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 40.95,
     "compare_at_price": 59.8,
-    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "description": "A deep conditioning treatment powered by batana oil \u2014 extracted from the American palm nut \u2014 one of Central America's most traditionally used hair growth remedies. Restores moisture, reduces breakage, and adds extraordinary shine to dull, damaged hair.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/55255263-fded-43bc-9b19-0047723f2545.jpg"
@@ -3688,12 +3688,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4581639100",
-    "name": "Double-ended Brow Pencil And Eyeliner 2-in-1",
+    "name": "BrowDefine Precision Hair & Brow Serum",
     "slug": "doubleended-brow-pencil-and-eyeliner-2in1",
     "category": "Hair",
     "price": 3.95,
     "compare_at_price": 5.55,
-    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "description": "A precision-tip brow serum delivering follicle-stimulating peptides and biotin directly to sparse brow areas. Applied nightly to gaps and thinning spots, it gradually fills and defines the brow line for naturally fuller brows within 6\u20138 weeks.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/02/a9e5b477-9823-4c3c-b9b8-8b9b23d62f0d.jpg"
@@ -3722,12 +3722,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9551637300",
-    "name": "Soothing And Moisturizing Body Massage Oil",
+    "name": "CalmBlend Soothing Body Massage Oil",
     "slug": "soothing-and-moisturizing-body-massage-oil",
     "category": "Body",
     "price": 5.95,
     "compare_at_price": 8.37,
-    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "description": "A calming body oil combining lavender, chamomile, and sweet almond oil to soothe inflamed skin and promote deep relaxation. Lightweight, fast-absorbing texture relieves muscle soreness and restores suppleness and radiance with every application.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/9011e6c9-b5e3-4b18-bef3-04e34c349d58_fine.jpeg"
@@ -3761,7 +3761,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 5.95,
     "compare_at_price": 8.4,
-    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "description": "A physical and chemical dual-exfoliant body scrub combining sea salt crystals with lactic acid. Removes dead skin buildup, unclogs body pores, and leaves the skin smooth, bright, and primed for the absorption of treatments applied after.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/06/7d7c57e8-5e50-49d6-b4a1-04dd6bcfd5b8.jpg"
@@ -3795,7 +3795,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 7.95,
     "compare_at_price": 11.28,
-    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "description": "A water-light body fluid that delivers 48-hour hydration without any greasy residue. Ideal for daily use on normal to oily skin types \u2014 absorbs instantly and leaves a barely-there satin finish that wears well under clothing.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/3de67ae2-47a4-4489-ab63-27f40a6f1f3f.jpg"
@@ -3829,7 +3829,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 6.95,
     "compare_at_price": 9.54,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "description": "An alcohol-free body deodorising spray that neutralises odour at the molecular level rather than masking it. Prebiotic actives support healthy skin microbiome balance \u2014 protecting against the bacteria that cause body odour without disrupting natural skin function.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/642f12a4-4828-48da-8d2f-698414c34ece.jpg"
@@ -3863,7 +3863,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 8.95,
     "compare_at_price": 12.74,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "description": "A clinical-strength daily deodorant that combines aluminium-free antiperspirant actives with a prebiotic formula to manage moisture and odour for up to 48 hours. Gentle enough for daily use \u2014 dermatologist-tested for sensitive skin.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/78a50ef1-6975-4a2c-b643-d6712e9465e9.jpg"
@@ -3897,7 +3897,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 7.95,
     "compare_at_price": 11.36,
-    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "description": "A convenient stick-format AHA exfoliant that targets keratosis pilaris, rough elbows, and textured body skin. Fruit-derived glycolic and lactic acids dissolve keratin buildup without abrasion, revealing smoother, brighter skin in just 2\u20133 uses per week.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/09/cde27d10-1ac8-4593-bd90-4f8e495ea25d.jpg"
@@ -3931,7 +3931,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 6.95,
     "compare_at_price": 9.96,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "description": "A transdermal nourishing patch that delivers actives directly through the skin over several hours. Vitamin C, hyaluronic acid, and collagen-boosting peptides are slowly released for targeted repair \u2014 ideal for dry patches, stretch marks, or areas of concentrated dryness.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/c4371308-ff3f-480e-8b0e-7b20994776ea.jpg"
@@ -3965,7 +3965,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 5.95,
     "compare_at_price": 7.96,
-    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "description": "A multi-action body exfoliant combining volcanic mineral powder, sugar crystals, and AHA actives for a deep skin resurfacing experience. Buffs away dullness, stimulates circulation, and leaves skin visibly smoother, softer, and more even-toned.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/79e8819f-df29-4e60-b42c-0d626541cf2f.jpg"
@@ -3999,7 +3999,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 10.95,
     "compare_at_price": 15.2,
-    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "description": "A targeted night-use roll-on serum designed for areas prone to sagging \u2014 inner arms, thighs, and abdomen. The cooling roller applicator stimulates microcirculation while peptides and retinol work to firm, tone, and rebuild collagen as you sleep.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/230323f8-1d59-40ce-b77f-2567a3f206de.jpg"
@@ -4033,7 +4033,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 7.95,
     "compare_at_price": 11.1,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "description": "A lightweight SPF 50+ body sunscreen with an added moisturising complex. Provides broad-spectrum UVA/UVB protection without white cast, greasiness, or pilling \u2014 designed for daily body use even under fitted clothing.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/ca829bb5-9663-4dcc-af3a-01fb391ba66f.jpg"
@@ -4067,7 +4067,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 6.95,
     "compare_at_price": 10.21,
-    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "description": "A gradual self-tanning moisturiser that builds a natural, streak-free bronze over several applications. DHA and erythrulose deliver a tone that adapts to your natural skin colour while the hydration complex keeps skin supple and smooth.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/62f8b6ca-7e65-49da-8335-7cf5f1384772.jpg"
@@ -4096,12 +4096,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4311635500",
-    "name": "CoolCalm Soothing Eye Recovery Mask",
+    "name": "CoolCalm Soothing Recovery Eye Mask",
     "slug": "soothing-and-moisturizing-eye-mask",
     "category": "Body",
     "price": 9.95,
     "compare_at_price": 13.82,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "description": "Gel-filled eye recovery patches chilled to deliver a cryotherapy-like effect on the under-eye area. Reduces puffiness, drains fluid retention, and calms dark circles \u2014 especially effective first thing in the morning or after screen-heavy days.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/6d872200-22ce-4ba5-9ac8-50f410d261ea.jpg"
@@ -4130,12 +4130,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4321628300",
-    "name": "Multi-effect Moisturizing Stick",
+    "name": "HydraStick Multi-Effect Moisturising Balm",
     "slug": "multieffect-moisturizing-stick",
     "category": "Body",
     "price": 6.95,
     "compare_at_price": 9.44,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "description": "A concentrated balm stick with a multi-purpose formula \u2014 use it on dry lips, cuticles, elbows, and any area of acute dryness. Beeswax, shea butter, and hyaluronic acid create an occlusive barrier that locks in moisture for hours.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/8c2bd97e-c544-4879-8dc5-677108c243a4.jpg"
@@ -4164,12 +4164,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-0301622300",
-    "name": "Womens Fashion Plus-Size High-Waisted Slimming Skirt",
+    "name": "SlimTone Contour & Firming Body Wrap",
     "slug": "womens-fashion-plussize-highwaisted-slimming-skirt",
     "category": "Body",
     "price": 10.95,
     "compare_at_price": 14.85,
-    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "description": "A body contouring treatment wrap combining compression and active ingredients to temporarily firm the silhouette. Caffeine, ivy extract, and L-carnitine improve microcirculation and help reduce the appearance of cellulite and water retention.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/a04ea27a-6565-4900-83c8-696d891449ec.jpg"
@@ -4203,7 +4203,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 7.95,
     "compare_at_price": 10.26,
-    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "description": "A silky body fluid with a milky, fast-absorbing texture that nourishes skin with ceramides, squalane, and vitamin E. Non-comedogenic and lightweight \u2014 designed for daily post-shower use to maintain lasting softness and skin barrier health.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/ebe40a07-6f0c-4423-8ac3-fce2dbd24d87.jpg"
@@ -4232,12 +4232,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6026477570",
-    "name": "Fashion Cross-body Bag",
+    "name": "SkinSilk Hydrating Body Mist Spray",
     "slug": "fashion-crossbody-bag",
     "category": "Body",
     "price": 12.95,
     "compare_at_price": 19.04,
-    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "description": "A fine-mist body hydration spray delivering an instant hit of moisture through a blend of hyaluronic acid, aloe vera, and rose water. Refreshes and rehydrates skin throughout the day \u2014 ideal as a body refresh or post-workout skin reset.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/443c0295-dc49-46bd-8b27-424ca0a2ca02.JPG"
@@ -4266,12 +4266,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3591623400",
-    "name": "Ink-wash Full-body Print Robe Cardigan Elegant Long Tunic",
+    "name": "WrapRenew Nourishing Body Treatment Wrap",
     "slug": "inkwash-fullbody-print-robe-cardigan-elegant-long-tunic",
     "category": "Body",
     "price": 28.95,
     "compare_at_price": 37.72,
-    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "description": "A concentrated treatment wrap formula for intense body nourishment when applied as an occlusive mask. Rich in shea, vitamin E, and omega fatty acids \u2014 wraps skin in moisture and nutrients for visibly softer results in one use.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/792f6fe4-79c6-412f-8a87-ac79f1aea74b.jpg"
@@ -4305,7 +4305,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 6.95,
     "compare_at_price": 10.24,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "description": "A body roller pre-infused with a brightening vitamin C and niacinamide serum. As you roll, the serum is released and massaged into the skin while the physical action of the roller stimulates lymphatic drainage and microcirculation.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/09/532c514d-1292-4e79-90ab-c1f969161399.jpg"
@@ -4339,7 +4339,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 4.95,
     "compare_at_price": 6.36,
-    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "description": "A multi-targeted firming cream addressing laxity, wrinkles, and uneven texture in a single formula. DMAE, retinol, and vitamin C work synergistically to restore firmness, smooth surface texture, and brighten the overall complexion of the treated area.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/ba73a5cb-8601-4261-92d2-9205b4a91a48.jpg"
@@ -4373,7 +4373,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 7.95,
     "compare_at_price": 10.49,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "description": "A versatile cold-pressed castor oil with a lightweight jojoba base \u2014 formulated for scalp, hair, and body use. Ricinoleic acid improves follicle circulation for hair growth while deeply moisturising and conditioning the skin without clogging pores.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/fa990012-e15c-4f6b-a286-243a86af9bfd.jpg"
@@ -4402,12 +4402,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9311602900",
-    "name": "Gentle Moisturizing Self-tanning Lotion For A Sun-kissed Wheat-toned Complexion",
+    "name": "VeilTan Gentle Glow Self-Tanning Lotion",
     "slug": "gentle-moisturizing-selftanning-lotion-for-a-sunkissed",
     "category": "Body",
     "price": 7.95,
     "compare_at_price": 10.48,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A gradual self-tanning lotion with a gentle formula designed for sensitive skin. Combines DHA at a skin-safe concentration with moisturising actives to develop a natural, sun-kissed glow over 24\u201348 hours \u2014 without orange tones or uneven streaking.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/24074c26-6a71-456d-928a-9b3c5e028cf4.jpg"
@@ -4441,7 +4441,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 5.95,
     "compare_at_price": 8.12,
-    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "description": "A targeted cuticle and nail treatment oil delivering vitamin E, jojoba, and sweet almond oil to strengthen brittle nails and hydrate dry, cracked cuticles. Applied daily, it visibly improves nail health and prevents peeling within 2 weeks.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/fb19bf3c-19a9-4ca7-94cc-579c1234d334.jpg"
@@ -4475,7 +4475,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 3.95,
     "compare_at_price": 5.67,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A traditional African black soap formulated with shea butter, plantain ash, and coconut oil. Naturally antibacterial and anti-inflammatory \u2014 it gently deep cleanses, fades hyperpigmentation, and nourishes the skin without synthetic additives or harsh surfactants.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/c328d8be-47f0-4786-b244-a65c6d110a96.jpg"
@@ -4509,7 +4509,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 5.95,
     "compare_at_price": 8.62,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A daily body lotion with SPF 30 and brightening actives that protect, hydrate, and improve skin tone simultaneously. Niacinamide and vitamin C derivatives work progressively to even body skin tone while broad-spectrum UV filters prevent further pigmentation.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/19/04/4b8540f6-652a-49b5-b54c-91c34f4fb56e.jpg"
@@ -4543,7 +4543,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 5.95,
     "compare_at_price": 8.63,
-    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "description": "A fast-absorbing, oil-free body lotion for daily hydration without weight or residue. Hyaluronic acid and glycerin draw moisture to the skin while ceramides seal it in \u2014 perfect for all skin types, especially normal to oily body skin.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/09/ca0b0c24-6d3a-4b51-808b-bd60c5486b86.jpg"
@@ -4572,12 +4572,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1221602000",
-    "name": "Full-body Loosening With A Handheld Gua Sha Bowl Tendon-striking Stick And Meridian Brush",
+    "name": "FlexRelief Full-Body Gua Sha Meridian Kit",
     "slug": "fullbody-loosening-with-a-handheld-gua-sha-bowl-tendons",
     "category": "Wellness",
     "price": 6.95,
     "compare_at_price": 9.74,
-    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "description": "A complete full-body gua sha set with multiple tool shapes targeting different body areas \u2014 face, neck, back, and limbs. Traditional scraping technique stimulates the fascia, breaks up adhesions, improves circulation, and accelerates recovery from muscle tension.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/20/11/bb008ef0-b5e3-4fa8-b00b-b653feebfbac_water_fine.jpeg"
@@ -4606,12 +4606,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3521618400",
-    "name": "Jade And Rose Quartz Facial And Back Gua Sha Massager",
+    "name": "JadeCalm Facial Gua Sha & Roller Set",
     "slug": "jade-and-rose-quartz-facial-and-back-gua-sha-massager",
     "category": "Wellness",
     "price": 6.95,
     "compare_at_price": 9.39,
-    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "description": "A jade gua sha and roller duo for use at the beginning of your skincare routine to stimulate lymphatic drainage. The natural cooling properties of jade provide immediate de-puffing while improving the penetration of every product applied after.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/18/10/cdadde93-c972-4823-91dd-3768f9749725_fine.jpeg"
@@ -4640,12 +4640,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3061634800",
-    "name": "Apricot-leaf Orchid Jade-imitation Stud Earrings",
+    "name": "JadeCalm Facial Gua Sha Stone Set",
     "slug": "apricotleaf-orchid-jadeimitation-stud-earrings",
     "category": "Wellness",
     "price": 10.95,
     "compare_at_price": 15.23,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A dual jade stone facial sculpting set \u2014 one gua sha board and one facial roller \u2014 designed for daily use. The natural jade maintains a cool temperature that constricts blood vessels, reduces morning puffiness, and primes skin for maximum serum absorption.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/12722a08-559b-4de2-b804-b61c75a8417f.jpg"
@@ -4679,7 +4679,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 10.95,
     "compare_at_price": 15.68,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A peel-off cleansing mask that removes deep-seated impurities and dead skin in a single, satisfying application. Infused with collagen and hyaluronic acid, it leaves skin cleaner, smoother, and more hydrated than a conventional cleanser \u2014 a once-weekly deep cleansing ritual.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/82e200c3-85f8-4796-84bd-aa0e45d60cb4.jpg"
@@ -4713,7 +4713,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 18.95,
     "compare_at_price": 24.61,
-    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "description": "A portable heated wrist massager for relief from repetitive strain, carpal tunnel tension, and general wrist fatigue. Delivers consistent 40\u00b0C warmth and gentle compression to the wrist and palm \u2014 designed for desk workers, athletes, and anyone with chronic hand tension.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/20/03/74af5783-9860-47e7-8a50-e70e48e802fb_trans.jpeg"
@@ -4742,12 +4742,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5959285762",
-    "name": "Electric Body Sculpt Massager Slimming Machine, EMS Skin Tightening Massager With 5 Heads For Belly Arms Legs Butt, Cordless Handheld UK",
+    "name": "SculptPulse EMS Slimming Body Massager",
     "slug": "electric-body-sculpt-massager-slimming-machine-ems-skin",
     "category": "Wellness",
     "price": 77.95,
     "compare_at_price": 107.15,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A multi-head EMS body massager with 5 interchangeable heads designed to target different body areas. Electrical muscle stimulation combined with heat and vibration improves circulation, reduces tension, and supports body contouring goals alongside regular exercise.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/69b8171c-1415-4916-aa41-eadc771f91b3.jpg"
@@ -4781,7 +4781,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 4.95,
     "compare_at_price": 7.03,
-    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "description": "A marine collagen-infused hydrating cream that plumps and smooths the skin surface with each application. Hydrolysed collagen peptides and hyaluronic acid work synergistically to visibly restore volume to deflated, dehydrated skin within 4 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/ba4651b0-9282-4b2d-acc5-55699d2b356b.jpg"
@@ -4815,7 +4815,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 7.95,
     "compare_at_price": 10.37,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/62ddff8b-cbec-4ab2-8a1c-34123b489419.jpg"
@@ -4849,7 +4849,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 8.95,
     "compare_at_price": 12.75,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/a9e1fda7-1805-4dfb-b912-00fbb72e78cc.jpg"
@@ -4883,7 +4883,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 9.95,
     "compare_at_price": 13.19,
-    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/07/87ceb2fc-26a7-4f47-9f5c-c09d728a60d7.jpg"
@@ -4917,7 +4917,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 7.95,
     "compare_at_price": 11.73,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/07/eb86b2ce-8043-47ec-9af8-12a29cd41e3a.jpg"
@@ -4951,7 +4951,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 12.95,
     "compare_at_price": 17.85,
-    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "description": "A daily skin nutrition supplement formulated around evidence-based actives. Collagen peptides, astaxanthin, and hyaluronic acid address skin firmness, oxidative protection, and hydration simultaneously \u2014 a comprehensive inside-out skincare approach.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/07/325b93c8-ba3d-4b67-ad1e-4f095e5316fe.jpg"
@@ -4985,7 +4985,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 9.95,
     "compare_at_price": 14.66,
-    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/07/b339ac13-0e9b-4901-828a-53e31da4e0f2.jpg"
@@ -5019,7 +5019,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 21.95,
     "compare_at_price": 30.63,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/04/dcd45393-6374-4bb7-9a9d-6506d2ffc245.jpg"
@@ -5053,7 +5053,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 13.95,
     "compare_at_price": 18.55,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A women's collagen complex delivering Type I, II, III, V, and X collagen peptides along with vitamin C for absorption. Covers the full spectrum of body tissues that rely on collagen \u2014 skin, joints, hair, nails, and connective tissue.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/02/2bf7fcae-659d-4047-ae50-2ceb7034be13.jpg"
@@ -5087,7 +5087,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 7.95,
     "compare_at_price": 10.78,
-    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "description": "Concentrated moringa leaf powder \u2014 one of the most nutrient-dense plants on earth. Rich in vitamin C, zinc, and amino acids that support skin repair, reduce inflammation, and provide the micronutrient foundation for healthy hair and skin from within.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/01/85e8cf35-49cd-4574-96cc-254ae9331253.jpg"
@@ -5121,7 +5121,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 10.95,
     "compare_at_price": 14.15,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/e38ac8a2-904a-41cb-9abd-0a794229b528.jpg"
@@ -5155,7 +5155,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 7.95,
     "compare_at_price": 11.23,
-    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/9823e715-2b82-426c-a2ad-33c1f579e20f.jpg"
@@ -5189,7 +5189,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 8.95,
     "compare_at_price": 12.26,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/8c0b0ad5-c976-4588-8047-857a7a23e24f.jpg"
@@ -5223,7 +5223,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 9.95,
     "compare_at_price": 14.13,
-    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/a500dc75-d627-4f2c-841a-a8aab47f393a.jpg"
@@ -5257,7 +5257,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 11.95,
     "compare_at_price": 16.71,
-    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/10/cefd0744-eab6-4e4d-a32b-f77efb6f2484.jpg"
@@ -5291,7 +5291,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 5.95,
     "compare_at_price": 7.93,
-    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "description": "A daily beauty supplement with a foundational complex of vitamin C, biotin, and zinc \u2014 the essential cofactors for collagen synthesis, keratin production, and skin cell renewal. Formulated for measurable results in skin, hair, and nails within 8 weeks.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/10/750d0aa0-f40c-434a-aaa2-6d7f5b085a26.jpg"
@@ -5325,7 +5325,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 6.95,
     "compare_at_price": 9.69,
-    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "description": "A women's probiotic formulated with 10 clinically studied Lactobacillus and Bifidobacterium strains at 20 billion CFU. The gut-skin axis is increasingly well-documented \u2014 a healthy microbiome directly improves skin clarity, reduces inflammatory acne, and supports barrier function.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/52ef7eea-085f-48ad-b843-d022edf45029.jpg"
@@ -5354,12 +5354,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-8311624500",
-    "name": "Lightweight Moisturizing And Naturally Fitting Eye Mask",
+    "name": "DreamVeil Lightweight Contour Sleep Mask",
     "slug": "lightweight-moisturizing-and-naturally-fitting-eye-mask",
     "category": "Wellness",
     "price": 6.95,
     "compare_at_price": 10.21,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A precision-contoured sleep mask with a shaped cavity that prevents any pressure on the eyes or lashes. Made from temperature-regulating breathable fabric \u2014 maintains darkness while remaining comfortable for extended wear through the night.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/4172f8bc-f7e3-4763-b140-464db92cf1b2.jpg"
@@ -5393,7 +5393,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 26.95,
     "compare_at_price": 36.82,
-    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "description": "A wearable EMS training belt for targeted arm and leg muscle activation. Delivers isolated muscle stimulation during rest or light activity \u2014 designed to complement resistance training for improved toning and definition in specific areas.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/517e9eae-ab0e-43b4-afe8-a731a206cb91.jpg"
@@ -5427,7 +5427,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 51.95,
     "compare_at_price": 75.18,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A wearable waist and abdominal massager combining microcurrent EMS stimulation with a warming compress for dual-action muscle activation and tension relief. Targets the core simultaneously from multiple angles for comprehensive abdominal toning.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/15/03/f256958e-0ffb-4e16-b809-debcf1e3e2f8_trans.jpeg"
@@ -5461,7 +5461,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 27.95,
     "compare_at_price": 36.0,
-    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "description": "An electric neck beauty massager designed to tighten the skin at the nasolabial folds, jawline, and neck. Combines EMS muscle stimulation with RF heat and red light therapy to address multiple causes of neck and lower face ageing in one targeted device.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/15/03/3d5f8af7-ef05-4eac-9a11-848f0aa13c72.jpg"
@@ -5495,7 +5495,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 8.95,
     "compare_at_price": 12.5,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A concentrated collagen eye cream that softens and smooths the appearance of fine lines and crow's feet. Hydrolysed collagen, ceramides, and retinyl palmitate work together to visibly lift and firm the eye area with consistent daily application.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/1cb1ac90-0713-43c9-a98a-60cfae73f486.jpg"
@@ -5529,7 +5529,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 4.95,
     "compare_at_price": 6.76,
-    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "description": "A collagen-dense moisturising cream that plumps skin by binding moisture at the dermal level. Marine collagen peptides, glycerin, and ceramides create a comprehensive moisture network that improves skin elasticity and firmness over time.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/c6f139a2-8d77-4eb4-a8e6-e44193b28185.jpg"
@@ -5563,7 +5563,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 4.95,
     "compare_at_price": 7.27,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A daily beauty gummy delivering essential vitamins and minerals in a convenient, enjoyable format. Biotin, vitamin E, and zinc are delivered in a bioavailable gummy matrix for optimal absorption \u2014 making consistent supplementation easier to maintain.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/fd47beb2-4436-4159-9744-19909389b0cb.jpg"
@@ -5597,7 +5597,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 7.95,
     "compare_at_price": 11.72,
-    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "description": "A daily liver support supplement combining milk thistle, dandelion root, and artichoke extract. A healthy liver directly supports skin clarity \u2014 when the liver processes toxins efficiently, fewer impurities manifest through the skin as congestion, dullness, or breakouts.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/044136e1-cc69-4965-a99e-d330af80a0de.jpg"
@@ -5631,7 +5631,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 12.95,
     "compare_at_price": 17.77,
-    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "description": "A high-potency garlic extract supplement delivering allicin \u2014 the active compound with proven antibacterial, antifungal, and antioxidant properties. Supports immune function, cardiovascular health, and internal detoxification that reflects in skin clarity over time.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/cf5b721e-aad1-4c12-86be-f39db3f63999.jpg"
@@ -5665,7 +5665,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 8.95,
     "compare_at_price": 12.25,
-    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "description": "A bone and connective tissue support supplement combining calcium, vitamin D3, and magnesium at therapeutic ratios. Strong connective tissue is directly linked to skin firmness \u2014 supporting the structural proteins that give skin its density and resilience.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/eceef8dc-84bf-4701-9ad0-084b12aa1338.jpg"
@@ -5699,7 +5699,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 11.95,
     "compare_at_price": 16.96,
-    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "description": "A foundational daily wellness supplement with a broad micronutrient profile covering vitamins A, C, D, E, and the full B complex alongside key minerals. Designed to fill nutritional gaps that manifest as dull skin, brittle hair, and general fatigue.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/9b7ab958-1f83-45d4-b8ce-8a80b94b702a.jpg"
@@ -5733,7 +5733,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 57.95,
     "compare_at_price": 76.01,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A joint health supplement combining MSM, glucosamine sulphate, and chondroitin for connective tissue and cartilage support. MSM is also a direct donor of sulphur \u2014 an essential building block of keratin in hair and nails and collagen in the skin.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/5a407833-4b19-4eed-9c3e-61a0e4febcae.jpg"
@@ -5767,7 +5767,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 62.95,
     "compare_at_price": 92.07,
-    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "description": "A comprehensive gut health supplement combining prebiotic fibre, digestive enzymes, and herbal bitters. Improving digestive efficiency and reducing gut inflammation has a direct, measurable impact on skin clarity \u2014 particularly for hormonal and inflammatory acne.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/6dcc68ca-11ef-40c1-bdc4-8c174b852719.jpg"
@@ -5801,7 +5801,7 @@ export const PRODUCTS = [
     "category": "Wellness",
     "price": 12.95,
     "compare_at_price": 17.33,
-    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "description": "A 5000mg creatine monohydrate supplement in gummy format for athletes and active individuals. Creatine supports ATP energy production in muscle cells, improving exercise performance and recovery \u2014 with research also showing benefits for skin energy metabolism and hydration.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/02/734d6fe8-ee4b-4dbc-b35f-edc9856b3505.jpg"
@@ -5830,12 +5830,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7361608500",
-    "name": "CreaPower 5000mg Creatine Gummies",
+    "name": "CreaPower Berry Vegan Creatine Gummies",
     "slug": "creatine-monohydrate-gummies-5000mg-per-serving-vegan-2",
     "category": "Wellness",
     "price": 89.95,
     "compare_at_price": 125.05,
-    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "description": "A vegan creatine monohydrate supplement in a natural berry gummy format. Delivers the same clinically validated 5g dose as powder \u2014 in a format that makes daily supplementation consistent and enjoyable without the mixing or flavour issues of creatine powder.",
     "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/02/c87bfb3f-6338-40dc-b9c1-6fd1d5b63342.jpg"
@@ -5869,7 +5869,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 36.95,
     "compare_at_price": 48.77,
-    "description": "A clinically formulated scalp and hair treatment that targets follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "description": "A rechargeable octopus-style head massager with 8 kneading massage heads that simulate professional shiatsu scalp massage. Relieves tension, improves follicle blood flow, and creates optimal conditions for hair serum absorption in just 5 minutes.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/c3277770-f65e-45a4-92e7-c55882be83c5.png"
@@ -5903,7 +5903,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 10.95,
     "compare_at_price": 14.85,
-    "description": "This concentrated hair treatment delivers results where it counts \u2014 at the root. Strengthens strands, calms the scalp, and supports healthy follicle function long-term.",
+    "description": "A refreshing rosemary shampoo formulated with piroctone olamine and salicylic acid for a deep scalp cleanse. Removes sebum, buildup, and environmental pollutants from the scalp while rosemary extract actively stimulates follicle activity.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/3d4e8bac-7ac2-47c6-84c7-b78f4bd7eb13.jpg"
@@ -5937,7 +5937,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 3.95,
     "compare_at_price": 5.63,
-    "description": "This concentrated hair treatment delivers results where it counts \u2014 at the root. Strengthens strands, calms the scalp, and supports healthy follicle function long-term.",
+    "description": "A dual-purpose scalp massage comb designed for use during shampooing. The flexible silicone teeth exfoliate the scalp, remove product buildup, and stimulate circulation \u2014 transforming every wash into a scalp treatment session.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/3bb17362-7e9e-420d-a8b8-cfaac09385ec.png"
@@ -5971,7 +5971,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 25.95,
     "compare_at_price": 36.76,
-    "description": "A clinically formulated scalp and hair treatment that targets follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "description": "An electric roller-style scalp massager targeting the lymphatic drainage pathways of the scalp. Regular lymphatic drainage reduces scalp inflammation and creates a healthier follicular environment, directly supporting hair density over time.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/07/02/1dd3823e-c260-4946-8aed-355a86bf3a48_trans.jpeg"
@@ -6005,7 +6005,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 11.95,
     "compare_at_price": 16.63,
-    "description": "A clinically formulated scalp and hair treatment targeting follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "description": "A targeted nourishing shampoo for dark hair that enhances colour depth while treating the scalp and strand. Black seed oil and activated charcoal extracts deliver shine, nourishment, and scalp clarity without stripping natural melanin.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/a41cb22f-e6ba-4849-a8be-104e78f74f04.jpg"
@@ -6039,7 +6039,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 59.95,
     "compare_at_price": 76.83,
-    "description": "A clinically formulated scalp and hair treatment that targets follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "description": "A red light therapy and electric massage comb that combines two evidence-backed hair growth technologies in a single tool. Red light (630\u2013670nm) stimulates follicle ATP production while the massage action improves scalp circulation for compounded results.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/06/05/49d989d1-997e-4f90-9f18-6fb36756f3b9.jpg"
@@ -6073,7 +6073,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 7.95,
     "compare_at_price": 11.61,
-    "description": "This concentrated hair treatment delivers results where it counts \u2014 at the root. Strengthens strands, calms the scalp, and supports healthy follicle function long-term.",
+    "description": "A lightweight leave-in hair treatment that conditions, smooths, and strengthens strands without any sticky, heavy residue. Penetrating keratin and ceramide actives work within the hair cortex \u2014 not just on the surface \u2014 for lasting improvement in hair quality.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/04/06/2fb02293-39d6-40c2-8981-26a7718f0ff4.jpg"
@@ -6107,7 +6107,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 5.95,
     "compare_at_price": 8.71,
-    "description": "A clinically formulated scalp and hair treatment that targets follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "description": "A convenient ball-format scalp nourishing oil that applies directly to the scalp root with no mess. Packed with castor, rosemary, and biotin actives \u2014 designed for targeted application to areas of thinning or reduced density.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/04/01/e104744a-e521-4d7d-9876-f4535d148556.jpg"
@@ -6141,7 +6141,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 53.95,
     "compare_at_price": 76.18,
-    "description": "A clinically formulated scalp and hair treatment that targets follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "description": "A waterproof electric scalp massager with 3 kneading modes, designed for use in the shower during shampooing. The pulsing nodes simulate professional scalp massage that improves circulation, reduces scalp tension, and enhances the effectiveness of treatments applied after.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/2a7c1a91-eb6c-4b5e-ae09-9a5ec13d7d2a.jpg"
@@ -6170,12 +6170,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-8231639000",
-    "name": "Natural Glow Dark-Skin Body Lotion",
+    "name": "NaturalGlow Radiance Body Lotion",
     "slug": "natural-glow-darkskin-body-lotion",
     "category": "Body",
     "price": 7.95,
     "compare_at_price": 10.3,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A body lotion with a luminous skin-evening complex formulated for deeper skin tones. Vitamin C, niacinamide, and licorice root extract work together to improve radiance, fade body hyperpigmentation, and deliver a healthy, glowing finish.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/b4440999-166e-4847-a56e-f1f9862f9e51.jpg"
@@ -6209,7 +6209,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 10.95,
     "compare_at_price": 14.22,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A professional-grade self-tanning body lotion that delivers a deep, natural bronze in 4\u20136 hours. Formulated with a colour guide tint so you can see exactly where you're applying it \u2014 eliminating missed patches and uneven application.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/9c4fb197-9711-4d2f-824a-b7bce2d9e269.jpg"
@@ -6243,7 +6243,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 11.95,
     "compare_at_price": 16.79,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A two-product hydration system designed to work in sequence. The toner prepares and balances skin pH while the lotion seals in moisture with a combination of hyaluronic acid and ceramides \u2014 delivering 24-hour hydration in a single layered routine.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/15/03/0fa7f88f-39e5-41de-8950-b585efa11d95.jpg"
@@ -6277,7 +6277,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 7.95,
     "compare_at_price": 10.38,
-    "description": "This targeted body treatment skips filler ingredients and focuses purely on results. Dermatologist-tested, fast-absorbing, and safe for all skin types.",
+    "description": "A cooling nourishing gel that works on both face and body \u2014 ideal for sensitive or reactive skin. Aloe vera, panthenol, and centella asiatica provide instant soothing, hydration, and barrier support without any occlusive heaviness.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/eadcbe79-9b09-4fea-9701-3a4a5deb6808.jpg"
@@ -6311,7 +6311,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 5.95,
     "compare_at_price": 8.62,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A protective body lotion built around a beeswax and honey base that forms a breathable barrier on the skin. Particularly effective for extremely dry skin, eczema, and areas exposed to harsh environmental conditions \u2014 healing and nourishing in one application.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/12/09/8c73128e-2c8c-4079-b621-da8af9b437ce.jpg"
@@ -6345,7 +6345,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 5.95,
     "compare_at_price": 7.86,
-    "description": "This targeted body treatment skips filler ingredients and focuses purely on results. Dermatologist-tested, fast-absorbing, and safe for all skin types.",
+    "description": "A luxurious tanning oil that combines SPF protection with a golden bronzing shimmer and deep moisturising complex. Enriched with argan oil and vitamin E \u2014 it accelerates natural tanning while protecting skin and leaving a radiant, oiled finish.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/6af66f77-19dd-4a71-837e-136a060d46c4.jpg"
@@ -6379,7 +6379,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 35.95,
     "compare_at_price": 50.13,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A next-generation bead-format antiperspirant that releases active ingredients progressively throughout the day for consistent, long-lasting freshness. Fragrance-free option available \u2014 suitable for sensitive underarm skin.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/95004864-6e73-4be4-9e6c-536f65b47103.jpg"
@@ -6408,12 +6408,12 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3972421634",
-    "name": "Retinol Body Lotion, Moisturizing & Smoothing Skin Care Lotion 50ml",
+    "name": "RetinolBody Smoothing & Renewing Body Lotion",
     "slug": "retinol-body-lotion-moisturizing-smoothing-skin-care-lo",
     "category": "Body",
     "price": 14.95,
     "compare_at_price": 19.24,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A retinol-infused body lotion targeting rough texture, keratosis pilaris, and body skin ageing. Encapsulated 0.1% retinol releases gradually to minimise irritation while visibly smoothing and renewing the skin surface over 8 weeks of use.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/80197d68-0c1b-45a1-b3c3-c33363552669.jpg"
@@ -6447,7 +6447,7 @@ export const PRODUCTS = [
     "category": "Skincare",
     "price": 8.95,
     "compare_at_price": 12.59,
-    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "description": "A dermatologist-formulated ceramide moisturiser that replicates the exact lipid matrix of a healthy skin barrier. Free from fragrance, essential oils, and potential irritants \u2014 designed specifically for sensitive, eczema-prone, or barrier-disrupted skin.",
     "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/df4e1587-3799-4eff-836a-b85481bb75e6.jpg"
@@ -6481,7 +6481,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 42.95,
     "compare_at_price": 60.57,
-    "description": "A clinically formulated scalp and hair treatment targeting follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "description": "A clinical repair serum for over-processed, heat-damaged, or fragile hair. Hydrolysed keratin, olaplex-mechanism actives, and biotin penetrate the hair shaft to rebuild internal structure \u2014 reducing breakage by up to 90% in independent testing.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/23850173-52bf-4d78-82cf-7f357233a3fe.jpg"
@@ -6515,7 +6515,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 5.95,
     "compare_at_price": 8.15,
-    "description": "A clinically formulated scalp and hair treatment targeting follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "description": "A research-grade scalp serum that targets the dermal papilla cells \u2014 the master regulators of hair follicle activity. Procapil, Redensyl, and peptide actives work on the cellular level to reactivate dormant follicles and extend the anagen growth phase.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/bd8fab63-9403-4983-9b92-727101294e61.jpg"
@@ -6549,7 +6549,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 12.95,
     "compare_at_price": 17.86,
-    "description": "A clinically formulated scalp and hair treatment targeting follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "description": "A caffeine-based scalp serum that counteracts the hair-thinning effects of DHT and improves scalp microcirculation simultaneously. Caffeine is one of the most clinically-studied topical hair loss actives \u2014 absorbed rapidly and effective at concentrations of 0.2% and above.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -6583,7 +6583,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 6.95,
     "compare_at_price": 10.07,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A sculpting body oil that combines caffeine, retinol, and peptides in a fast-absorbing dry oil format. Massaged into skin daily, it improves body firmness, reduces the appearance of cellulite dimpling, and leaves a luminous, non-greasy finish.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/e401bfc8-ca41-41eb-bd21-bee9c5d6288b.jpg"
@@ -6617,7 +6617,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 5.95,
     "compare_at_price": 7.68,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A collagen-boosting body contour cream designed for the abdomen, thighs, and upper arms \u2014 areas most prone to laxity. Hydrolysed collagen peptides and vitamin C work synergistically to firm skin and restore a tighter, more defined body contour.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/22/01/e994b4ed-0ae9-4a6a-af93-d6d50d484a21.jpg"
@@ -6651,7 +6651,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 6.95,
     "compare_at_price": 9.8,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "An unrefined shea butter-based body cream with 70% active shea content. The richest formula in the BYLVRA body range \u2014 designed for very dry skin, post-sun repair, and areas of chronic dryness like heels, knees, and elbows.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/30c3af5d-99a2-449a-b50e-9aa630d8fccc.jpg"
@@ -6685,7 +6685,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 7.95,
     "compare_at_price": 11.22,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A lightweight body serum with a micro-gold and vitamin C illuminating complex that delivers visible radiance from the first application. Applied before body lotion, it primes the skin for a lit-from-within glow that lasts all day.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/74130a33-1e5f-4d36-a0c0-b881809ee069.jpg"
@@ -6719,7 +6719,7 @@ export const PRODUCTS = [
     "category": "Body",
     "price": 8.95,
     "compare_at_price": 11.51,
-    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "description": "A comprehensive restorative body lotion for skin that has been damaged by sun exposure, environmental stress, or chronic dryness. Niacinamide, peptides, and ceramides work together to repair the barrier, even tone, and restore long-term skin health.",
     "short_description": "Premium body formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/975c3b07-cc8c-4639-8ffc-351de31d1eff.jpg"
@@ -6753,7 +6753,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 50.95,
     "compare_at_price": 66.73,
-    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A home radio frequency device that delivers controlled RF energy to the dermal layer to heat collagen fibres and trigger immediate contraction and long-term collagen remodelling. Results compound over 8\u201312 weeks \u2014 visible tightening and lifting from the first session.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/ec643b33-fb13-49c4-9cbe-684cf9046461.jpg"
@@ -6787,7 +6787,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 343.95,
     "compare_at_price": 464.21,
-    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A dual-frequency EMS face device operating at both 1Hz and 100Hz to target different muscle fibre types simultaneously. Stimulates both fast-twitch and slow-twitch facial muscles for comprehensive re-education and visible lifting results.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2026/05/19/06/b41aa7fc-2d58-4252-af75-1102b73b84cd.jpg"
@@ -6821,7 +6821,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 56.95,
     "compare_at_price": 81.89,
-    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A clinical LED treatment device with 9 wavelength options targeting the full spectrum of skin concerns \u2014 from acne and hyperpigmentation to collagen loss and inflammation. Clinically tested wavelengths at therapeutic intensity levels for measurable results.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/cacab197-fbba-49b9-a0b9-9a6fb4b2498e.jpg"
@@ -6855,7 +6855,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 73.95,
     "compare_at_price": 101.77,
-    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "An electric sonic facial massager operating at 6000 vibrations per minute to stimulate lymphatic drainage, improve microcirculation, and enhance the absorption of serums by up to 60% versus manual application. A simple addition to any skincare routine.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/eb54dc8c-a451-46b8-ab22-9cefc7f6607c.jpg"
@@ -6889,7 +6889,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 122.95,
     "compare_at_price": 163.37,
-    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A precision microcurrent toning tool delivering targeted electrical stimulation to specific facial muscles for lifted, defined results. Designed to be used with a conductive gel after serums \u2014 improves product penetration while toning the underlying muscle structure.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/85ed3d90-1e65-463d-b66a-aca3d0f9c354.jpg"
@@ -6923,7 +6923,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 167.95,
     "compare_at_price": 243.32,
-    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "An electric eye area massager combining vibration, heat, and gentle compression to relieve tension, reduce dark circles, and stimulate collagen production around the eye contour. Clinically designed for periorbital skin \u2014 the most delicate area of the face.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/7da19626-a398-4535-9e96-c0f352d71c96.jpg"
@@ -6957,7 +6957,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 11.95,
     "compare_at_price": 16.95,
-    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A precision nano-ionic facial steamer designed for pre-treatment prep and standalone hydration. Breaks water into 10-micron nano-particles for deep pore penetration \u2014 delivers more hydration in 10 minutes than 8 hours of overnight cream.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/quick/product/814c02c5-c7c7-4c40-bb74-b4ee3033c127.jpg"
@@ -6991,7 +6991,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 68.95,
     "compare_at_price": 101.31,
-    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A medical-inspired vacuum extraction device with 4 interchangeable suction heads for different skin areas and concern levels. Safely dislodges blackheads, whiteheads, and clogged pores without manual pressure \u2014 reduces post-extraction redness by 80% versus manual methods.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/8b69c994-6315-4db5-9fa3-960fa976742f.png"
@@ -7025,7 +7025,7 @@ export const PRODUCTS = [
     "category": "Tools & Devices",
     "price": 182.95,
     "compare_at_price": 234.93,
-    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "description": "A clinical EMS body contouring device with 5 specialised heads for targeting different body areas \u2014 abdomen, thighs, arms, and glutes. Delivers muscle stimulation equivalent to 36,000 contractions per 30-minute session for visible toning and contouring results.",
     "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
     "images": [
       "https://cf.cjdropshipping.com/17792352/5f80038f-5760-4e7b-a593-cb72804d70e2.jpg"
@@ -7059,7 +7059,7 @@ export const PRODUCTS = [
     "category": "Hair",
     "price": 28.95,
     "compare_at_price": 39.95,
-    "description": "A concentrated hair fortifying treatment that strengthens strands from root to tip. Clinically active ingredients reduce breakage, improve elasticity, and restore shine with each use.",
+    "description": "A fortifying leave-in serum that reinforces the hair's structural integrity from the inside out. Hydrolysed wheat protein, silk amino acids, and ceramides rebuild the cuticle layer and cortex \u2014 reducing elasticity loss, breakage, and split ends with every application.",
     "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
     "images": [
       "https://images.pexels.com/photos/4202325/pexels-photo-4202325.jpeg?auto=compress&cs=tinysrgb&w=800"
