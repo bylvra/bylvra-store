@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useCart } from '../contexts/CartContext';
-import { Order } from '../api/entities';
+import { Order, AbandonedCart } from '../api/entities';
 import { Shield, Lock, ChevronRight, Tag, Truck, RotateCcw } from 'lucide-react';
 
 const DISCOUNT_CODES = {
@@ -45,6 +45,37 @@ async function redirectToStripe({ cartItems, email, name, orderNumber, shippingA
     // fall through
   }
   return false;
+}
+
+
+// Save/update abandoned cart when email is entered
+async function saveAbandonedCart({ email, firstName, cartItems, cartTotal }) {
+  if (!email || !email.includes('@') || cartItems.length === 0) return;
+  const sessionId = 'ac_' + email.replace(/[^a-z0-9]/gi, '') + '_' + Date.now().toString().slice(-6);
+  try {
+    // Check if one already exists for this email (not yet recovered)
+    const existing = await AbandonedCart.filter({ email, recovered: false });
+    if (existing && existing.length > 0) {
+      await AbandonedCart.update(existing[0].id, {
+        first_name: firstName || '',
+        cart_items: cartItems,
+        cart_total: cartTotal,
+        email_sent: false,
+      });
+    } else {
+      await AbandonedCart.create({
+        email,
+        first_name: firstName || '',
+        cart_items: cartItems,
+        cart_total: cartTotal,
+        recovered: false,
+        email_sent: false,
+        session_id: sessionId,
+      });
+    }
+  } catch (e) {
+    // Silent fail — don't interrupt checkout
+  }
 }
 
 export default function Checkout() {
@@ -126,6 +157,13 @@ export default function Checkout() {
 
       if (!stripeRedirected) {
         clearCart();
+      // Mark abandoned cart as recovered
+      try {
+        const abandoned = await AbandonedCart.filter({ email: form.email, recovered: false });
+        if (abandoned && abandoned.length > 0) {
+          await AbandonedCart.update(abandoned[0].id, { recovered: true });
+        }
+      } catch (e) {}
         navigate(`/order-confirmation?order=${orderNum}`);
       }
     } catch (err) {
@@ -178,7 +216,18 @@ export default function Checkout() {
                   <InputField label="First Name" value={form.firstName} onChange={e => update('firstName', e.target.value)} required />
                   <InputField label="Last Name" value={form.lastName} onChange={e => update('lastName', e.target.value)} required />
                 </div>
-                <InputField label="Email Address" type="email" value={form.email} onChange={e => update('email', e.target.value)} required />
+                <InputField label="Email Address" type="email" value={form.email} onChange={e => update('email', e.target.value)}
+                  onBlur={e => {
+                    if (e.target.value && e.target.value.includes('@')) {
+                      saveAbandonedCart({
+                        email: e.target.value,
+                        firstName: form.firstName,
+                        cartItems,
+                        cartTotal: cartSubtotal,
+                      });
+                    }
+                  }}
+                  required />
                 <InputField label="Phone Number" type="tel" value={form.phone} onChange={e => update('phone', e.target.value)} />
               </div>
 
