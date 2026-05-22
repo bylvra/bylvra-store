@@ -18,6 +18,7 @@ import FAQ from './pages/FAQ';
 import ShippingPolicy from './pages/ShippingPolicy';
 import ReturnsPolicy from './pages/ReturnsPolicy';
 import TrackOrder from './pages/TrackOrder';
+import Account from './pages/Account';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import TermsOfService from './pages/TermsOfService';
 import CJImporter from './pages/CJImporter';
@@ -67,6 +68,7 @@ export default function App() {
           <Route path="/pages/shipping" element={<Layout><ShippingPolicy /></Layout>} />
           <Route path="/pages/returns" element={<Layout><ReturnsPolicy /></Layout>} />
           <Route path="/pages/track-order" element={<Layout><TrackOrder /></Layout>} />
+          <Route path="/account" element={<Layout><Account /></Layout>} />
           <Route path="/pages/privacy" element={<Layout><PrivacyPolicy /></Layout>} />
           <Route path="/pages/terms" element={<Layout><TermsOfService /></Layout>} />
 
