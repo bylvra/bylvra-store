@@ -30,13 +30,13 @@ export default function Account() {
               icon: <RotateCcw size={20} />,
               label: 'Returns & Exchanges',
               desc: 'Review our 30-day return policy and start a return.',
-              to: '/pages/returns-policy',
+              to: '/pages/returns',
             },
             {
               icon: <Package size={20} />,
               label: 'Shipping Info',
               desc: 'Estimated delivery times, carriers, and tracking details.',
-              to: '/pages/shipping-policy',
+              to: '/pages/shipping',
             },
             {
               icon: <MessageCircle size={20} />,
