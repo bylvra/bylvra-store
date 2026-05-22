@@ -14,7 +14,7 @@ export const PRODUCTS = [
       "https://oss-cf.cjdropshipping.com/product/2025/02/24/05/92b4c0fd-afb1-4819-bf43-0cb3064ad623_fine.jpeg",
       "https://oss-cf.cjdropshipping.com/product/2025/02/24/05/35b709c4-7127-4758-a67c-ea6da31e426d_fine.jpeg",
       "https://oss-cf.cjdropshipping.com/product/2025/02/24/05/384de0ad-d1be-4547-ba65-c250efaa8a73_trans.jpeg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.8,
     "review_count": 2341.0,
@@ -56,7 +56,7 @@ export const PRODUCTS = [
       "https://oss-cf.cjdropshipping.com/product/2025/12/21/08/e91dbabf-a9b1-4029-bbcc-9558e1c45e3a_trans.jpeg",
       "https://oss-cf.cjdropshipping.com/product/2025/12/21/08/9b2c29c3-c083-4287-98ca-26d4bd365cbd_trans.jpeg",
       "https://oss-cf.cjdropshipping.com/product/2025/12/21/08/3a139400-242a-4406-9f18-f0f811111e8d_trans.jpeg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.7,
     "review_count": 1876.0,
@@ -97,7 +97,7 @@ export const PRODUCTS = [
       "https://oss-cf.cjdropshipping.com/product/2026/01/12/06/4c7e4c88-181e-4633-9c14-4288e743c3e6_fine.jpeg",
       "https://oss-cf.cjdropshipping.com/product/2026/01/12/06/1e62a174-5cc7-42b0-bd42-7261ae966933.jpg",
       "https://oss-cf.cjdropshipping.com/product/2026/01/12/06/c584540f-157a-4dd1-8c40-807f83b49083.jpg"
-],
+    ],
     "badge": "NEW",
     "rating": 4.9,
     "review_count": 743.0,
@@ -138,7 +138,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/17415648/1898982183528566784.jpg",
       "https://cf.cjdropshipping.com/17415648/1898982184329678848.jpg",
       "https://cf.cjdropshipping.com/17415648/1898982185583775744.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.7,
     "review_count": 1204.0,
@@ -180,7 +180,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/1620177543529.jpg",
       "https://cf.cjdropshipping.com/1620177543533.jpg",
       "https://cf.cjdropshipping.com/1620177543536.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.6,
     "review_count": 3102.0,
@@ -221,7 +221,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/1619753282008.jpg",
       "https://cf.cjdropshipping.com/1619753282005.jpg",
       "https://cf.cjdropshipping.com/1619753282009.jpg"
-],
+    ],
     "badge": "NEW",
     "rating": 4.8,
     "review_count": 987.0,
@@ -262,7 +262,7 @@ export const PRODUCTS = [
       "https://oss-cf.cjdropshipping.com/product/2025/05/19/07/9e0bb516-772a-4743-995b-32027500e249.jpg",
       "https://oss-cf.cjdropshipping.com/product/2025/05/19/07/f01a9b16-10e2-48e4-bc43-2e41311aa87e.jpg",
       "https://oss-cf.cjdropshipping.com/product/2025/05/19/07/e45460ee-ac51-46c0-8b50-db80bccc9d92.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.9,
     "review_count": 2198.0,
@@ -299,7 +299,7 @@ export const PRODUCTS = [
     "short_description": "Biotinoyl Tripeptide-1 and Myristoyl Pentapeptide-17 extend the lash growth phase (anagen) and stimulate follicle keratinocytes. Visible density in 4 weeks.",
     "images": [
       "https://cf.cjdropshipping.com/46ff1130-0db2-48a3-844d-6f097021fd2f.png"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.8,
     "review_count": 1547.0,
@@ -340,7 +340,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/fd4e07cf-fc7f-4282-86eb-6756fccdbfbe.jpg",
       "https://cf.cjdropshipping.com/1612487035978.jpg",
       "https://cf.cjdropshipping.com/1612487036005.jpg"
-],
+    ],
     "badge": "NEW",
     "rating": 4.5,
     "review_count": 634.0,
@@ -381,7 +381,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/b5b8d61c-a163-4041-9e62-6e494664187e.jpg",
       "https://cf.cjdropshipping.com/41f72523-1243-47ca-a59e-c2c3b7b0b4af.jpg",
       "https://cf.cjdropshipping.com/66663c96-7971-44f8-83a4-d901d1d42dc8.jpg"
-],
+    ],
     "badge": null,
     "rating": 4.5,
     "review_count": 1823.0,
@@ -422,7 +422,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/20200106/2165105387929.jpg",
       "https://cf.cjdropshipping.com/20200106/834902762689.jpg",
       "https://cf.cjdropshipping.com/20200106/996067690278.png"
-],
+    ],
     "badge": null,
     "rating": 4.6,
     "review_count": 892.0,
@@ -463,7 +463,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/4b564915-0ff9-416f-a78e-312b3c171c81.jpg",
       "https://cf.cjdropshipping.com/7b320df7-c3df-4a63-a3f1-76dcf23e7d33.jpg",
       "https://cf.cjdropshipping.com/988c2dec-8acc-412a-a1a6-eea72fcacae3.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.9,
     "review_count": 4211.0,
@@ -501,7 +501,7 @@ export const PRODUCTS = [
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/06/20/06/778e4e04-0ceb-4ca5-82b8-f10ec84b6f2d.jpg",
       "https://oss-cf.cjdropshipping.com/product/2024/12/15/06/a0ddb941-34c6-4537-9640-3a0eb93b3392.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.8,
     "review_count": 2876.0,
@@ -539,7 +539,7 @@ export const PRODUCTS = [
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/06/20/06/778e4e04-0ceb-4ca5-82b8-f10ec84b6f2d.jpg",
       "https://oss-cf.cjdropshipping.com/product/2024/12/15/06/a0ddb941-34c6-4537-9640-3a0eb93b3392.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.7,
     "review_count": 1934.0,
@@ -580,7 +580,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/1619578505162.jpg",
       "https://cf.cjdropshipping.com/1619578505173.jpg",
       "https://cf.cjdropshipping.com/20200107/2340503003509.png"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.7,
     "review_count": 1102.0,
@@ -621,7 +621,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/20200729/2548752410415.jpg",
       "https://cf.cjdropshipping.com/20200729/1153895509797.jpg",
       "https://cf.cjdropshipping.com/20200729/4527109664994.jpg"
-],
+    ],
     "badge": null,
     "rating": 4.6,
     "review_count": 2301.0,
@@ -661,7 +661,7 @@ export const PRODUCTS = [
       "https://oss-cf.cjdropshipping.com/product/2024/08/01/05/c08c4124-fbd1-4ed4-8dfa-21df87ddc1e2.jpg",
       "https://oss-cf.cjdropshipping.com/product/2024/08/01/05/27451000-397b-4b13-9461-5e14c77ef23e.jpg",
       "https://oss-cf.cjdropshipping.com/product/2024/08/01/05/b58f42ea-09f8-4967-b58b-e400bfa9e849.jpg"
-],
+    ],
     "badge": "SALE",
     "rating": 4.6,
     "review_count": 1456.0,
@@ -701,7 +701,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/903d64ef-4e40-4723-85c1-76db9e6ae32c.jpg",
       "https://cf.cjdropshipping.com/a334085b-0f74-44cc-90b0-c33dd8b1ac40.jpg",
       "https://cf.cjdropshipping.com/d9aeee1e-73d5-4ed3-ab72-dd9e225ae211.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.8,
     "review_count": 3087.0,
@@ -742,7 +742,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/1619578505162.jpg",
       "https://cf.cjdropshipping.com/1619578505173.jpg",
       "https://cf.cjdropshipping.com/20200107/2340503003509.png"
-],
+    ],
     "badge": "NEW",
     "rating": 4.7,
     "review_count": 618.0,
@@ -783,7 +783,7 @@ export const PRODUCTS = [
       "https://oss-cf.cjdropshipping.com/product/2024/08/01/05/c08c4124-fbd1-4ed4-8dfa-21df87ddc1e2.jpg",
       "https://oss-cf.cjdropshipping.com/product/2024/08/01/05/27451000-397b-4b13-9461-5e14c77ef23e.jpg",
       "https://oss-cf.cjdropshipping.com/product/2024/08/01/05/b58f42ea-09f8-4967-b58b-e400bfa9e849.jpg"
-],
+    ],
     "badge": null,
     "rating": 4.8,
     "review_count": 1678.0,
@@ -821,7 +821,7 @@ export const PRODUCTS = [
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/06/20/06/778e4e04-0ceb-4ca5-82b8-f10ec84b6f2d.jpg",
       "https://oss-cf.cjdropshipping.com/product/2024/12/15/06/a0ddb941-34c6-4537-9640-3a0eb93b3392.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.8,
     "review_count": 2876,
@@ -861,7 +861,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/903d64ef-4e40-4723-85c1-76db9e6ae32c.jpg",
       "https://cf.cjdropshipping.com/a334085b-0f74-44cc-90b0-c33dd8b1ac40.jpg",
       "https://cf.cjdropshipping.com/d9aeee1e-73d5-4ed3-ab72-dd9e225ae211.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.9,
     "review_count": 1934,
@@ -904,7 +904,7 @@ export const PRODUCTS = [
       "https://oss-cf.cjdropshipping.com/product/2025/12/21/08/e91dbabf-a9b1-4029-bbcc-9558e1c45e3a_trans.jpeg",
       "https://oss-cf.cjdropshipping.com/product/2025/12/21/08/9b2c29c3-c083-4287-98ca-26d4bd365cbd_trans.jpeg",
       "https://oss-cf.cjdropshipping.com/product/2025/12/21/08/3a139400-242a-4406-9f18-f0f811111e8d_trans.jpeg"
-],
+    ],
     "badge": "NEW",
     "rating": 4.7,
     "review_count": 891,
@@ -947,7 +947,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/ac2c3057-2a76-475a-8ca1-4908340e91f4.jpg",
       "https://cf.cjdropshipping.com/a99c4e2e-faee-4222-9045-6aa16f3d03c2.jpg",
       "https://cf.cjdropshipping.com/06599c12-b77a-4eca-8435-f477ceca7501.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.8,
     "review_count": 1547,
@@ -990,7 +990,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/df75be29-c5f7-4059-a76e-2edca5589848.jpg",
       "https://cf.cjdropshipping.com/329c7d9b-7c60-4e2c-b3fa-7fcc9c3b67cf.jpg",
       "https://cf.cjdropshipping.com/24cb4ce7-5fce-4b5d-a45d-a01f8e3b527c.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.7,
     "review_count": 3241,
@@ -1033,7 +1033,7 @@ export const PRODUCTS = [
       "https://oss-cf.cjdropshipping.com/product/2025/11/21/06/ded90aee-f6ad-481c-ab9f-358622f2c204_trans.jpeg",
       "https://oss-cf.cjdropshipping.com/product/2025/11/21/06/790f2e92-e16a-4d7a-8ffd-483fbc793235_trans.jpeg",
       "https://oss-cf.cjdropshipping.com/product/2025/11/21/06/db99a5fe-f64c-4516-b64b-e5451b426126_trans.jpeg"
-],
+    ],
     "badge": "NEW",
     "rating": 4.6,
     "review_count": 724,
@@ -1076,7 +1076,7 @@ export const PRODUCTS = [
       "https://oss-cf.cjdropshipping.com/product/2025/05/19/07/9e0bb516-772a-4743-995b-32027500e249.jpg",
       "https://oss-cf.cjdropshipping.com/product/2025/05/19/07/f01a9b16-10e2-48e4-bc43-2e41311aa87e.jpg",
       "https://oss-cf.cjdropshipping.com/product/2025/05/19/07/e45460ee-ac51-46c0-8b50-db80bccc9d92.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.6,
     "review_count": 2103,
@@ -1119,7 +1119,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/597848f5-dac6-4f45-aaa2-18084148894d.jpg",
       "https://cf.cjdropshipping.com/28386390-b718-4f5e-85f2-ae7cb2cc46d8.jpg",
       "https://cf.cjdropshipping.com/5c6e0dac-a371-4ff5-b315-ccd813527bae.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.8,
     "review_count": 1289,
@@ -1162,7 +1162,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/quick/product/3fbd6533-54ed-44a6-bb05-2476da392ba1.jpg",
       "https://cf.cjdropshipping.com/quick/product/9268a443-4a0e-48d2-9ecf-8da5f62ec93c.jpg",
       "https://cf.cjdropshipping.com/quick/product/f9d98510-5a23-4768-a66d-5a64a69f748c.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.7,
     "review_count": 1832,
@@ -1204,7 +1204,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/quick/product/2359fb63-e5fb-4589-ae80-395d93ee2411.jpg",
       "https://cf.cjdropshipping.com/quick/product/4602f877-3313-4e16-be5a-cef55a805faf.jpg",
       "https://cf.cjdropshipping.com/quick/product/2bd21466-83a2-41ec-9c09-dbf93f6a3cba.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.8,
     "review_count": 2104,
@@ -1246,7 +1246,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/17305056/1852520037504782336.jpg",
       "https://cf.cjdropshipping.com/17305056/1852520038171676672.jpg",
       "https://cf.cjdropshipping.com/17305056/1852520038867931136.jpg"
-],
+    ],
     "badge": "NEW",
     "rating": 4.6,
     "review_count": 987,
@@ -1288,7 +1288,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/1619578505162.jpg",
       "https://cf.cjdropshipping.com/1619578505173.jpg",
       "https://cf.cjdropshipping.com/20200107/2340503003509.png"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.7,
     "review_count": 1563,
@@ -1330,7 +1330,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/ace6aceb-abf1-4fcc-bd76-109dd97de276.jpg",
       "https://cf.cjdropshipping.com/7a834a04-a5e7-4039-b634-667307c7deaa.jpg",
       "https://cf.cjdropshipping.com/05a7549c-a49e-42b4-8fa6-a02739689eb3.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.8,
     "review_count": 2891,
@@ -1372,7 +1372,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/c7bf0d50-debd-4313-ac67-901ca1cd1768.jpg",
       "https://cf.cjdropshipping.com/7dea8ec9-e2b8-4753-bb82-fe2838064b01.jpg",
       "https://cf.cjdropshipping.com/50676f8f-d20c-4c56-9f99-ca81311c9a15.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.7,
     "review_count": 1644,
@@ -1414,7 +1414,7 @@ export const PRODUCTS = [
       "https://oss-cf.cjdropshipping.com/product/2024/09/06/06/8cba0a6f-c39e-48fe-b660-e8a601853ce2.jpg",
       "https://cf.cjdropshipping.com/20200207/2906094415916.png",
       "https://cf.cjdropshipping.com/20200207/835371867149.png"
-],
+    ],
     "badge": "NEW",
     "rating": 4.5,
     "review_count": 3421,
@@ -1454,7 +1454,7 @@ export const PRODUCTS = [
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/04/03/10/db512398-e49f-47e2-b45a-d79a0c01fb86.jpg",
       "https://oss-cf.cjdropshipping.com/product/2024/04/03/10/d7d5e0d7-6946-4f54-bdc3-784520dcfd06.jpg"
-],
+    ],
     "badge": "NEW",
     "rating": 4.6,
     "review_count": 876,
@@ -1496,7 +1496,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/934d874b-5a6e-42aa-9f11-e26d038d2665.jpg",
       "https://cf.cjdropshipping.com/db45e6e7-1680-46d2-9e80-36c18e3518ec.jpg",
       "https://cf.cjdropshipping.com/499a8535-f04b-4f0b-bca3-ff629f0bde19.jpg"
-],
+    ],
     "badge": "BESTSELLER",
     "rating": 4.8,
     "review_count": 4102,
@@ -1534,7 +1534,7 @@ export const PRODUCTS = [
     "short_description": "3-step Vitamin C system: pH-optimized cleanser + 15% L-ascorbic acid serum + protective moisturizer. A complete brightening routine engineered for synergistic results.",
     "images": [
       "https://oss-cf.cjdropshipping.com/product/2024/06/18/02/53503ec5-9408-4212-9fd1-dedf05d6cbb7.jpg"
-],
+    ],
     "badge": "SALE",
     "rating": 4.7,
     "review_count": 1203,
@@ -1576,7 +1576,7 @@ export const PRODUCTS = [
       "https://oss-cf.cjdropshipping.com/product/2024/05/22/07/5474c509-0f38-4188-b48e-a2865c474573_trans.jpeg",
       "https://cf.cjdropshipping.com/quick/product/bd0439df-24c2-4a74-a3da-4ffae4683ab6.jpg",
       "https://oss-cf.cjdropshipping.com/product/2024/05/22/07/0af22503-46c6-4250-9107-7bc96c52a278.jpg"
-],
+    ],
     "badge": "NEW",
     "rating": 4.6,
     "review_count": 743,
@@ -1619,7 +1619,7 @@ export const PRODUCTS = [
       "https://cf.cjdropshipping.com/1619578505162.jpg",
       "https://cf.cjdropshipping.com/1619578505173.jpg",
       "https://cf.cjdropshipping.com/20200107/2340503003509.png"
-],
+    ],
     "badge": "NEW",
     "rating": 4.5,
     "review_count": 612,
@@ -1645,5 +1645,4867 @@ export const PRODUCTS = [
     "cjProductId": "D2E12604-CA71-4D95-9BF2-A1E563F9752B",
     "cjSku": "CJBJMRPF00210-White",
     "cjVariantId": "20F3C2B7-F8D0-446B-9608-C45B671B78A0"
+  },
+  {
+    "id": "bylvra-8581610000",
+    "name": "Kojic Acid Brightening Soap",
+    "slug": "kojic-acid-brightening-soap",
+    "category": "Skincare",
+    "price": 6.95,
+    "compare_at_price": 8.93,
+    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/ada124a9-5291-4ddf-91bd-0447699018e2.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.4,
+    "review_count": 3096,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Kojic Acid Brightening Soap \u00d7 1",
+    "in_stock": true,
+    "stock_count": 11,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220558581610000",
+    "cjSku": "CJJT2900082"
+  },
+  {
+    "id": "bylvra-2251611500",
+    "name": "Hydrating Serum",
+    "slug": "hydrating-serum",
+    "category": "Skincare",
+    "price": 6.95,
+    "compare_at_price": 10.14,
+    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/f79fd3c6-74ad-4d3c-90ec-8a72b0be7805.jpg"
+    ],
+    "badge": null,
+    "rating": 4.5,
+    "review_count": 202,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Hydrating Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 10,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220552251611500",
+    "cjSku": "CJPF2900056"
+  },
+  {
+    "id": "bylvra-6061601000",
+    "name": "Camellia Hydrating Serum",
+    "slug": "camellia-hydrating-serum",
+    "category": "Skincare",
+    "price": 5.95,
+    "compare_at_price": 8.22,
+    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/77e4293b-2893-4c96-8d35-090727dfcc3a.jpg"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 2741,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Camellia Hydrating Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 49,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220526061601000",
+    "cjSku": "CJPF2899995"
+  },
+  {
+    "id": "bylvra-2001627000",
+    "name": "Huanyan Brightening Lotion",
+    "slug": "huanyan-brightening-lotion",
+    "category": "Skincare",
+    "price": 5.95,
+    "compare_at_price": 7.88,
+    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/3b419f9d-ec2a-438b-a663-097d53dd9320.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.8,
+    "review_count": 106,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Huanyan Brightening Lotion \u00d7 1",
+    "in_stock": true,
+    "stock_count": 53,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220502001627000",
+    "cjSku": "CJPF2899962"
+  },
+  {
+    "id": "bylvra-2491603100",
+    "name": "Wslinttia Multi Collagen Vitamin Complex Gummies",
+    "slug": "wslinttia-multi-collagen-vitamin-complex-gummies",
+    "category": "Skincare",
+    "price": 7.95,
+    "compare_at_price": 11.29,
+    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/01/dbc6dfdc-a69b-4e01-8ac3-fa26a6954242.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.3,
+    "review_count": 1458,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Wslinttia Multi Collagen Vitamin Complex Gummies \u00d7 1",
+    "in_stock": true,
+    "stock_count": 11,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220142491603100",
+    "cjSku": "CJHP2899675"
+  },
+  {
+    "id": "bylvra-7645313025",
+    "name": "Castor Oil Eyelash Serum",
+    "slug": "castor-oil-eyelash-serum",
+    "category": "Skincare",
+    "price": 7.95,
+    "compare_at_price": 10.33,
+    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/cbbd123c-90c9-484e-b24f-83d9793e0530.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 257,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Castor Oil Eyelash Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 51,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057709667645313025",
+    "cjSku": "CJCZ2900109"
+  },
+  {
+    "id": "bylvra-6411600600",
+    "name": "Face Body Moisturizer Balm",
+    "slug": "face-body-moisturizer-balm",
+    "category": "Skincare",
+    "price": 6.95,
+    "compare_at_price": 9.07,
+    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/f021f68a-5980-422d-9140-6a724ec372d1.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.6,
+    "review_count": 2654,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Face Body Moisturizer Balm \u00d7 1",
+    "in_stock": true,
+    "stock_count": 44,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211246411600600",
+    "cjSku": "CJPF2899557"
+  },
+  {
+    "id": "bylvra-4081635100",
+    "name": "Shea Butter Moisturizing Cream, Suitable For Face And Body, Long-lasting",
+    "slug": "shea-butter-moisturizing-cream-suitable-for-face-and-bo",
+    "category": "Skincare",
+    "price": 7.95,
+    "compare_at_price": 10.75,
+    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/8fb50e36-29ba-4b1b-8b8f-fa710f5cbfbf.jpg"
+    ],
+    "badge": null,
+    "rating": 4.2,
+    "review_count": 2788,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Shea Butter Moisturizing Cream, Suitable For Face And Body, Long-lasting \u00d7 1",
+    "in_stock": true,
+    "stock_count": 19,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210604081635100",
+    "cjSku": "CJYD2898817"
+  },
+  {
+    "id": "bylvra-9261612100",
+    "name": "Turmeric Brightening Cleansing Soap Gently Cleanses Leaves Skin Soft And Hydrated",
+    "slug": "turmeric-brightening-cleansing-soap-gently-cleanses-lea",
+    "category": "Skincare",
+    "price": 6.95,
+    "compare_at_price": 10.27,
+    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/3700a6b1-f80b-4c30-9e6e-f1193e2e01ab.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.5,
+    "review_count": 1937,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Turmeric Brightening Cleansing Soap Gently Cleanses Leaves Skin Soft And Hydrated \u00d7 1",
+    "in_stock": true,
+    "stock_count": 45,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210559261612100",
+    "cjSku": "CJYD2898804"
+  },
+  {
+    "id": "bylvra-1351619700",
+    "name": "Jelly Gel Moisturizing Gua Sha Face And Neck Cream",
+    "slug": "jelly-gel-moisturizing-gua-sha-face-and-neck-cream",
+    "category": "Skincare",
+    "price": 11.95,
+    "compare_at_price": 15.68,
+    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/3b63204a-62fa-42de-a01d-944d0c38d426.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "review_count": 2954,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Jelly Gel Moisturizing Gua Sha Face And Neck Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 48,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210531351619700",
+    "cjSku": "CJYD2898747"
+  },
+  {
+    "id": "bylvra-9506102274",
+    "name": "Post-Hair Removal Repair Serum",
+    "slug": "posthair-removal-repair-serum",
+    "category": "Skincare",
+    "price": 9.95,
+    "compare_at_price": 13.95,
+    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/d58dc96e-5b01-4e16-a3a6-cb32018d1d60.jpg"
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 749,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Post-Hair Removal Repair Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 34,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057022099506102274",
+    "cjSku": "CJST2897863"
+  },
+  {
+    "id": "bylvra-8141639400",
+    "name": "Moisturizing And Moisturizing Body Cream",
+    "slug": "moisturizing-and-moisturizing-body-cream",
+    "category": "Skincare",
+    "price": 6.95,
+    "compare_at_price": 10.27,
+    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/bfb8267e-515a-42b0-a4a0-84f44ff56352.jpg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 2884,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Moisturizing And Moisturizing Body Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 25,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220548141639400",
+    "cjSku": "CJPF2900036"
+  },
+  {
+    "id": "bylvra-4061638800",
+    "name": "Rejuvenation Nourishing Moisturizing Cream",
+    "slug": "rejuvenation-nourishing-moisturizing-cream",
+    "category": "Skincare",
+    "price": 7.95,
+    "compare_at_price": 11.41,
+    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. This formula skips the filler and delivers measurable results \u2014 smoother texture, more even tone, and visibly healthier skin with consistent daily use.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/836db35a-cc94-4892-a4df-6c4c40ac0b16.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.8,
+    "review_count": 1723,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Rejuvenation Nourishing Moisturizing Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 22,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220504061638800",
+    "cjSku": "CJPF2899964"
+  },
+  {
+    "id": "bylvra-4761015297",
+    "name": "Double Eyelid Shaping Cream",
+    "slug": "double-eyelid-shaping-cream",
+    "category": "Skincare",
+    "price": 6.95,
+    "compare_at_price": 10.17,
+    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/74130a33-1e5f-4d36-a0c0-b881809ee069.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 2764,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Double Eyelid Shaping Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 36,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057732434761015297",
+    "cjSku": "CJMB2900289"
+  },
+  {
+    "id": "bylvra-4311614100",
+    "name": "Moisturizing And Soothing Cream",
+    "slug": "moisturizing-and-soothing-cream",
+    "category": "Skincare",
+    "price": 6.95,
+    "compare_at_price": 10.17,
+    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/a40996f4-93b4-47af-92df-94ec57476046.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.4,
+    "review_count": 1090,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Moisturizing And Soothing Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 52,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211234311614100",
+    "cjSku": "CJPF2899546"
+  },
+  {
+    "id": "bylvra-5221606500",
+    "name": "Nicotinamide Moisturizing Firming Cream",
+    "slug": "nicotinamide-moisturizing-firming-cream",
+    "category": "Skincare",
+    "price": 6.95,
+    "compare_at_price": 9.26,
+    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/f56d063b-7936-415a-8841-4dfa9b65d44c.jpg"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 1715,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Nicotinamide Moisturizing Firming Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 28,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211155221606500",
+    "cjSku": "CJPF2899516"
+  },
+  {
+    "id": "bylvra-3331617100",
+    "name": "Eye Firming And Lifting Cream",
+    "slug": "eye-firming-and-lifting-cream",
+    "category": "Skincare",
+    "price": 7.95,
+    "compare_at_price": 11.76,
+    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/cc061adb-937a-4d2d-a1b8-d80c22bdb05d.jpg"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 272,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Eye Firming And Lifting Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 60,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211143331617100",
+    "cjSku": "CJPF2899505"
+  },
+  {
+    "id": "bylvra-6531628500",
+    "name": "Magnesium Moisturizing Sleep Cream",
+    "slug": "magnesium-moisturizing-sleep-cream",
+    "category": "Skincare",
+    "price": 5.95,
+    "compare_at_price": 8.36,
+    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/c8986490-bf0d-4d4c-beed-52e544d369a5.jpg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 1656,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Magnesium Moisturizing Sleep Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 29,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211136531628500",
+    "cjSku": "CJPF2899498"
+  },
+  {
+    "id": "bylvra-5381634800",
+    "name": "Collagen Fullerenes Neck Cream",
+    "slug": "collagen-fullerenes-neck-cream",
+    "category": "Skincare",
+    "price": 6.95,
+    "compare_at_price": 9.55,
+    "description": "Developed around proven dermatological actives, this formula works beneath the surface where topical skincare matters most. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/edcaefb9-2547-425c-aec7-1d8bd074ab91.jpg"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 127,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
+      "Improves skin texture, tone, and radiance with consistent use",
+      "Visible results within 4\u20136 weeks of daily application",
+      "Lightweight, fast-absorbing formula with no greasy residue"
+    ],
+    "whats_in_box": "Collagen Fullerenes Neck Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 48,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210825381634800",
+    "cjSku": "CJMJ2899162"
+  },
+  {
+    "id": "bylvra-0481623600",
+    "name": "High-Waisted Slimming Yoga Pants For Women Stretchy Tight-Fitting Booty-Lifting Workout Leggings",
+    "slug": "highwaisted-slimming-yoga-pants-for-women-stretchy-tigh",
+    "category": "Tools & Devices",
+    "price": 18.95,
+    "compare_at_price": 26.84,
+    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/d429516e-42ce-428b-acbd-81de18153cd6.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.7,
+    "review_count": 1473,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "High-Waisted Slimming Yoga Pants For Women Stretchy Tight-Fitting Booty-Lifting Workout Leggings \u00d7 1",
+    "in_stock": true,
+    "stock_count": 12,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211000481623600",
+    "cjSku": "CJTZ2899419"
+  },
+  {
+    "id": "bylvra-0581616300",
+    "name": "Hexapeptide Anti-wrinkle Stick For Lifting Firming Reducing Fine Lines And Improving The Eye And Neck Areas",
+    "slug": "hexapeptide-antiwrinkle-stick-for-lifting-firming-reduc",
+    "category": "Tools & Devices",
+    "price": 2.95,
+    "compare_at_price": 3.87,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/06/035b2ab0-3aca-46e1-9900-993b831e73f1_trans.jpeg"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 1158,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Hexapeptide Anti-wrinkle Stick For Lifting Firming Reducing Fine Lines And Improving The Eye And Neck Areas \u00d7 1",
+    "in_stock": true,
+    "stock_count": 37,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210610581616300",
+    "cjSku": "CJYD2898830"
+  },
+  {
+    "id": "bylvra-3239457793",
+    "name": "OceAura Collagen Lifting Body Oil",
+    "slug": "oceaura-collagen-lifting-body-oil",
+    "category": "Tools & Devices",
+    "price": 12.95,
+    "compare_at_price": 17.89,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/c88c358e-2b39-4b12-94b4-b15972339141.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 2697,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "OceAura Collagen Lifting Body Oil \u00d7 1",
+    "in_stock": true,
+    "stock_count": 37,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057339633239457793",
+    "cjSku": "CJST2898792"
+  },
+  {
+    "id": "bylvra-9241633201",
+    "name": "Portable Heimlich Negative-Pressure Suction Device",
+    "slug": "portable-heimlich-negativepressure-suction-device",
+    "category": "Tools & Devices",
+    "price": 31.95,
+    "compare_at_price": 41.87,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/20/10/2d345c21-d276-4222-8503-7d190ce1d307_trans.jpeg"
+    ],
+    "badge": null,
+    "rating": 4.9,
+    "review_count": 2252,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Portable Heimlich Negative-Pressure Suction Device \u00d7 1",
+    "in_stock": true,
+    "stock_count": 5,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605201039241633201",
+    "cjSku": "CJYD2898225"
+  },
+  {
+    "id": "bylvra-1561618700",
+    "name": "EMS Abdominal Trainer Microcurrent Technology For Lazy Fat Loss Tummy Toning And Body Shaping",
+    "slug": "ems-abdominal-trainer-microcurrent-technology-for-lazy",
+    "category": "Tools & Devices",
+    "price": 42.95,
+    "compare_at_price": 59.17,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/20/06/8b1e95fa-df58-412e-8423-b951c9fe3670_trans.jpeg"
+    ],
+    "badge": "HOT",
+    "rating": 4.8,
+    "review_count": 1339,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "EMS Abdominal Trainer Microcurrent Technology For Lazy Fat Loss Tummy Toning And Body Shaping \u00d7 1",
+    "in_stock": true,
+    "stock_count": 20,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605200641561618700",
+    "cjSku": "CJYD2897236"
+  },
+  {
+    "id": "bylvra-9461606000",
+    "name": "32-Channel High-Power Beauty Iron Microcurrent RF Anti-Aging Device",
+    "slug": "32channel-highpower-beauty-iron-microcurrent-rf-antiagi",
+    "category": "Tools & Devices",
+    "price": 17.95,
+    "compare_at_price": 26.13,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/20/01/44a65bb7-3cb5-4eef-bf29-9505bc3f8540_trans.jpeg"
+    ],
+    "badge": "NEW",
+    "rating": 4.7,
+    "review_count": 363,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "32-Channel High-Power Beauty Iron Microcurrent RF Anti-Aging Device \u00d7 1",
+    "in_stock": true,
+    "stock_count": 53,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605200119461606000",
+    "cjSku": "CJPF2896771"
+  },
+  {
+    "id": "bylvra-1141636800",
+    "name": "Red Light Facial Beauty Mask Color Light Skin-Softening Beauty Device",
+    "slug": "red-light-facial-beauty-mask-color-light-skinsoftening",
+    "category": "Tools & Devices",
+    "price": 62.95,
+    "compare_at_price": 82.16,
+    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/d7faffa1-50df-4485-b063-02a4209d813a.jpg"
+    ],
+    "badge": null,
+    "rating": 4.9,
+    "review_count": 756,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Red Light Facial Beauty Mask Color Light Skin-Softening Beauty Device \u00d7 1",
+    "in_stock": true,
+    "stock_count": 21,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605180621141636800",
+    "cjSku": "CJYD2894516"
+  },
+  {
+    "id": "bylvra-1031603400",
+    "name": "Home-use Muscle Training Device For Abdominal Exercises",
+    "slug": "homeuse-muscle-training-device-for-abdominal-exercises",
+    "category": "Tools & Devices",
+    "price": 73.95,
+    "compare_at_price": 103.63,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/18/06/05306a7d-7655-4f86-bfb6-e3a57f323364_trans.jpeg"
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 2905,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Home-use Muscle Training Device For Abdominal Exercises \u00d7 1",
+    "in_stock": true,
+    "stock_count": 17,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605180611031603400",
+    "cjSku": "CJYD2894492"
+  },
+  {
+    "id": "bylvra-6231607200",
+    "name": "Makeup Tool Suction Cup Silicone Cleaner",
+    "slug": "makeup-tool-suction-cup-silicone-cleaner",
+    "category": "Tools & Devices",
+    "price": 3.95,
+    "compare_at_price": 5.37,
+    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/14/03/4b4732f3-68f5-468d-9699-cb1a00fbcab5_trans.jpeg"
+    ],
+    "badge": null,
+    "rating": 4.5,
+    "review_count": 2199,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Makeup Tool Suction Cup Silicone Cleaner \u00d7 1",
+    "in_stock": true,
+    "stock_count": 33,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605140346231607200",
+    "cjSku": "CJMJ2890139"
+  },
+  {
+    "id": "bylvra-1411626900",
+    "name": "Ice Machine Cleaner",
+    "slug": "ice-machine-cleaner",
+    "category": "Tools & Devices",
+    "price": 5.95,
+    "compare_at_price": 7.88,
+    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/4464a2e9-2943-4f26-a767-d973297b643e.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.6,
+    "review_count": 1022,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Ice Machine Cleaner \u00d7 1",
+    "in_stock": true,
+    "stock_count": 42,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210421411626900",
+    "cjSku": "CJJT2898666"
+  },
+  {
+    "id": "bylvra-1561605800",
+    "name": "Three-Quarter Yoga Shorts Hip-Lifting Fitness Running Sports Set",
+    "slug": "threequarter-yoga-shorts-hiplifting-fitness-running-spo",
+    "category": "Tools & Devices",
+    "price": 10.95,
+    "compare_at_price": 14.17,
+    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/20/09/9a38feac-bb39-42d4-8188-6a41bb50c217_trans.jpeg"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "review_count": 208,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Three-Quarter Yoga Shorts Hip-Lifting Fitness Running Sports Set \u00d7 1",
+    "in_stock": true,
+    "stock_count": 60,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605200921561605800",
+    "cjSku": "CJDK2898021"
+  },
+  {
+    "id": "bylvra-9515143169",
+    "name": "Twisting Waist Disc Waist Twist Board Machine Abdomen Exercise Balancing Board",
+    "slug": "twisting-waist-disc-waist-twist-board-machine-abdomen-e",
+    "category": "Tools & Devices",
+    "price": 96.95,
+    "compare_at_price": 134.07,
+    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/3e417909-5fb0-4703-892a-ffe0c8742132.jpg"
+    ],
+    "badge": null,
+    "rating": 4.5,
+    "review_count": 2288,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Twisting Waist Disc Waist Twist Board Machine Abdomen Exercise Balancing Board \u00d7 1",
+    "in_stock": true,
+    "stock_count": 13,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057033969515143169",
+    "cjSku": "CJJM2898107"
+  },
+  {
+    "id": "bylvra-5271610000",
+    "name": "Large LED Red And Infrared Therapy Lamp",
+    "slug": "large-led-red-and-infrared-therapy-lamp",
+    "category": "Tools & Devices",
+    "price": 433.95,
+    "compare_at_price": 632.04,
+    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/07/dfc8463a-06db-47f1-a5c3-703cc5c0dae6.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 2017,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Large LED Red And Infrared Therapy Lamp \u00d7 1",
+    "in_stock": true,
+    "stock_count": 56,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210735271610000",
+    "cjSku": "CJJT2899047"
+  },
+  {
+    "id": "bylvra-9141811202",
+    "name": "450W Baby Food Maker With Steamer Blender Auto Clean LED Touch Panel UK Shipment",
+    "slug": "450w-baby-food-maker-with-steamer-blender-auto-clean-le",
+    "category": "Tools & Devices",
+    "price": 159.95,
+    "compare_at_price": 207.75,
+    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/a4248b9b-e2c4-4aae-a0b6-8d33019a239a.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 1763,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "450W Baby Food Maker With Steamer Blender Auto Clean LED Touch Panel UK Shipment \u00d7 1",
+    "in_stock": true,
+    "stock_count": 34,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2056647069141811202",
+    "cjSku": "CJCF2896312"
+  },
+  {
+    "id": "bylvra-8461625300",
+    "name": "Portable Home Small Electric Steamer White",
+    "slug": "portable-home-small-electric-steamer-white",
+    "category": "Tools & Devices",
+    "price": 26.95,
+    "compare_at_price": 34.79,
+    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/18/01/11cb8e3a-5f38-454c-999c-8ca5c4337e19.jpg"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 1729,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Portable Home Small Electric Steamer White \u00d7 1",
+    "in_stock": true,
+    "stock_count": 51,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605180158461625300",
+    "cjSku": "CJCF2894189"
+  },
+  {
+    "id": "bylvra-2191611700",
+    "name": "Electronic Beauty Device For Home Use On The Face",
+    "slug": "electronic-beauty-device-for-home-use-on-the-face",
+    "category": "Tools & Devices",
+    "price": 29.95,
+    "compare_at_price": 43.5,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/15/03/1c9bcc8d-cd52-412a-9bee-bb5532769938.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.3,
+    "review_count": 1917,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Electronic Beauty Device For Home Use On The Face \u00d7 1",
+    "in_stock": true,
+    "stock_count": 13,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605150332191611700",
+    "cjSku": "CJMB2891854"
+  },
+  {
+    "id": "bylvra-7291612300",
+    "name": "Electric Bike Front Basket Rain Cove Electric Scootermotorcycle Basket Cover",
+    "slug": "electric-bike-front-basket-rain-cove-electric-scootermo",
+    "category": "Tools & Devices",
+    "price": 2.95,
+    "compare_at_price": 3.94,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/2768e9ca-69eb-4c56-9c3c-db65cbb45e77.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.5,
+    "review_count": 2334,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Electric Bike Front Basket Rain Cove Electric Scootermotorcycle Basket Cover \u00d7 1",
+    "in_stock": true,
+    "stock_count": 11,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220827291612300",
+    "cjSku": "CJYD2900371"
+  },
+  {
+    "id": "bylvra-0045586433",
+    "name": "Mama Engraved Wooden Rose, 2-Layer Laser Cut Forever Rose With Base, Mother's Day Decorative Gift",
+    "slug": "mama-engraved-wooden-rose-2layer-laser-cut-forever-rose",
+    "category": "Tools & Devices",
+    "price": 1.95,
+    "compare_at_price": 2.89,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/90677acb-1f97-4c3c-a515-cad863461519.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.8,
+    "review_count": 1048,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Mama Engraved Wooden Rose, 2-Layer Laser Cut Forever Rose With Base, Mother's Day Decorative Gift \u00d7 1",
+    "in_stock": true,
+    "stock_count": 15,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057714940045586433",
+    "cjSku": "CJHD2899953"
+  },
+  {
+    "id": "bylvra-3001609600",
+    "name": "10-piece Fluffy Hair Styling Tool Set",
+    "slug": "10piece-fluffy-hair-styling-tool-set",
+    "category": "Tools & Devices",
+    "price": 3.95,
+    "compare_at_price": 5.44,
+    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/8b892930-e796-4f3f-8763-cde750f2e691_trans.jpeg"
+    ],
+    "badge": "NEW",
+    "rating": 4.3,
+    "review_count": 88,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "10-piece Fluffy Hair Styling Tool Set \u00d7 1",
+    "in_stock": true,
+    "stock_count": 29,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210443001609600",
+    "cjSku": "CJYD2898687"
+  },
+  {
+    "id": "bylvra-4201619500",
+    "name": "Infrared Therapy Device Cross-border Dual-core Red Light Therapeutic Lamp",
+    "slug": "infrared-therapy-device-crossborder-dualcore-red-light",
+    "category": "Tools & Devices",
+    "price": 126.95,
+    "compare_at_price": 182.4,
+    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/16/08/fc0618c5-803c-40e4-b9f4-78bbc527748f.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.5,
+    "review_count": 3072,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Infrared Therapy Device Cross-border Dual-core Red Light Therapeutic Lamp \u00d7 1",
+    "in_stock": true,
+    "stock_count": 55,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605160634201619500",
+    "cjSku": "CJJT2893285"
+  },
+  {
+    "id": "bylvra-2682759170",
+    "name": "Detector Anti-Spy Bug Detector GPS Tracker Finder Scanner Device Hidden Camera",
+    "slug": "detector-antispy-bug-detector-gps-tracker-finder-scanne",
+    "category": "Tools & Devices",
+    "price": 37.95,
+    "compare_at_price": 54.03,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/6c8f7a85-b50c-4396-96b9-467e9a89366d.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.4,
+    "review_count": 319,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Detector Anti-Spy Bug Detector GPS Tracker Finder Scanner Device Hidden Camera \u00d7 1",
+    "in_stock": true,
+    "stock_count": 42,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2055560782682759170",
+    "cjSku": "CJDD2893444"
+  },
+  {
+    "id": "bylvra-9341613500",
+    "name": "Low-Current Heating Lumbar Massage Device",
+    "slug": "lowcurrent-heating-lumbar-massage-device",
+    "category": "Tools & Devices",
+    "price": 47.95,
+    "compare_at_price": 61.96,
+    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/15/07/4c23c9da-1fd6-4e03-8262-c4f62008923b_fine.jpeg"
+    ],
+    "badge": "NEW",
+    "rating": 4.2,
+    "review_count": 2032,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Low-Current Heating Lumbar Massage Device \u00d7 1",
+    "in_stock": true,
+    "stock_count": 37,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605150629341613500",
+    "cjSku": "CJYD2892231"
+  },
+  {
+    "id": "bylvra-8693122049",
+    "name": "Rolling Metal Tool Chest With 7 Drawers, 20   7-Drawer Tool Chest Cabinet With Ball Bearing Drawer Slides, Steel Tool Storage Box Organizer -Red&Black",
+    "slug": "rolling-metal-tool-chest-with-7-drawers-20-7drawer-tool",
+    "category": "Tools & Devices",
+    "price": 748.95,
+    "compare_at_price": 1038.21,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/17792352/7617516f-906b-45dc-a6e1-f75d5651aa6b.jpg"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 841,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Rolling Metal Tool Chest With 7 Drawers, 20   7-Drawer Tool Chest Cabinet With Ball Bearing Drawer Slides, Steel Tool Storage Box Organizer -Red&Black \u00d7 1",
+    "in_stock": true,
+    "stock_count": 9,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2056975758693122049",
+    "cjSku": "CJFU2897136"
+  },
+  {
+    "id": "bylvra-7231613700",
+    "name": "Semiconductor Cooling High-Performance USB Mini Fan",
+    "slug": "semiconductor-cooling-highperformance-usb-mini-fan",
+    "category": "Tools & Devices",
+    "price": 21.95,
+    "compare_at_price": 31.06,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/03/ded6c8de-2d5b-487c-9302-d273d5749e9a_trans.jpeg"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 2413,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Semiconductor Cooling High-Performance USB Mini Fan \u00d7 1",
+    "in_stock": true,
+    "stock_count": 20,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210337231613700",
+    "cjSku": "CJYD2898617"
+  },
+  {
+    "id": "bylvra-6371611700",
+    "name": "Household Cleaning And Disinfection Machine",
+    "slug": "household-cleaning-and-disinfection-machine",
+    "category": "Tools & Devices",
+    "price": 46.95,
+    "compare_at_price": 60.47,
+    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/19/08/e3f3a55e-9815-4e02-b1e9-3639c29310f5_water_trans.jpeg"
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 2395,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Household Cleaning And Disinfection Machine \u00d7 1",
+    "in_stock": true,
+    "stock_count": 38,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605190826371611700",
+    "cjSku": "CJYD2896359"
+  },
+  {
+    "id": "bylvra-2581606100",
+    "name": "Cross-border 75kg Large-capacity Mini Washing Machine And Shoe Washer Combo Supports Drop Shipping",
+    "slug": "crossborder-75kg-largecapacity-mini-washing-machine-and",
+    "category": "Tools & Devices",
+    "price": 77.95,
+    "compare_at_price": 103.84,
+    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/f7f593e4-7593-46e2-ac91-faa5635293e3.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 1167,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Cross-border 75kg Large-capacity Mini Washing Machine And Shoe Washer Combo Supports Drop Shipping \u00d7 1",
+    "in_stock": true,
+    "stock_count": 30,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605190152581606100",
+    "cjSku": "CJYD2895118"
+  },
+  {
+    "id": "bylvra-5161603900",
+    "name": "Cheng Auto Repair And Machine Maintenance Wear-resistant Workwear Dustproof Labor Protection Suit Set",
+    "slug": "cheng-auto-repair-and-machine-maintenance-wearresistant",
+    "category": "Tools & Devices",
+    "price": 25.95,
+    "compare_at_price": 36.57,
+    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/18/08/5d9e2ae4-08da-4434-a469-78eb977ce2c0_fine.jpeg"
+    ],
+    "badge": "HOT",
+    "rating": 4.9,
+    "review_count": 377,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use \u2014 no clinic required",
+      "Clinically validated mechanism of action for measurable results",
+      "Safe for daily use \u2014 engineered for long-term skin improvement",
+      "Enhances serum and active absorption when used before application",
+      "Visible improvement in skin quality within 3\u20134 weeks of use"
+    ],
+    "whats_in_box": "Cheng Auto Repair And Machine Maintenance Wear-resistant Workwear Dustproof Labor Protection Suit Set \u00d7 1",
+    "in_stock": true,
+    "stock_count": 5,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605180825161603900",
+    "cjSku": "CJYD2894770"
+  },
+  {
+    "id": "bylvra-5381613600",
+    "name": "Hair-Smoothing Nourishing Shampoo Bar For Men",
+    "slug": "hairsmoothing-nourishing-shampoo-bar-for-men",
+    "category": "Hair",
+    "price": 5.95,
+    "compare_at_price": 8.8,
+    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/aabd5b39-5d0e-4493-8cdb-59bd935d6bb8.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.6,
+    "review_count": 2152,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Hair-Smoothing Nourishing Shampoo Bar For Men \u00d7 1",
+    "in_stock": true,
+    "stock_count": 21,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220255381613600",
+    "cjSku": "CJYD2899813"
+  },
+  {
+    "id": "bylvra-4551638000",
+    "name": "Wash-free Dry Hair Spray",
+    "slug": "washfree-dry-hair-spray",
+    "category": "Hair",
+    "price": 5.95,
+    "compare_at_price": 8.03,
+    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/30bf6ff2-bf73-46c6-9758-c72a5b23fadf.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.5,
+    "review_count": 726,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Wash-free Dry Hair Spray \u00d7 1",
+    "in_stock": true,
+    "stock_count": 33,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211254551638000",
+    "cjSku": "CJJT2899565"
+  },
+  {
+    "id": "bylvra-1101611500",
+    "name": "Stainless Steel Manual Nose Hair Trimmer",
+    "slug": "stainless-steel-manual-nose-hair-trimmer",
+    "category": "Hair",
+    "price": 2.95,
+    "compare_at_price": 4.19,
+    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/20/07/59e25780-cd08-44fd-8990-03109996615c_fine.jpeg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 2815,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Stainless Steel Manual Nose Hair Trimmer \u00d7 1",
+    "in_stock": true,
+    "stock_count": 57,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605200731101611500",
+    "cjSku": "CJYD2897575"
+  },
+  {
+    "id": "bylvra-6331601500",
+    "name": "R Rosemary Revitalizing Shampoo Cleanses The Scalp And Provides Moisture",
+    "slug": "r-rosemary-revitalizing-shampoo-cleanses-the-scalp-and",
+    "category": "Hair",
+    "price": 4.95,
+    "compare_at_price": 7.26,
+    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/20/01/76b949fe-8b41-44a1-81d7-795b16d07afa_water.jpeg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.4,
+    "review_count": 518,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "R Rosemary Revitalizing Shampoo Cleanses The Scalp And Provides Moisture \u00d7 1",
+    "in_stock": true,
+    "stock_count": 52,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605200146331601500",
+    "cjSku": "CJMJ2896802"
+  },
+  {
+    "id": "bylvra-9321630300",
+    "name": "Mens Hair Styling Comb Multifunctional Hair Styling Comb",
+    "slug": "mens-hair-styling-comb-multifunctional-hair-styling-com",
+    "category": "Hair",
+    "price": 8.95,
+    "compare_at_price": 11.94,
+    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/8d917041-3493-417d-86f3-3f6e208adfac.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "review_count": 913,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Mens Hair Styling Comb Multifunctional Hair Styling Comb \u00d7 1",
+    "in_stock": true,
+    "stock_count": 48,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605200119321630300",
+    "cjSku": "CJJF2896765"
+  },
+  {
+    "id": "bylvra-7696404482",
+    "name": "Hair Growth Roll-On",
+    "slug": "hair-growth-rollon",
+    "category": "Hair",
+    "price": 9.95,
+    "compare_at_price": 13.26,
+    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/5ec0b680-afe4-4c01-b878-fef729f19bba.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.8,
+    "review_count": 288,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Hair Growth Roll-On \u00d7 1",
+    "in_stock": true,
+    "stock_count": 10,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057006927696404482",
+    "cjSku": "CJST2897660"
+  },
+  {
+    "id": "bylvra-0571635500",
+    "name": "Hair Growth Microneedle Solution For Hair Regeneration",
+    "slug": "hair-growth-microneedle-solution-for-hair-regeneration",
+    "category": "Hair",
+    "price": 6.95,
+    "compare_at_price": 10.05,
+    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/434653a6-49ea-43ee-bbc5-96a32f74c697.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "review_count": 615,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Hair Growth Microneedle Solution For Hair Regeneration \u00d7 1",
+    "in_stock": true,
+    "stock_count": 45,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605191120571635500",
+    "cjSku": "CJYD2896648"
+  },
+  {
+    "id": "bylvra-1171637500",
+    "name": "Hair Growth Serum",
+    "slug": "hair-growth-serum",
+    "category": "Hair",
+    "price": 7.95,
+    "compare_at_price": 10.43,
+    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/14/14/7d0c1089-51eb-4a42-93bb-48009822242f.jpg"
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 2377,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Hair Growth Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 5,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605141101171637500",
+    "cjSku": "CJPF2891002"
+  },
+  {
+    "id": "bylvra-7203399681",
+    "name": "Electric Facial Hair Remover & Eyebrow Trimmer With LED Light",
+    "slug": "electric-facial-hair-remover-eyebrow-trimmer-with-led-l",
+    "category": "Hair",
+    "price": 24.95,
+    "compare_at_price": 36.65,
+    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/4a5a2b2c-ddd3-46d3-ac54-e69f0de8c852.png"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.6,
+    "review_count": 1592,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Electric Facial Hair Remover & Eyebrow Trimmer With LED Light \u00d7 1",
+    "in_stock": true,
+    "stock_count": 42,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2056669347203399681",
+    "cjSku": "CJPF2896500"
+  },
+  {
+    "id": "bylvra-0441625700",
+    "name": "Hydrating Hair Care Oil",
+    "slug": "hydrating-hair-care-oil",
+    "category": "Hair",
+    "price": 6.95,
+    "compare_at_price": 9.49,
+    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/f6265334-057c-4b8e-bd46-c4d10b1b6d4a.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.5,
+    "review_count": 243,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Hydrating Hair Care Oil \u00d7 1",
+    "in_stock": true,
+    "stock_count": 27,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220550441625700",
+    "cjSku": "CJPF2900046"
+  },
+  {
+    "id": "bylvra-6301606000",
+    "name": "High Gloss And Supple Hair Care Liquid",
+    "slug": "high-gloss-and-supple-hair-care-liquid",
+    "category": "Hair",
+    "price": 6.95,
+    "compare_at_price": 9.24,
+    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/bba9fb39-6a6f-4ae5-92f2-2eea2d23fd2e.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.7,
+    "review_count": 1744,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "High Gloss And Supple Hair Care Liquid \u00d7 1",
+    "in_stock": true,
+    "stock_count": 44,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220546301606000",
+    "cjSku": "CJJT2900032"
+  },
+  {
+    "id": "bylvra-0191629300",
+    "name": "Haircut Scissors Stainless Steel Hair Stylist",
+    "slug": "haircut-scissors-stainless-steel-hair-stylist",
+    "category": "Hair",
+    "price": 23.95,
+    "compare_at_price": 35.09,
+    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/03/0f98957a-70ec-4900-8301-87a4b73bfbb4.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.9,
+    "review_count": 805,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Haircut Scissors Stainless Steel Hair Stylist \u00d7 1",
+    "in_stock": true,
+    "stock_count": 31,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220340191629300",
+    "cjSku": "CJJT2899878"
+  },
+  {
+    "id": "bylvra-6430090241",
+    "name": "Professional Hair Dryer Nozzle Low Noise 2200w Ionic Blow Dryerwith Diffuser Blu",
+    "slug": "professional-hair-dryer-nozzle-low-noise-2200w-ionic-bl",
+    "category": "Hair",
+    "price": 39.95,
+    "compare_at_price": 57.02,
+    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/23850173-52bf-4d78-82cf-7f357233a3fe.jpg"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 3090,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Professional Hair Dryer Nozzle Low Noise 2200w Ionic Blow Dryerwith Diffuser Blu \u00d7 1",
+    "in_stock": true,
+    "stock_count": 56,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057713796430090241",
+    "cjSku": "CJTF2900142"
+  },
+  {
+    "id": "bylvra-4311624900",
+    "name": "Hair Removal Care Ball Oil",
+    "slug": "hair-removal-care-ball-oil",
+    "category": "Hair",
+    "price": 5.95,
+    "compare_at_price": 7.81,
+    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/9f214a52-7e60-4d1a-ae46-ad05cb749317.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.5,
+    "review_count": 238,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Hair Removal Care Ball Oil \u00d7 1",
+    "in_stock": true,
+    "stock_count": 59,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210434311624900",
+    "cjSku": "CJPF2898678"
+  },
+  {
+    "id": "bylvra-2471628200",
+    "name": "Hair Removal Care Ball Oil",
+    "slug": "hair-removal-care-ball-oil-2",
+    "category": "Hair",
+    "price": 6.95,
+    "compare_at_price": 9.17,
+    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/265220bd-defb-4741-91b7-2dadc8917e07.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.4,
+    "review_count": 1012,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Hair Removal Care Ball Oil \u00d7 1",
+    "in_stock": true,
+    "stock_count": 19,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210432471628200",
+    "cjSku": "CJPF2898677"
+  },
+  {
+    "id": "bylvra-9331615700",
+    "name": "Pet Hair Cleaning Spray",
+    "slug": "pet-hair-cleaning-spray",
+    "category": "Hair",
+    "price": 4.95,
+    "compare_at_price": 6.53,
+    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/bd8fab63-9403-4983-9b92-727101294e61.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.8,
+    "review_count": 1223,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Pet Hair Cleaning Spray \u00d7 1",
+    "in_stock": true,
+    "stock_count": 27,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605200909331615700",
+    "cjSku": "CJYD2897956"
+  },
+  {
+    "id": "bylvra-6131612700",
+    "name": "Moisturizes Hydrates And Adds Shine To Hair While Refreshing The Scalpideal For Daily Care",
+    "slug": "moisturizes-hydrates-and-adds-shine-to-hair-while-refre",
+    "category": "Hair",
+    "price": 6.95,
+    "compare_at_price": 9.45,
+    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/fc23dd46-59d4-4892-83bb-af14662da01c.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.9,
+    "review_count": 552,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Moisturizes Hydrates And Adds Shine To Hair While Refreshing The Scalpideal For Daily Care \u00d7 1",
+    "in_stock": true,
+    "stock_count": 21,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605191236131612700",
+    "cjSku": "CJYD2896684"
+  },
+  {
+    "id": "bylvra-3041635900",
+    "name": "Moisturizing Shampoo That Cleanses The Scalp And Hair While Reducing Dandruff",
+    "slug": "moisturizing-shampoo-that-cleanses-the-scalp-and-hair-w",
+    "category": "Hair",
+    "price": 5.95,
+    "compare_at_price": 8.76,
+    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/94ceddab-03c4-47a7-a553-def954caeec6.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.3,
+    "review_count": 1859,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Moisturizing Shampoo That Cleanses The Scalp And Hair While Reducing Dandruff \u00d7 1",
+    "in_stock": true,
+    "stock_count": 27,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605191233041635900",
+    "cjSku": "CJYD2896683"
+  },
+  {
+    "id": "bylvra-4086596610",
+    "name": "Microcurrent Head Massager, Electric Kneading Vibration Waterproof Rechargeable Scalp & Head Massager",
+    "slug": "microcurrent-head-massager-electric-kneading-vibration",
+    "category": "Hair",
+    "price": 139.95,
+    "compare_at_price": 187.92,
+    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/1c26ab52-a029-46b1-9dcb-f871cf01ec0a.png"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 2441,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Microcurrent Head Massager, Electric Kneading Vibration Waterproof Rechargeable Scalp & Head Massager \u00d7 1",
+    "in_stock": true,
+    "stock_count": 17,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2054413554086596610",
+    "cjSku": "CJAM2886066"
+  },
+  {
+    "id": "bylvra-3271201793",
+    "name": "Multifunctional Head Massager For Stress Relief, Acupoint And Scalp Meridian Massage",
+    "slug": "multifunctional-head-massager-for-stress-relief-acupoin",
+    "category": "Hair",
+    "price": 33.95,
+    "compare_at_price": 48.27,
+    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/028070ba-a4e5-4f2f-864c-75a41b4f94cc.png"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 2285,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Multifunctional Head Massager For Stress Relief, Acupoint And Scalp Meridian Massage \u00d7 1",
+    "in_stock": true,
+    "stock_count": 48,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2054406793271201793",
+    "cjSku": "CJAM2885874"
+  },
+  {
+    "id": "bylvra-1061604700",
+    "name": "4-ply Combed Milk Cotton Yarn Ball For Dolls Blankets And Hair Clips Suitable For Crochet",
+    "slug": "4ply-combed-milk-cotton-yarn-ball-for-dolls-blankets-an",
+    "category": "Hair",
+    "price": 2.95,
+    "compare_at_price": 4.21,
+    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/527a8aac-9013-41d0-8c94-791165a8f547.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.5,
+    "review_count": 366,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "4-ply Combed Milk Cotton Yarn Ball For Dolls Blankets And Hair Clips Suitable For Crochet \u00d7 1",
+    "in_stock": true,
+    "stock_count": 47,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605190831061604700",
+    "cjSku": "CJYD2896364"
+  },
+  {
+    "id": "bylvra-7668132866",
+    "name": "Hair Removal Soothing Essential Oil",
+    "slug": "hair-removal-soothing-essential-oil",
+    "category": "Hair",
+    "price": 12.95,
+    "compare_at_price": 18.19,
+    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/9a7c10db-e4f2-460a-bbed-4d79527ceb2f.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.7,
+    "review_count": 1310,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Hair Removal Soothing Essential Oil \u00d7 1",
+    "in_stock": true,
+    "stock_count": 37,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2056584577668132866",
+    "cjSku": "CJST2895489"
+  },
+  {
+    "id": "bylvra-1637188610",
+    "name": "DIY Lash Extension Kit 280pcs Individual Lash Clusters D Curl 30D 40D Thick Volume Eyelash Clusters 0.07D 9-16MM Mixed Length Reusable Soft Natural Look DIY At Home Lash Extensions Makeup Tool Kit",
+    "slug": "diy-lash-extension-kit-280pcs-individual-lash-clusters",
+    "category": "Hair",
+    "price": 17.95,
+    "compare_at_price": 24.44,
+    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/4e7bed11-c5c1-4037-80b8-7fc134e274a5.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 601,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "DIY Lash Extension Kit 280pcs Individual Lash Clusters D Curl 30D 40D Thick Volume Eyelash Clusters 0.07D 9-16MM Mixed Length Reusable Soft Natural Look DIY At Home Lash Extensions Makeup Tool Kit \u00d7 1",
+    "in_stock": true,
+    "stock_count": 17,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2052306071637188610",
+    "cjSku": "CJJJ2872809"
+  },
+  {
+    "id": "bylvra-4397853698",
+    "name": "Lash Clusters, 640 Pcs Eyelashes Cluster Extensions 9-16mm Fluffy Individual Lashes 30D-60D D Curl False Eyelashes",
+    "slug": "lash-clusters-640-pcs-eyelashes-cluster-extensions-916m",
+    "category": "Hair",
+    "price": 25.95,
+    "compare_at_price": 38.1,
+    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/7c5d58ea-eac4-489d-ae03-cb138f8463a3.jpg"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 2601,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Lash Clusters, 640 Pcs Eyelashes Cluster Extensions 9-16mm Fluffy Individual Lashes 30D-60D D Curl False Eyelashes \u00d7 1",
+    "in_stock": true,
+    "stock_count": 41,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2052312894397853698",
+    "cjSku": "CJJJ2873194"
+  },
+  {
+    "id": "bylvra-4183596034",
+    "name": "DIY Lash Extension Kit 168pcs Individual Lashes Clusters D Curl Lash Clusters,0.07D-9-16MM Kit",
+    "slug": "diy-lash-extension-kit-168pcs-individual-lashes-cluster",
+    "category": "Hair",
+    "price": 18.95,
+    "compare_at_price": 26.33,
+    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/5b605d11-feea-4f54-a6b3-1c80a1cf2428.png"
+    ],
+    "badge": "HOT",
+    "rating": 4.4,
+    "review_count": 1840,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "DIY Lash Extension Kit 168pcs Individual Lashes Clusters D Curl Lash Clusters,0.07D-9-16MM Kit \u00d7 1",
+    "in_stock": true,
+    "stock_count": 55,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2052380894183596034",
+    "cjSku": "CJJJ2873622"
+  },
+  {
+    "id": "bylvra-6470452226",
+    "name": "Rosemary & Rice Water Hair Growth Spray, Natural Anti Hair Loss Treatment, 200ml",
+    "slug": "rosemary-rice-water-hair-growth-spray-natural-anti-hair",
+    "category": "Hair",
+    "price": 10.95,
+    "compare_at_price": 15.45,
+    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/44477345-a84a-4b72-b1fe-29cda9b4ee18.png"
+    ],
+    "badge": null,
+    "rating": 4.5,
+    "review_count": 955,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Rosemary & Rice Water Hair Growth Spray, Natural Anti Hair Loss Treatment, 200ml \u00d7 1",
+    "in_stock": true,
+    "stock_count": 37,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2054463796470452226",
+    "cjSku": "CJST2887832"
+  },
+  {
+    "id": "bylvra-7428419585",
+    "name": "Batana Oil Hair Conditioner, Natural Batana Oil For Hair Growth For Healthier Thicker Hair, Stimulates Hair Follicles",
+    "slug": "batana-oil-hair-conditioner-natural-batana-oil-for-hair",
+    "category": "Hair",
+    "price": 40.95,
+    "compare_at_price": 59.8,
+    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/55255263-fded-43bc-9b19-0047723f2545.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "review_count": 1242,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Batana Oil Hair Conditioner, Natural Batana Oil For Hair Growth For Healthier Thicker Hair, Stimulates Hair Follicles \u00d7 1",
+    "in_stock": true,
+    "stock_count": 37,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2054487887428419585",
+    "cjSku": "CJST2888203"
+  },
+  {
+    "id": "bylvra-4581639100",
+    "name": "Double-ended Brow Pencil And Eyeliner 2-in-1",
+    "slug": "doubleended-brow-pencil-and-eyeliner-2in1",
+    "category": "Hair",
+    "price": 3.95,
+    "compare_at_price": 5.55,
+    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/02/a9e5b477-9823-4c3c-b9b8-8b9b23d62f0d.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "review_count": 1000,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "Double-ended Brow Pencil And Eyeliner 2-in-1 \u00d7 1",
+    "in_stock": true,
+    "stock_count": 56,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210254581639100",
+    "cjSku": "CJYD2898529"
+  },
+  {
+    "id": "bylvra-8224826369",
+    "name": "44 Pcs Interlocking Deck Tiles, 12   X 12   HDPE Outdoor Flooring, Patio Flooring Outdoor Waterproof, Deck Tiles Outdoor Waterproof For Deck Garden Poolside, All Weather Use -Dark Brow",
+    "slug": "44-pcs-interlocking-deck-tiles-12-x-12-hdpe-outdoor-flo",
+    "category": "Hair",
+    "price": 574.95,
+    "compare_at_price": 738.74,
+    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/17792352/6d76c054-1ca4-4290-ba1f-e5f901e5d609.jpg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 378,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets hair follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding with regular use",
+      "Scalp-safe formula suitable for all hair types",
+      "Visible improvement in hair fullness within 6\u20138 weeks"
+    ],
+    "whats_in_box": "44 Pcs Interlocking Deck Tiles, 12   X 12   HDPE Outdoor Flooring, Patio Flooring Outdoor Waterproof, Deck Tiles Outdoor Waterproof For Deck Garden Poolside, All Weather Use -Dark Brow \u00d7 1",
+    "in_stock": true,
+    "stock_count": 34,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057021838224826369",
+    "cjSku": "CJFU2897898"
+  },
+  {
+    "id": "bylvra-9551637300",
+    "name": "Soothing And Moisturizing Body Massage Oil",
+    "slug": "soothing-and-moisturizing-body-massage-oil",
+    "category": "Body",
+    "price": 5.95,
+    "compare_at_price": 8.37,
+    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/9011e6c9-b5e3-4b18-bef3-04e34c349d58_fine.jpeg"
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 2104,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Soothing And Moisturizing Body Massage Oil \u00d7 1",
+    "in_stock": true,
+    "stock_count": 30,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220809551637300",
+    "cjSku": "CJYD2900322"
+  },
+  {
+    "id": "bylvra-6101623800",
+    "name": "Body Exfoliating Scrub",
+    "slug": "body-exfoliating-scrub",
+    "category": "Body",
+    "price": 5.95,
+    "compare_at_price": 8.4,
+    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/06/7d7c57e8-5e50-49d6-b4a1-04dd6bcfd5b8.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.7,
+    "review_count": 976,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Body Exfoliating Scrub \u00d7 1",
+    "in_stock": true,
+    "stock_count": 16,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220606101623800",
+    "cjSku": "CJPF2900093"
+  },
+  {
+    "id": "bylvra-9421625000",
+    "name": "Moisturizing Body Fluid",
+    "slug": "moisturizing-body-fluid",
+    "category": "Body",
+    "price": 7.95,
+    "compare_at_price": 11.28,
+    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/3de67ae2-47a4-4489-ab63-27f40a6f1f3f.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.6,
+    "review_count": 577,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Moisturizing Body Fluid \u00d7 1",
+    "in_stock": true,
+    "stock_count": 34,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211219421625000",
+    "cjSku": "CJPF2899528"
+  },
+  {
+    "id": "bylvra-2161626300",
+    "name": "Body Deodorizing Spray",
+    "slug": "body-deodorizing-spray",
+    "category": "Body",
+    "price": 6.95,
+    "compare_at_price": 9.54,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/642f12a4-4828-48da-8d2f-698414c34ece.jpg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 3173,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Body Deodorizing Spray \u00d7 1",
+    "in_stock": true,
+    "stock_count": 33,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211202161626300",
+    "cjSku": "CJJT2899524"
+  },
+  {
+    "id": "bylvra-0141626400",
+    "name": "Body Deodorant",
+    "slug": "body-deodorant",
+    "category": "Body",
+    "price": 8.95,
+    "compare_at_price": 12.74,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/78a50ef1-6975-4a2c-b643-d6712e9465e9.jpg"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 2324,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Body Deodorant \u00d7 1",
+    "in_stock": true,
+    "stock_count": 33,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211200141626400",
+    "cjSku": "CJPF2899522"
+  },
+  {
+    "id": "bylvra-5081627700",
+    "name": "Fruit Acid Exfoliating Body Stick",
+    "slug": "fruit-acid-exfoliating-body-stick",
+    "category": "Body",
+    "price": 7.95,
+    "compare_at_price": 11.36,
+    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/09/cde27d10-1ac8-4593-bd90-4f8e495ea25d.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 1092,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Fruit Acid Exfoliating Body Stick \u00d7 1",
+    "in_stock": true,
+    "stock_count": 58,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210945081627700",
+    "cjSku": "CJPF2899385"
+  },
+  {
+    "id": "bylvra-6171617800",
+    "name": "Body Nourishing Patch",
+    "slug": "body-nourishing-patch",
+    "category": "Body",
+    "price": 6.95,
+    "compare_at_price": 9.96,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/c4371308-ff3f-480e-8b0e-7b20994776ea.jpg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 1204,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Body Nourishing Patch \u00d7 1",
+    "in_stock": true,
+    "stock_count": 33,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210426171617800",
+    "cjSku": "CJPF2898670"
+  },
+  {
+    "id": "bylvra-9281603300",
+    "name": "Body Rejuvenation Scrub",
+    "slug": "body-rejuvenation-scrub",
+    "category": "Body",
+    "price": 5.95,
+    "compare_at_price": 7.96,
+    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/79e8819f-df29-4e60-b42c-0d626541cf2f.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.4,
+    "review_count": 2292,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Body Rejuvenation Scrub \u00d7 1",
+    "in_stock": true,
+    "stock_count": 10,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210419281603300",
+    "cjSku": "CJPF2898665"
+  },
+  {
+    "id": "bylvra-4381621200",
+    "name": "Sultry Metallic Silver Cutout Sexy Stretch Bodysuit Vest",
+    "slug": "sultry-metallic-silver-cutout-sexy-stretch-bodysuit-ves",
+    "category": "Body",
+    "price": 105.95,
+    "compare_at_price": 140.52,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/20/09/b2e641fb-852a-4bff-971b-972689a2f045.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "review_count": 343,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Sultry Metallic Silver Cutout Sexy Stretch Bodysuit Vest \u00d7 1",
+    "in_stock": true,
+    "stock_count": 31,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605200944381621200",
+    "cjSku": "CJCS2898125"
+  },
+  {
+    "id": "bylvra-2229683201",
+    "name": "Firming Night Roll-On Serum",
+    "slug": "firming-night-rollon-serum",
+    "category": "Body",
+    "price": 10.95,
+    "compare_at_price": 15.2,
+    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/230323f8-1d59-40ce-b77f-2567a3f206de.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.3,
+    "review_count": 1800,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Firming Night Roll-On Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 29,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2056612192229683201",
+    "cjSku": "CJMB2895787"
+  },
+  {
+    "id": "bylvra-8471611600",
+    "name": "Clear Moisturizing Sunscreen Lotion",
+    "slug": "clear-moisturizing-sunscreen-lotion",
+    "category": "Body",
+    "price": 7.95,
+    "compare_at_price": 11.1,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/ca829bb5-9663-4dcc-af3a-01fb391ba66f.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.8,
+    "review_count": 2438,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Clear Moisturizing Sunscreen Lotion \u00d7 1",
+    "in_stock": true,
+    "stock_count": 29,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211238471611600",
+    "cjSku": "CJPF2899549"
+  },
+  {
+    "id": "bylvra-0431613400",
+    "name": "Tanning Moisturizing Lotion",
+    "slug": "tanning-moisturizing-lotion",
+    "category": "Body",
+    "price": 6.95,
+    "compare_at_price": 10.21,
+    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/62f8b6ca-7e65-49da-8335-7cf5f1384772.jpg"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 1796,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Tanning Moisturizing Lotion \u00d7 1",
+    "in_stock": true,
+    "stock_count": 39,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211150431613400",
+    "cjSku": "CJPF2899512"
+  },
+  {
+    "id": "bylvra-4311635500",
+    "name": "Soothing And Moisturizing Eye Mask",
+    "slug": "soothing-and-moisturizing-eye-mask",
+    "category": "Body",
+    "price": 9.95,
+    "compare_at_price": 13.82,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/6d872200-22ce-4ba5-9ac8-50f410d261ea.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.5,
+    "review_count": 1197,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Soothing And Moisturizing Eye Mask \u00d7 1",
+    "in_stock": true,
+    "stock_count": 32,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220554311635500",
+    "cjSku": "CJPF2900060"
+  },
+  {
+    "id": "bylvra-4321628300",
+    "name": "Multi-effect Moisturizing Stick",
+    "slug": "multieffect-moisturizing-stick",
+    "category": "Body",
+    "price": 6.95,
+    "compare_at_price": 9.44,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/8c2bd97e-c544-4879-8dc5-677108c243a4.jpg"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 3046,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Multi-effect Moisturizing Stick \u00d7 1",
+    "in_stock": true,
+    "stock_count": 15,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220544321628300",
+    "cjSku": "CJPF2900028"
+  },
+  {
+    "id": "bylvra-3031606600",
+    "name": "Oil of Oregano 6,000mg with Black Seed Oil 120 softgels",
+    "slug": "oil-of-oregano-6000mg-with-black-seed-oil-120-softgels",
+    "category": "Body",
+    "price": 7.95,
+    "compare_at_price": 11.64,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/01/e994b4ed-0ae9-4a6a-af93-d6d50d484a21.jpg"
+    ],
+    "badge": null,
+    "rating": 4.2,
+    "review_count": 1693,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Oil of Oregano 6,000mg with Black Seed Oil 120 softgels \u00d7 1",
+    "in_stock": true,
+    "stock_count": 42,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220143031606600",
+    "cjSku": "CJYD2899672"
+  },
+  {
+    "id": "bylvra-8865147906",
+    "name": "Moisturizing Sunscreen Foundation",
+    "slug": "moisturizing-sunscreen-foundation",
+    "category": "Body",
+    "price": 13.95,
+    "compare_at_price": 17.93,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/9f7c8ef1-4cba-4e20-aa37-b75e94d8e418.jpg"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 1971,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Moisturizing Sunscreen Foundation \u00d7 1",
+    "in_stock": true,
+    "stock_count": 16,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057726418865147906",
+    "cjSku": "CJMB2900259"
+  },
+  {
+    "id": "bylvra-0301622300",
+    "name": "Womens Fashion Plus-Size High-Waisted Slimming Skirt",
+    "slug": "womens-fashion-plussize-highwaisted-slimming-skirt",
+    "category": "Body",
+    "price": 10.95,
+    "compare_at_price": 14.85,
+    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/a04ea27a-6565-4900-83c8-696d891449ec.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 3197,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Womens Fashion Plus-Size High-Waisted Slimming Skirt \u00d7 1",
+    "in_stock": true,
+    "stock_count": 29,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211310301622300",
+    "cjSku": "CJQZ2899575"
+  },
+  {
+    "id": "bylvra-4101609400",
+    "name": "Removable And Washable Long Body Pillow For Side Sleepers",
+    "slug": "removable-and-washable-long-body-pillow-for-side-sleepe",
+    "category": "Body",
+    "price": 95.95,
+    "compare_at_price": 141.07,
+    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/06/c30d3173-bef0-4d1b-8d03-1e535a124b91_trans.jpeg"
+    ],
+    "badge": "HOT",
+    "rating": 4.8,
+    "review_count": 2006,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Removable And Washable Long Body Pillow For Side Sleepers \u00d7 1",
+    "in_stock": true,
+    "stock_count": 6,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220634101609400",
+    "cjSku": "CJZT2900122"
+  },
+  {
+    "id": "bylvra-3551609300",
+    "name": "Body Care Liquid",
+    "slug": "body-care-liquid",
+    "category": "Body",
+    "price": 7.95,
+    "compare_at_price": 10.26,
+    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/ebe40a07-6f0c-4423-8ac3-fce2dbd24d87.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "review_count": 2749,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Body Care Liquid \u00d7 1",
+    "in_stock": true,
+    "stock_count": 7,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220523551609300",
+    "cjSku": "CJPF2899992"
+  },
+  {
+    "id": "bylvra-6026477570",
+    "name": "Fashion Cross-body Bag",
+    "slug": "fashion-crossbody-bag",
+    "category": "Body",
+    "price": 12.95,
+    "compare_at_price": 19.04,
+    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/443c0295-dc49-46bd-8b27-424ca0a2ca02.JPG"
+    ],
+    "badge": "NEW",
+    "rating": 4.6,
+    "review_count": 1057,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Fashion Cross-body Bag \u00d7 1",
+    "in_stock": true,
+    "stock_count": 13,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057639406026477570",
+    "cjSku": "CJNS2899664"
+  },
+  {
+    "id": "bylvra-3591623400",
+    "name": "Ink-wash Full-body Print Robe Cardigan Elegant Long Tunic",
+    "slug": "inkwash-fullbody-print-robe-cardigan-elegant-long-tunic",
+    "category": "Body",
+    "price": 28.95,
+    "compare_at_price": 37.72,
+    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/792f6fe4-79c6-412f-8a87-ac79f1aea74b.jpg"
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 1590,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Ink-wash Full-body Print Robe Cardigan Elegant Long Tunic \u00d7 1",
+    "in_stock": true,
+    "stock_count": 15,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211113591623400",
+    "cjSku": "CJLY2899480"
+  },
+  {
+    "id": "bylvra-0181615800",
+    "name": "Skin Care Roller Serum",
+    "slug": "skin-care-roller-serum",
+    "category": "Body",
+    "price": 6.95,
+    "compare_at_price": 10.24,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/09/532c514d-1292-4e79-90ab-c1f969161399.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.7,
+    "review_count": 750,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Skin Care Roller Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 24,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211000181615800",
+    "cjSku": "CJPF2899418"
+  },
+  {
+    "id": "bylvra-9181626000",
+    "name": "Advanced Multi-Effect Firming Cream Firming And Anti-Wrinkle Cream",
+    "slug": "advanced-multieffect-firming-cream-firming-and-antiwrin",
+    "category": "Body",
+    "price": 4.95,
+    "compare_at_price": 6.36,
+    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/ba73a5cb-8601-4261-92d2-9205b4a91a48.jpg"
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 1617,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Advanced Multi-Effect Firming Cream Firming And Anti-Wrinkle Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 30,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210619181626000",
+    "cjSku": "CJYD2898859"
+  },
+  {
+    "id": "bylvra-6281604500",
+    "name": "Castor Oil Ball Care Oil",
+    "slug": "castor-oil-ball-care-oil",
+    "category": "Body",
+    "price": 7.95,
+    "compare_at_price": 10.49,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/fa990012-e15c-4f6b-a286-243a86af9bfd.jpg"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 1074,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Castor Oil Ball Care Oil \u00d7 1",
+    "in_stock": true,
+    "stock_count": 11,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220556281604500",
+    "cjSku": "CJPF2900075"
+  },
+  {
+    "id": "bylvra-1181621200",
+    "name": "Elderberry Oil",
+    "slug": "elderberry-oil",
+    "category": "Body",
+    "price": 7.95,
+    "compare_at_price": 10.66,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/e401bfc8-ca41-41eb-bd21-bee9c5d6288b.jpg"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 2398,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Elderberry Oil \u00d7 1",
+    "in_stock": true,
+    "stock_count": 55,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220531181621200",
+    "cjSku": "CJPF2900005"
+  },
+  {
+    "id": "bylvra-8471636900",
+    "name": "White Musk Fragrance Oil",
+    "slug": "white-musk-fragrance-oil",
+    "category": "Body",
+    "price": 5.95,
+    "compare_at_price": 8.25,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/30c3af5d-99a2-449a-b50e-9aa630d8fccc.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.2,
+    "review_count": 2732,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "White Musk Fragrance Oil \u00d7 1",
+    "in_stock": true,
+    "stock_count": 26,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211258471636900",
+    "cjSku": "CJPF2899569"
+  },
+  {
+    "id": "bylvra-6381629000",
+    "name": "Nail Care Oil",
+    "slug": "nail-care-oil",
+    "category": "Body",
+    "price": 5.95,
+    "compare_at_price": 8.12,
+    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/fb19bf3c-19a9-4ca7-94cc-579c1234d334.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.5,
+    "review_count": 1563,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Nail Care Oil \u00d7 1",
+    "in_stock": true,
+    "stock_count": 45,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211236381629000",
+    "cjSku": "CJMJ2899547"
+  },
+  {
+    "id": "bylvra-4201633200",
+    "name": "Three-Color Camouflage Oil Set Outdoor Gear",
+    "slug": "threecolor-camouflage-oil-set-outdoor-gear",
+    "category": "Body",
+    "price": 3.95,
+    "compare_at_price": 5.42,
+    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/fa743662-864a-49ec-a707-4069d672b4c4.jpg"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 2217,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Three-Color Camouflage Oil Set Outdoor Gear \u00d7 1",
+    "in_stock": true,
+    "stock_count": 46,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210924201633200",
+    "cjSku": "CJYD2899324"
+  },
+  {
+    "id": "bylvra-4299905026",
+    "name": "Brightening Clear Cushion Cream Natural Shade",
+    "slug": "brightening-clear-cushion-cream-natural-shade",
+    "category": "Body",
+    "price": 9.95,
+    "compare_at_price": 14.34,
+    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/975c3b07-cc8c-4639-8ffc-351de31d1eff.jpg"
+    ],
+    "badge": null,
+    "rating": 4.5,
+    "review_count": 3074,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Brightening Clear Cushion Cream Natural Shade \u00d7 1",
+    "in_stock": true,
+    "stock_count": 42,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057703184299905026",
+    "cjSku": "CJMB2900073"
+  },
+  {
+    "id": "bylvra-3261604000",
+    "name": "Skin Lotion",
+    "slug": "skin-lotion",
+    "category": "Body",
+    "price": 5.95,
+    "compare_at_price": 8.63,
+    "description": "Formulated for the skin from neck to toe \u2014 richer in actives, faster-absorbing, and built for the demands of body skin. Improves texture, hydration, and firmness with consistent daily use.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/09/ca0b0c24-6d3a-4b51-808b-bd60c5486b86.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.8,
+    "review_count": 1078,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact for immediate improvement",
+      "Reduces the appearance of cellulite and uneven texture over time",
+      "Fast-absorbing, non-greasy formula suitable for daily use",
+      "Clinically tested \u2014 safe for all skin types",
+      "Visible improvement in skin tone and firmness within 4 weeks"
+    ],
+    "whats_in_box": "Skin Lotion \u00d7 1",
+    "in_stock": true,
+    "stock_count": 53,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210943261604000",
+    "cjSku": "CJPF2899380"
+  },
+  {
+    "id": "bylvra-1221602000",
+    "name": "Full-body Loosening With A Handheld Gua Sha Bowl Tendon-striking Stick And Meridian Brush",
+    "slug": "fullbody-loosening-with-a-handheld-gua-sha-bowl-tendons",
+    "category": "Wellness",
+    "price": 6.95,
+    "compare_at_price": 9.74,
+    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/20/11/bb008ef0-b5e3-4fa8-b00b-b653feebfbac_water_fine.jpeg"
+    ],
+    "badge": "HOT",
+    "rating": 4.2,
+    "review_count": 1411,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Full-body Loosening With A Handheld Gua Sha Bowl Tendon-striking Stick And Meridian Brush \u00d7 1",
+    "in_stock": true,
+    "stock_count": 16,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605201141221602000",
+    "cjSku": "CJYD2898254"
+  },
+  {
+    "id": "bylvra-3521618400",
+    "name": "Jade And Rose Quartz Facial And Back Gua Sha Massager",
+    "slug": "jade-and-rose-quartz-facial-and-back-gua-sha-massager",
+    "category": "Wellness",
+    "price": 6.95,
+    "compare_at_price": 9.39,
+    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/18/10/cdadde93-c972-4823-91dd-3768f9749725_fine.jpeg"
+    ],
+    "badge": "HOT",
+    "rating": 4.4,
+    "review_count": 2521,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Jade And Rose Quartz Facial And Back Gua Sha Massager \u00d7 1",
+    "in_stock": true,
+    "stock_count": 49,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605181003521618400",
+    "cjSku": "CJPF2894949"
+  },
+  {
+    "id": "bylvra-3061634800",
+    "name": "Apricot-leaf Orchid Jade-imitation Stud Earrings",
+    "slug": "apricotleaf-orchid-jadeimitation-stud-earrings",
+    "category": "Wellness",
+    "price": 10.95,
+    "compare_at_price": 15.23,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/12722a08-559b-4de2-b804-b61c75a8417f.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.3,
+    "review_count": 3029,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Apricot-leaf Orchid Jade-imitation Stud Earrings \u00d7 1",
+    "in_stock": true,
+    "stock_count": 31,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605180913061634800",
+    "cjSku": "CJST2894866"
+  },
+  {
+    "id": "bylvra-2200454145",
+    "name": "Collagen Tearing Mask Cleansing Facial Moisturizing",
+    "slug": "collagen-tearing-mask-cleansing-facial-moisturizing",
+    "category": "Wellness",
+    "price": 10.95,
+    "compare_at_price": 15.68,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/82e200c3-85f8-4796-84bd-aa0e45d60cb4.jpg"
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 2090,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Collagen Tearing Mask Cleansing Facial Moisturizing \u00d7 1",
+    "in_stock": true,
+    "stock_count": 33,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2055489312200454145",
+    "cjSku": "CJMB2893033"
+  },
+  {
+    "id": "bylvra-8131623900",
+    "name": "Hand Heating Wristband Portable Electric Massager",
+    "slug": "hand-heating-wristband-portable-electric-massager",
+    "category": "Wellness",
+    "price": 18.95,
+    "compare_at_price": 24.61,
+    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/20/03/74af5783-9860-47e7-8a50-e70e48e802fb_trans.jpeg"
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 1334,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Hand Heating Wristband Portable Electric Massager \u00d7 1",
+    "in_stock": true,
+    "stock_count": 47,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605200248131623900",
+    "cjSku": "CJYD2896912"
+  },
+  {
+    "id": "bylvra-5959285762",
+    "name": "Electric Body Sculpt Massager Slimming Machine, EMS Skin Tightening Massager With 5 Heads For Belly Arms Legs Butt, Cordless Handheld UK",
+    "slug": "electric-body-sculpt-massager-slimming-machine-ems-skin",
+    "category": "Wellness",
+    "price": 77.95,
+    "compare_at_price": 107.15,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/69b8171c-1415-4916-aa41-eadc771f91b3.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.5,
+    "review_count": 3135,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Electric Body Sculpt Massager Slimming Machine, EMS Skin Tightening Massager With 5 Heads For Belly Arms Legs Butt, Cordless Handheld UK \u00d7 1",
+    "in_stock": true,
+    "stock_count": 40,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2056304415959285762",
+    "cjSku": "CJAM2894889"
+  },
+  {
+    "id": "bylvra-5451623800",
+    "name": "Collagen Moisturizing Face Cream For Hydration And Nourishment",
+    "slug": "collagen-moisturizing-face-cream-for-hydration-and-nour",
+    "category": "Wellness",
+    "price": 4.95,
+    "compare_at_price": 7.03,
+    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/ba4651b0-9282-4b2d-acc5-55699d2b356b.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.4,
+    "review_count": 574,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Collagen Moisturizing Face Cream For Hydration And Nourishment \u00d7 1",
+    "in_stock": true,
+    "stock_count": 51,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605171255451623800",
+    "cjSku": "CJMJ2894046"
+  },
+  {
+    "id": "bylvra-3071607800",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement",
+    "category": "Wellness",
+    "price": 7.95,
+    "compare_at_price": 10.37,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/62ddff8b-cbec-4ab2-8a1c-34123b489419.jpg"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 966,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 52,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220813071607800",
+    "cjSku": "CJHP2900340"
+  },
+  {
+    "id": "bylvra-0291622000",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement-2",
+    "category": "Wellness",
+    "price": 8.95,
+    "compare_at_price": 12.75,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/a9e1fda7-1805-4dfb-b912-00fbb72e78cc.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 491,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 58,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220810291622000",
+    "cjSku": "CJHP2900333"
+  },
+  {
+    "id": "bylvra-6111624800",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement-3",
+    "category": "Wellness",
+    "price": 9.95,
+    "compare_at_price": 13.19,
+    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/07/87ceb2fc-26a7-4f47-9f5c-c09d728a60d7.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.2,
+    "review_count": 2267,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 13,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220746111624800",
+    "cjSku": "CJHP2900287"
+  },
+  {
+    "id": "bylvra-3321630200",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement-4",
+    "category": "Wellness",
+    "price": 7.95,
+    "compare_at_price": 11.73,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/07/eb86b2ce-8043-47ec-9af8-12a29cd41e3a.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.7,
+    "review_count": 597,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 45,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220743321630200",
+    "cjSku": "CJHP2900285"
+  },
+  {
+    "id": "bylvra-1431617100",
+    "name": "Nutrition Supplement Capsule",
+    "slug": "nutrition-supplement-capsule",
+    "category": "Wellness",
+    "price": 12.95,
+    "compare_at_price": 17.85,
+    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/07/325b93c8-ba3d-4b67-ad1e-4f095e5316fe.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 2040,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Nutrition Supplement Capsule \u00d7 1",
+    "in_stock": true,
+    "stock_count": 33,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220741431617100",
+    "cjSku": "CJHP2900280"
+  },
+  {
+    "id": "bylvra-8431633900",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement-5",
+    "category": "Wellness",
+    "price": 9.95,
+    "compare_at_price": 14.66,
+    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/07/b339ac13-0e9b-4901-828a-53e31da4e0f2.jpg"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 347,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 30,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220738431633900",
+    "cjSku": "CJHP2900274"
+  },
+  {
+    "id": "bylvra-8521636700",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement-6",
+    "category": "Wellness",
+    "price": 21.95,
+    "compare_at_price": 30.63,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/04/dcd45393-6374-4bb7-9a9d-6506d2ffc245.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.3,
+    "review_count": 2385,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 24,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220448521636700",
+    "cjSku": "CJHP2899954"
+  },
+  {
+    "id": "bylvra-1121635600",
+    "name": "Multi Collagen Complex For Women Types",
+    "slug": "multi-collagen-complex-for-women-types",
+    "category": "Wellness",
+    "price": 13.95,
+    "compare_at_price": 18.55,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/02/2bf7fcae-659d-4047-ae50-2ceb7034be13.jpg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 2613,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Multi Collagen Complex For Women Types \u00d7 1",
+    "in_stock": true,
+    "stock_count": 19,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220211121635600",
+    "cjSku": "CJYD2899714"
+  },
+  {
+    "id": "bylvra-8541639800",
+    "name": "Pure Moringa Dietary Supplement",
+    "slug": "pure-moringa-dietary-supplement",
+    "category": "Wellness",
+    "price": 7.95,
+    "compare_at_price": 10.78,
+    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/01/85e8cf35-49cd-4574-96cc-254ae9331253.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.8,
+    "review_count": 1836,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Pure Moringa Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 24,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220148541639800",
+    "cjSku": "CJHP2899683"
+  },
+  {
+    "id": "bylvra-0541623100",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement-7",
+    "category": "Wellness",
+    "price": 10.95,
+    "compare_at_price": 14.15,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/e38ac8a2-904a-41cb-9abd-0a794229b528.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.9,
+    "review_count": 931,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 45,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211250541623100",
+    "cjSku": "CJHP2899560"
+  },
+  {
+    "id": "bylvra-4421611500",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement-8",
+    "category": "Wellness",
+    "price": 7.95,
+    "compare_at_price": 11.23,
+    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/9823e715-2b82-426c-a2ad-33c1f579e20f.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.3,
+    "review_count": 387,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 15,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211244421611500",
+    "cjSku": "CJHP2899554"
+  },
+  {
+    "id": "bylvra-1021634400",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement-9",
+    "category": "Wellness",
+    "price": 8.95,
+    "compare_at_price": 12.26,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/8c0b0ad5-c976-4588-8047-857a7a23e24f.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 1028,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 23,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211141021634400",
+    "cjSku": "CJHP2899500"
+  },
+  {
+    "id": "bylvra-0291634600",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement-10",
+    "category": "Wellness",
+    "price": 9.95,
+    "compare_at_price": 14.13,
+    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/11/a500dc75-d627-4f2c-841a-a8aab47f393a.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.7,
+    "review_count": 1163,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 55,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211130291634600",
+    "cjSku": "CJHP2899494"
+  },
+  {
+    "id": "bylvra-9341619400",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement-11",
+    "category": "Wellness",
+    "price": 11.95,
+    "compare_at_price": 16.71,
+    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/10/cefd0744-eab6-4e4d-a32b-f77efb6f2484.jpg"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 1000,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 46,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211049341619400",
+    "cjSku": "CJHP2899468"
+  },
+  {
+    "id": "bylvra-7161619800",
+    "name": "Dietary Supplement",
+    "slug": "dietary-supplement-12",
+    "category": "Wellness",
+    "price": 5.95,
+    "compare_at_price": 7.93,
+    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/10/750d0aa0-f40c-434a-aaa2-6d7f5b085a26.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.2,
+    "review_count": 1339,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Dietary Supplement \u00d7 1",
+    "in_stock": true,
+    "stock_count": 43,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211047161619800",
+    "cjSku": "CJHP2899467"
+  },
+  {
+    "id": "bylvra-9071626100",
+    "name": "Cranberry Womens Probiotic Gummies",
+    "slug": "cranberry-womens-probiotic-gummies",
+    "category": "Wellness",
+    "price": 6.95,
+    "compare_at_price": 9.69,
+    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/52ef7eea-085f-48ad-b843-d022edf45029.jpg"
+    ],
+    "badge": null,
+    "rating": 4.3,
+    "review_count": 2900,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Cranberry Womens Probiotic Gummies \u00d7 1",
+    "in_stock": true,
+    "stock_count": 24,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605221119071626100",
+    "cjSku": "CJYD2900651"
+  },
+  {
+    "id": "bylvra-8311624500",
+    "name": "Lightweight Moisturizing And Naturally Fitting Eye Mask",
+    "slug": "lightweight-moisturizing-and-naturally-fitting-eye-mask",
+    "category": "Wellness",
+    "price": 6.95,
+    "compare_at_price": 10.21,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/4172f8bc-f7e3-4763-b140-464db92cf1b2.jpg"
+    ],
+    "badge": null,
+    "rating": 4.5,
+    "review_count": 409,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Lightweight Moisturizing And Naturally Fitting Eye Mask \u00d7 1",
+    "in_stock": true,
+    "stock_count": 43,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210848311624500",
+    "cjSku": "CJMJ2899218"
+  },
+  {
+    "id": "bylvra-7231628400",
+    "name": "Muscle Tape Abdominal Training Tape Abdominal Trainer Arm And Leg Massager",
+    "slug": "muscle-tape-abdominal-training-tape-abdominal-trainer-a",
+    "category": "Wellness",
+    "price": 26.95,
+    "compare_at_price": 36.82,
+    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/517e9eae-ab0e-43b4-afe8-a731a206cb91.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 454,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Muscle Tape Abdominal Training Tape Abdominal Trainer Arm And Leg Massager \u00d7 1",
+    "in_stock": true,
+    "stock_count": 19,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605150607231628400",
+    "cjSku": "CJYD2892167"
+  },
+  {
+    "id": "bylvra-0181618600",
+    "name": "Waist And Abdominal Warm Compress Microcurrent Exercise Pulse Waist Massager",
+    "slug": "waist-and-abdominal-warm-compress-microcurrent-exercise",
+    "category": "Wellness",
+    "price": 51.95,
+    "compare_at_price": 75.18,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/15/03/f256958e-0ffb-4e16-b809-debcf1e3e2f8_trans.jpeg"
+    ],
+    "badge": null,
+    "rating": 4.9,
+    "review_count": 2833,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Waist And Abdominal Warm Compress Microcurrent Exercise Pulse Waist Massager \u00d7 1",
+    "in_stock": true,
+    "stock_count": 57,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605150320181618600",
+    "cjSku": "CJYD2891812"
+  },
+  {
+    "id": "bylvra-9401617200",
+    "name": "Neck Beauty Device Nasolabial Fold And Neck Wrinkle Remover Facial Massager And Infusion Tool Drop Shipping Available",
+    "slug": "neck-beauty-device-nasolabial-fold-and-neck-wrinkle-rem",
+    "category": "Wellness",
+    "price": 27.95,
+    "compare_at_price": 36.0,
+    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/15/03/3d5f8af7-ef05-4eac-9a11-848f0aa13c72.jpg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 1891,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Neck Beauty Device Nasolabial Fold And Neck Wrinkle Remover Facial Massager And Infusion Tool Drop Shipping Available \u00d7 1",
+    "in_stock": true,
+    "stock_count": 22,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605150309401617200",
+    "cjSku": "CJYD2891800"
+  },
+  {
+    "id": "bylvra-5988627457",
+    "name": "AMZ Collagen Softening Eye Cream",
+    "slug": "amz-collagen-softening-eye-cream",
+    "category": "Wellness",
+    "price": 8.95,
+    "compare_at_price": 12.5,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/1cb1ac90-0713-43c9-a98a-60cfae73f486.jpg"
+    ],
+    "badge": null,
+    "rating": 4.9,
+    "review_count": 2005,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "AMZ Collagen Softening Eye Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 27,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2056947995988627457",
+    "cjSku": "CJMB2897020"
+  },
+  {
+    "id": "bylvra-1011616800",
+    "name": "50ml Pump-Dispenser Bottle Hyaluronic Acid Vitamin C Collagen Face Cream",
+    "slug": "50ml-pumpdispenser-bottle-hyaluronic-acid-vitamin-c-col",
+    "category": "Wellness",
+    "price": 7.95,
+    "compare_at_price": 10.69,
+    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/df4e1587-3799-4eff-836a-b85481bb75e6.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.4,
+    "review_count": 2921,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "50ml Pump-Dispenser Bottle Hyaluronic Acid Vitamin C Collagen Face Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 36,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210601011616800",
+    "cjSku": "CJMJ2898811"
+  },
+  {
+    "id": "bylvra-5271601400",
+    "name": "Ordinary Dietary Nutritional Supplement Gummies",
+    "slug": "ordinary-dietary-nutritional-supplement-gummies",
+    "category": "Wellness",
+    "price": 4.95,
+    "compare_at_price": 7.27,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/fd47beb2-4436-4159-9744-19909389b0cb.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.5,
+    "review_count": 1368,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Ordinary Dietary Nutritional Supplement Gummies \u00d7 1",
+    "in_stock": true,
+    "stock_count": 21,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210535271601400",
+    "cjSku": "CJYD2898755"
+  },
+  {
+    "id": "bylvra-1231618200",
+    "name": "Liver Daily Nutrition Capsule",
+    "slug": "liver-daily-nutrition-capsule",
+    "category": "Wellness",
+    "price": 7.95,
+    "compare_at_price": 11.72,
+    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/044136e1-cc69-4965-a99e-d330af80a0de.jpg"
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 84,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Liver Daily Nutrition Capsule \u00d7 1",
+    "in_stock": true,
+    "stock_count": 47,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220831231618200",
+    "cjSku": "CJHP2900381"
+  },
+  {
+    "id": "bylvra-9311601700",
+    "name": "Garlic Extract Soft Capsule",
+    "slug": "garlic-extract-soft-capsule",
+    "category": "Wellness",
+    "price": 12.95,
+    "compare_at_price": 17.77,
+    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/cf5b721e-aad1-4c12-86be-f39db3f63999.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.6,
+    "review_count": 2630,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Garlic Extract Soft Capsule \u00d7 1",
+    "in_stock": true,
+    "stock_count": 53,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220829311601700",
+    "cjSku": "CJHP2900373"
+  },
+  {
+    "id": "bylvra-6091634600",
+    "name": "Calcium Skeleton Support Capsule",
+    "slug": "calcium-skeleton-support-capsule",
+    "category": "Wellness",
+    "price": 8.95,
+    "compare_at_price": 12.25,
+    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/08/eceef8dc-84bf-4701-9ad0-084b12aa1338.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.4,
+    "review_count": 616,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Calcium Skeleton Support Capsule \u00d7 1",
+    "in_stock": true,
+    "stock_count": 23,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220816091634600",
+    "cjSku": "CJHP2900347"
+  },
+  {
+    "id": "bylvra-5521624600",
+    "name": "Capsule",
+    "slug": "capsule",
+    "category": "Wellness",
+    "price": 11.95,
+    "compare_at_price": 16.96,
+    "description": "Evidence-backed ingredients formulated to support your body's health from the inside. Clean, effective, and designed to complement your topical skincare routine for inside-out results.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/9b7ab958-1f83-45d4-b8ce-8a80b94b702a.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.9,
+    "review_count": 2573,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Capsule \u00d7 1",
+    "in_stock": true,
+    "stock_count": 56,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210445521624600",
+    "cjSku": "CJHP2898690"
+  },
+  {
+    "id": "bylvra-7162485762",
+    "name": "Advanced Joint Support Supplement   MSM With Glucosamine",
+    "slug": "advanced-joint-support-supplement-msm-with-glucosamine",
+    "category": "Wellness",
+    "price": 57.95,
+    "compare_at_price": 76.01,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/5a407833-4b19-4eed-9c3e-61a0e4febcae.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.6,
+    "review_count": 461,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Advanced Joint Support Supplement   MSM With Glucosamine \u00d7 1",
+    "in_stock": true,
+    "stock_count": 19,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2056927377162485762",
+    "cjSku": "CJHP2896854"
+  },
+  {
+    "id": "bylvra-3567629313",
+    "name": "Gut Cleanse & Digestive Support Supplement Natural Detox Formula",
+    "slug": "gut-cleanse-digestive-support-supplement-natural-detox",
+    "category": "Wellness",
+    "price": 62.95,
+    "compare_at_price": 92.07,
+    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/6dcc68ca-11ef-40c1-bdc4-8c174b852719.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.7,
+    "review_count": 710,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Gut Cleanse & Digestive Support Supplement Natural Detox Formula \u00d7 1",
+    "in_stock": true,
+    "stock_count": 36,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2056923353567629313",
+    "cjSku": "CJHP2896840"
+  },
+  {
+    "id": "bylvra-1211621900",
+    "name": "Creatine Monohydrate Gummies 5000mg Per Serving, Vegan",
+    "slug": "creatine-monohydrate-gummies-5000mg-per-serving-vegan",
+    "category": "Wellness",
+    "price": 12.95,
+    "compare_at_price": 17.33,
+    "description": "A targeted wellness solution that supports skin, hair, and body health at the systemic level. No unnecessary additives \u2014 just the actives your body actually needs.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/02/734d6fe8-ee4b-4dbc-b35f-edc9856b3505.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.5,
+    "review_count": 2056,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Creatine Monohydrate Gummies 5000mg Per Serving, Vegan \u00d7 1",
+    "in_stock": true,
+    "stock_count": 35,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220221211621900",
+    "cjSku": "CJYD2899730"
+  },
+  {
+    "id": "bylvra-7361608500",
+    "name": "Creatine Monohydrate Gummies 5000mg Per Serving, Vegan",
+    "slug": "creatine-monohydrate-gummies-5000mg-per-serving-vegan-2",
+    "category": "Wellness",
+    "price": 89.95,
+    "compare_at_price": 125.05,
+    "description": "This supplement or wellness tool is built around science, not trends. Clinically studied actives at effective doses \u2014 designed for consistent daily use and long-term improvement.",
+    "short_description": "Premium wellness formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/02/c87bfb3f-6338-40dc-b9c1-6fd1d5b63342.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.8,
+    "review_count": 2161,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Evidence-backed active ingredients at clinically effective doses",
+      "Supports skin, hair, and nail health from within",
+      "Clean formula \u2014 no unnecessary fillers or artificial additives",
+      "Easy daily format designed for consistent long-term results",
+      "Complements your topical routine for inside-out improvement"
+    ],
+    "whats_in_box": "Creatine Monohydrate Gummies 5000mg Per Serving, Vegan \u00d7 1",
+    "in_stock": true,
+    "stock_count": 52,
+    "variants": [],
+    "tags": [
+      "wellness"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220217361608500",
+    "cjSku": "CJYD2899723"
   }
 ];
