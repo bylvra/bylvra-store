@@ -23,7 +23,7 @@ When triggered by a new NewsletterSubscriber record (automation: "Welcome Email 
 
 Use the Gmail API with a properly encoded MIME message:
 - To: subscriber email
-- From: BYLVRA <thepeterabrand@gmail.com>
+- From: BYLVRA <contactbylvra@gmail.com>
 - Subject: RFC 2047 encoded if needed
 - Content-Type: text/html; charset=utf-8
 - Body: base64url encoded HTML
