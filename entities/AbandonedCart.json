@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "properties": {
+    "email": {
+      "type": "string"
+    },
+    "first_name": {
+      "type": "string"
+    },
+    "cart_items": {
+      "type": "array"
+    },
+    "cart_total": {
+      "type": "number"
+    },
+    "recovered": {
+      "type": "boolean"
+    },
+    "email_sent": {
+      "type": "boolean"
+    },
+    "session_id": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "AbandonedCart"
+}
