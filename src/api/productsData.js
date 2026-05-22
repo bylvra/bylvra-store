@@ -1648,7 +1648,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-8581610000",
-    "name": "Kojic Acid Brightening Soap",
+    "name": "KojiGlow Brightening Cleansing Bar",
     "slug": "kojic-acid-brightening-soap",
     "category": "Skincare",
     "price": 6.95,
@@ -1682,7 +1682,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2251611500",
-    "name": "Hydrating Serum",
+    "name": "HydraCore Daily Hydrating Serum",
     "slug": "hydrating-serum",
     "category": "Skincare",
     "price": 6.95,
@@ -1716,7 +1716,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6061601000",
-    "name": "Camellia Hydrating Serum",
+    "name": "CamelliaDew Hydrating Face Serum",
     "slug": "camellia-hydrating-serum",
     "category": "Skincare",
     "price": 5.95,
@@ -1750,7 +1750,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2001627000",
-    "name": "Huanyan Brightening Lotion",
+    "name": "LumiTone Brightening Face Lotion",
     "slug": "huanyan-brightening-lotion",
     "category": "Skincare",
     "price": 5.95,
@@ -1784,7 +1784,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2491603100",
-    "name": "Wslinttia Multi Collagen Vitamin Complex Gummies",
+    "name": "CollagenPlex Multi-Vitamin Beauty Gummies",
     "slug": "wslinttia-multi-collagen-vitamin-complex-gummies",
     "category": "Skincare",
     "price": 7.95,
@@ -1818,7 +1818,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7645313025",
-    "name": "Castor Oil Eyelash Serum",
+    "name": "LashBoost Castor Oil Growth Serum",
     "slug": "castor-oil-eyelash-serum",
     "category": "Skincare",
     "price": 7.95,
@@ -1852,7 +1852,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6411600600",
-    "name": "Face Body Moisturizer Balm",
+    "name": "DualDose Face & Body Moisture Balm",
     "slug": "face-body-moisturizer-balm",
     "category": "Skincare",
     "price": 6.95,
@@ -1886,7 +1886,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4081635100",
-    "name": "Shea Butter Moisturizing Cream, Suitable For Face And Body, Long-lasting",
+    "name": "Shea Restore Deep Moisture Cream",
     "slug": "shea-butter-moisturizing-cream-suitable-for-face-and-bo",
     "category": "Skincare",
     "price": 7.95,
@@ -1920,7 +1920,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9261612100",
-    "name": "Turmeric Brightening Cleansing Soap Gently Cleanses Leaves Skin Soft And Hydrated",
+    "name": "TurmericGlow Brightening Cleanse Bar",
     "slug": "turmeric-brightening-cleansing-soap-gently-cleanses-lea",
     "category": "Skincare",
     "price": 6.95,
@@ -1954,7 +1954,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1351619700",
-    "name": "Jelly Gel Moisturizing Gua Sha Face And Neck Cream",
+    "name": "GelLift Moisturizing Gua Sha Neck Cream",
     "slug": "jelly-gel-moisturizing-gua-sha-face-and-neck-cream",
     "category": "Skincare",
     "price": 11.95,
@@ -2022,7 +2022,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-8141639400",
-    "name": "Moisturizing And Moisturizing Body Cream",
+    "name": "HydraVeil Intensive Moisture Cream",
     "slug": "moisturizing-and-moisturizing-body-cream",
     "category": "Skincare",
     "price": 6.95,
@@ -2056,7 +2056,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4061638800",
-    "name": "Rejuvenation Nourishing Moisturizing Cream",
+    "name": "ReviveRich Nourishing Skin Cream",
     "slug": "rejuvenation-nourishing-moisturizing-cream",
     "category": "Skincare",
     "price": 7.95,
@@ -2089,42 +2089,8 @@ export const PRODUCTS = [
     "cjSku": "CJPF2899964"
   },
   {
-    "id": "bylvra-4761015297",
-    "name": "Double Eyelid Shaping Cream",
-    "slug": "double-eyelid-shaping-cream",
-    "category": "Skincare",
-    "price": 6.95,
-    "compare_at_price": 10.17,
-    "description": "This targeted treatment delivers concentrated actives directly to the skin barrier. Built for results \u2014 not just feel. Dermatologist-tested and designed for long-term improvement in skin quality.",
-    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://cf.cjdropshipping.com/74130a33-1e5f-4d36-a0c0-b881809ee069.jpg"
-    ],
-    "badge": null,
-    "rating": 4.4,
-    "review_count": 2764,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Clinically tested actives at dermatologist-recommended concentrations",
-      "Fragrance-free and non-comedogenic \u2014 suitable for all skin types",
-      "Improves skin texture, tone, and radiance with consistent use",
-      "Visible results within 4\u20136 weeks of daily application",
-      "Lightweight, fast-absorbing formula with no greasy residue"
-    ],
-    "whats_in_box": "Double Eyelid Shaping Cream \u00d7 1",
-    "in_stock": true,
-    "stock_count": 36,
-    "variants": [],
-    "tags": [
-      "skincare"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2057732434761015297",
-    "cjSku": "CJMB2900289"
-  },
-  {
     "id": "bylvra-4311614100",
-    "name": "Moisturizing And Soothing Cream",
+    "name": "CalmDew Soothing Moisture Cream",
     "slug": "moisturizing-and-soothing-cream",
     "category": "Skincare",
     "price": 6.95,
@@ -2158,7 +2124,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5221606500",
-    "name": "Nicotinamide Moisturizing Firming Cream",
+    "name": "NiacinaFirm Moisturising Tightening Cream",
     "slug": "nicotinamide-moisturizing-firming-cream",
     "category": "Skincare",
     "price": 6.95,
@@ -2192,7 +2158,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3331617100",
-    "name": "Eye Firming And Lifting Cream",
+    "name": "EyeLift Firming & Tightening Eye Cream",
     "slug": "eye-firming-and-lifting-cream",
     "category": "Skincare",
     "price": 7.95,
@@ -2226,7 +2192,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6531628500",
-    "name": "Magnesium Moisturizing Sleep Cream",
+    "name": "MagnaRest Overnight Recovery Cream",
     "slug": "magnesium-moisturizing-sleep-cream",
     "category": "Skincare",
     "price": 5.95,
@@ -2260,7 +2226,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5381634800",
-    "name": "Collagen Fullerenes Neck Cream",
+    "name": "NeckRenew Collagen Fullerene Cream",
     "slug": "collagen-fullerenes-neck-cream",
     "category": "Skincare",
     "price": 6.95,
@@ -2294,7 +2260,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7131627100",
-    "name": "Beauty LED Hot Compress Eye Mask",
+    "name": "EyeRestore Heated Eye Therapy Mask",
     "slug": "beauty-led-hot-compress-eye-mask",
     "category": "Tools & Devices",
     "price": 97.95,
@@ -2362,7 +2328,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3239457793",
-    "name": "OceAura Collagen Lifting Body Oil",
+    "name": "BodyLift Collagen Firming Body Oil",
     "slug": "oceaura-collagen-lifting-body-oil",
     "category": "Tools & Devices",
     "price": 12.95,
@@ -2395,42 +2361,8 @@ export const PRODUCTS = [
     "cjSku": "CJST2898792"
   },
   {
-    "id": "bylvra-9241633201",
-    "name": "Portable Heimlich Negative-Pressure Suction Device",
-    "slug": "portable-heimlich-negativepressure-suction-device",
-    "category": "Tools & Devices",
-    "price": 31.95,
-    "compare_at_price": 41.87,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
-    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/20/10/2d345c21-d276-4222-8503-7d190ce1d307_trans.jpeg"
-    ],
-    "badge": null,
-    "rating": 4.9,
-    "review_count": 2252,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Professional-grade technology for home use \u2014 no clinic required",
-      "Clinically validated mechanism of action for measurable results",
-      "Safe for daily use \u2014 engineered for long-term skin improvement",
-      "Enhances serum and active absorption when used before application",
-      "Visible improvement in skin quality within 3\u20134 weeks of use"
-    ],
-    "whats_in_box": "Portable Heimlich Negative-Pressure Suction Device \u00d7 1",
-    "in_stock": true,
-    "stock_count": 5,
-    "variants": [],
-    "tags": [
-      "tools-devices"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605201039241633201",
-    "cjSku": "CJYD2898225"
-  },
-  {
     "id": "bylvra-1561618700",
-    "name": "EMS Abdominal Trainer Microcurrent Technology For Lazy Fat Loss Tummy Toning And Body Shaping",
+    "name": "CorePulse EMS Abdominal Toning Device",
     "slug": "ems-abdominal-trainer-microcurrent-technology-for-lazy",
     "category": "Tools & Devices",
     "price": 42.95,
@@ -2498,7 +2430,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1141636800",
-    "name": "Red Light Facial Beauty Mask Color Light Skin-Softening Beauty Device",
+    "name": "PhotoGlow Red Light Therapy Beauty Mask",
     "slug": "red-light-facial-beauty-mask-color-light-skinsoftening",
     "category": "Tools & Devices",
     "price": 62.95,
@@ -2566,7 +2498,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6231607200",
-    "name": "Makeup Tool Suction Cup Silicone Cleaner",
+    "name": "BrushPure Silicone Brush Cleaner Tool",
     "slug": "makeup-tool-suction-cup-silicone-cleaner",
     "category": "Tools & Devices",
     "price": 3.95,
@@ -2597,40 +2529,6 @@ export const PRODUCTS = [
     "frequently_bought_with": [],
     "cjProductId": "2605140346231607200",
     "cjSku": "CJMJ2890139"
-  },
-  {
-    "id": "bylvra-1411626900",
-    "name": "Ice Machine Cleaner",
-    "slug": "ice-machine-cleaner",
-    "category": "Tools & Devices",
-    "price": 5.95,
-    "compare_at_price": 7.88,
-    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
-    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/21/04/4464a2e9-2943-4f26-a767-d973297b643e.jpg"
-    ],
-    "badge": "NEW",
-    "rating": 4.6,
-    "review_count": 1022,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Professional-grade technology for home use \u2014 no clinic required",
-      "Clinically validated mechanism of action for measurable results",
-      "Safe for daily use \u2014 engineered for long-term skin improvement",
-      "Enhances serum and active absorption when used before application",
-      "Visible improvement in skin quality within 3\u20134 weeks of use"
-    ],
-    "whats_in_box": "Ice Machine Cleaner \u00d7 1",
-    "in_stock": true,
-    "stock_count": 42,
-    "variants": [],
-    "tags": [
-      "tools-devices"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605210421411626900",
-    "cjSku": "CJJT2898666"
   },
   {
     "id": "bylvra-1561605800",
@@ -2668,7 +2566,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9515143169",
-    "name": "Twisting Waist Disc Waist Twist Board Machine Abdomen Exercise Balancing Board",
+    "name": "TwistCore Waist Balance Training Disc",
     "slug": "twisting-waist-disc-waist-twist-board-machine-abdomen-e",
     "category": "Tools & Devices",
     "price": 96.95,
@@ -2702,7 +2600,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5271610000",
-    "name": "Large LED Red And Infrared Therapy Lamp",
+    "name": "DermaRed Full-Body Red Light Therapy Lamp",
     "slug": "large-led-red-and-infrared-therapy-lamp",
     "category": "Tools & Devices",
     "price": 433.95,
@@ -2735,42 +2633,8 @@ export const PRODUCTS = [
     "cjSku": "CJJT2899047"
   },
   {
-    "id": "bylvra-9141811202",
-    "name": "450W Baby Food Maker With Steamer Blender Auto Clean LED Touch Panel UK Shipment",
-    "slug": "450w-baby-food-maker-with-steamer-blender-auto-clean-le",
-    "category": "Tools & Devices",
-    "price": 159.95,
-    "compare_at_price": 207.75,
-    "description": "This at-home device bridges the gap between your skincare routine and clinical treatments. Safe for daily use, engineered for long-term results, and designed to enhance your existing products.",
-    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://cf.cjdropshipping.com/a4248b9b-e2c4-4aae-a0b6-8d33019a239a.jpg"
-    ],
-    "badge": null,
-    "rating": 4.4,
-    "review_count": 1763,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Professional-grade technology for home use \u2014 no clinic required",
-      "Clinically validated mechanism of action for measurable results",
-      "Safe for daily use \u2014 engineered for long-term skin improvement",
-      "Enhances serum and active absorption when used before application",
-      "Visible improvement in skin quality within 3\u20134 weeks of use"
-    ],
-    "whats_in_box": "450W Baby Food Maker With Steamer Blender Auto Clean LED Touch Panel UK Shipment \u00d7 1",
-    "in_stock": true,
-    "stock_count": 34,
-    "variants": [],
-    "tags": [
-      "tools-devices"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2056647069141811202",
-    "cjSku": "CJCF2896312"
-  },
-  {
     "id": "bylvra-8461625300",
-    "name": "Portable Home Small Electric Steamer White",
+    "name": "SteamGlow Portable Facial Steamer",
     "slug": "portable-home-small-electric-steamer-white",
     "category": "Tools & Devices",
     "price": 26.95,
@@ -2804,7 +2668,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2191611700",
-    "name": "Electronic Beauty Device For Home Use On The Face",
+    "name": "DermaTech Pro Home Beauty Device",
     "slug": "electronic-beauty-device-for-home-use-on-the-face",
     "category": "Tools & Devices",
     "price": 29.95,
@@ -2835,74 +2699,6 @@ export const PRODUCTS = [
     "frequently_bought_with": [],
     "cjProductId": "2605150332191611700",
     "cjSku": "CJMB2891854"
-  },
-  {
-    "id": "bylvra-7291612300",
-    "name": "Electric Bike Front Basket Rain Cove Electric Scootermotorcycle Basket Cover",
-    "slug": "electric-bike-front-basket-rain-cove-electric-scootermo",
-    "category": "Tools & Devices",
-    "price": 2.95,
-    "compare_at_price": 3.94,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
-    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://cf.cjdropshipping.com/quick/product/2768e9ca-69eb-4c56-9c3c-db65cbb45e77.jpg"
-    ],
-    "badge": "NEW",
-    "rating": 4.5,
-    "review_count": 2334,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Professional-grade technology for home use \u2014 no clinic required",
-      "Clinically validated mechanism of action for measurable results",
-      "Safe for daily use \u2014 engineered for long-term skin improvement",
-      "Enhances serum and active absorption when used before application",
-      "Visible improvement in skin quality within 3\u20134 weeks of use"
-    ],
-    "whats_in_box": "Electric Bike Front Basket Rain Cove Electric Scootermotorcycle Basket Cover \u00d7 1",
-    "in_stock": true,
-    "stock_count": 11,
-    "variants": [],
-    "tags": [
-      "tools-devices"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605220827291612300",
-    "cjSku": "CJYD2900371"
-  },
-  {
-    "id": "bylvra-0045586433",
-    "name": "Mama Engraved Wooden Rose, 2-Layer Laser Cut Forever Rose With Base, Mother's Day Decorative Gift",
-    "slug": "mama-engraved-wooden-rose-2layer-laser-cut-forever-rose",
-    "category": "Tools & Devices",
-    "price": 1.95,
-    "compare_at_price": 2.89,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
-    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://cf.cjdropshipping.com/90677acb-1f97-4c3c-a515-cad863461519.jpg"
-    ],
-    "badge": "NEW",
-    "rating": 4.8,
-    "review_count": 1048,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Professional-grade technology for home use \u2014 no clinic required",
-      "Clinically validated mechanism of action for measurable results",
-      "Safe for daily use \u2014 engineered for long-term skin improvement",
-      "Enhances serum and active absorption when used before application",
-      "Visible improvement in skin quality within 3\u20134 weeks of use"
-    ],
-    "whats_in_box": "Mama Engraved Wooden Rose, 2-Layer Laser Cut Forever Rose With Base, Mother's Day Decorative Gift \u00d7 1",
-    "in_stock": true,
-    "stock_count": 15,
-    "variants": [],
-    "tags": [
-      "tools-devices"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2057714940045586433",
-    "cjSku": "CJHD2899953"
   },
   {
     "id": "bylvra-3001609600",
@@ -2940,7 +2736,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4201619500",
-    "name": "Infrared Therapy Device Cross-border Dual-core Red Light Therapeutic Lamp",
+    "name": "ThermaRed Dual-Core Infrared Therapy Device",
     "slug": "infrared-therapy-device-crossborder-dualcore-red-light",
     "category": "Tools & Devices",
     "price": 126.95,
@@ -3041,108 +2837,6 @@ export const PRODUCTS = [
     "cjSku": "CJYD2892231"
   },
   {
-    "id": "bylvra-8693122049",
-    "name": "Rolling Metal Tool Chest With 7 Drawers, 20   7-Drawer Tool Chest Cabinet With Ball Bearing Drawer Slides, Steel Tool Storage Box Organizer -Red&Black",
-    "slug": "rolling-metal-tool-chest-with-7-drawers-20-7drawer-tool",
-    "category": "Tools & Devices",
-    "price": 748.95,
-    "compare_at_price": 1038.21,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
-    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://cf.cjdropshipping.com/17792352/7617516f-906b-45dc-a6e1-f75d5651aa6b.jpg"
-    ],
-    "badge": null,
-    "rating": 4.3,
-    "review_count": 841,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Professional-grade technology for home use \u2014 no clinic required",
-      "Clinically validated mechanism of action for measurable results",
-      "Safe for daily use \u2014 engineered for long-term skin improvement",
-      "Enhances serum and active absorption when used before application",
-      "Visible improvement in skin quality within 3\u20134 weeks of use"
-    ],
-    "whats_in_box": "Rolling Metal Tool Chest With 7 Drawers, 20   7-Drawer Tool Chest Cabinet With Ball Bearing Drawer Slides, Steel Tool Storage Box Organizer -Red&Black \u00d7 1",
-    "in_stock": true,
-    "stock_count": 9,
-    "variants": [],
-    "tags": [
-      "tools-devices"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2056975758693122049",
-    "cjSku": "CJFU2897136"
-  },
-  {
-    "id": "bylvra-7231613700",
-    "name": "Semiconductor Cooling High-Performance USB Mini Fan",
-    "slug": "semiconductor-cooling-highperformance-usb-mini-fan",
-    "category": "Tools & Devices",
-    "price": 21.95,
-    "compare_at_price": 31.06,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
-    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/21/03/ded6c8de-2d5b-487c-9302-d273d5749e9a_trans.jpeg"
-    ],
-    "badge": null,
-    "rating": 4.3,
-    "review_count": 2413,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Professional-grade technology for home use \u2014 no clinic required",
-      "Clinically validated mechanism of action for measurable results",
-      "Safe for daily use \u2014 engineered for long-term skin improvement",
-      "Enhances serum and active absorption when used before application",
-      "Visible improvement in skin quality within 3\u20134 weeks of use"
-    ],
-    "whats_in_box": "Semiconductor Cooling High-Performance USB Mini Fan \u00d7 1",
-    "in_stock": true,
-    "stock_count": 20,
-    "variants": [],
-    "tags": [
-      "tools-devices"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605210337231613700",
-    "cjSku": "CJYD2898617"
-  },
-  {
-    "id": "bylvra-6371611700",
-    "name": "Household Cleaning And Disinfection Machine",
-    "slug": "household-cleaning-and-disinfection-machine",
-    "category": "Tools & Devices",
-    "price": 46.95,
-    "compare_at_price": 60.47,
-    "description": "Professional-grade technology scaled for home use. This device uses a clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
-    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/19/08/e3f3a55e-9815-4e02-b1e9-3639c29310f5_water_trans.jpeg"
-    ],
-    "badge": null,
-    "rating": 4.7,
-    "review_count": 2395,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Professional-grade technology for home use \u2014 no clinic required",
-      "Clinically validated mechanism of action for measurable results",
-      "Safe for daily use \u2014 engineered for long-term skin improvement",
-      "Enhances serum and active absorption when used before application",
-      "Visible improvement in skin quality within 3\u20134 weeks of use"
-    ],
-    "whats_in_box": "Household Cleaning And Disinfection Machine \u00d7 1",
-    "in_stock": true,
-    "stock_count": 38,
-    "variants": [],
-    "tags": [
-      "tools-devices"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605190826371611700",
-    "cjSku": "CJYD2896359"
-  },
-  {
     "id": "bylvra-7051623000",
     "name": "UV-sensing Sterilization Automatic Disinfection Device",
     "slug": "uvsensing-sterilization-automatic-disinfection-device",
@@ -3175,40 +2869,6 @@ export const PRODUCTS = [
     "frequently_bought_with": [],
     "cjProductId": "2605200247051623000",
     "cjSku": "CJJT2896891"
-  },
-  {
-    "id": "bylvra-5161603900",
-    "name": "Cheng Auto Repair And Machine Maintenance Wear-resistant Workwear Dustproof Labor Protection Suit Set",
-    "slug": "cheng-auto-repair-and-machine-maintenance-wearresistant",
-    "category": "Tools & Devices",
-    "price": 25.95,
-    "compare_at_price": 36.57,
-    "description": "Built around the same technology used in medical aesthetics, this device delivers targeted energy to the skin's deeper layers. Visible results within 3\u20134 weeks of consistent use.",
-    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/18/08/5d9e2ae4-08da-4434-a469-78eb977ce2c0_fine.jpeg"
-    ],
-    "badge": "HOT",
-    "rating": 4.9,
-    "review_count": 377,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Professional-grade technology for home use \u2014 no clinic required",
-      "Clinically validated mechanism of action for measurable results",
-      "Safe for daily use \u2014 engineered for long-term skin improvement",
-      "Enhances serum and active absorption when used before application",
-      "Visible improvement in skin quality within 3\u20134 weeks of use"
-    ],
-    "whats_in_box": "Cheng Auto Repair And Machine Maintenance Wear-resistant Workwear Dustproof Labor Protection Suit Set \u00d7 1",
-    "in_stock": true,
-    "stock_count": 5,
-    "variants": [],
-    "tags": [
-      "tools-devices"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605180825161603900",
-    "cjSku": "CJYD2894770"
   },
   {
     "id": "bylvra-5381613600",
@@ -3279,42 +2939,8 @@ export const PRODUCTS = [
     "cjSku": "CJJT2899565"
   },
   {
-    "id": "bylvra-1101611500",
-    "name": "Stainless Steel Manual Nose Hair Trimmer",
-    "slug": "stainless-steel-manual-nose-hair-trimmer",
-    "category": "Hair",
-    "price": 2.95,
-    "compare_at_price": 4.19,
-    "description": "A concentrated scalp and hair formula that works where most products don't reach. Supports hair density, reduces breakage, and improves the overall health of your scalp environment.",
-    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/20/07/59e25780-cd08-44fd-8990-03109996615c_fine.jpeg"
-    ],
-    "badge": null,
-    "rating": 4.6,
-    "review_count": 2815,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Targets hair follicles to support density and growth",
-      "Strengthens strand integrity from root to tip",
-      "Reduces breakage and shedding with regular use",
-      "Scalp-safe formula suitable for all hair types",
-      "Visible improvement in hair fullness within 6\u20138 weeks"
-    ],
-    "whats_in_box": "Stainless Steel Manual Nose Hair Trimmer \u00d7 1",
-    "in_stock": true,
-    "stock_count": 57,
-    "variants": [],
-    "tags": [
-      "hair"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605200731101611500",
-    "cjSku": "CJYD2897575"
-  },
-  {
     "id": "bylvra-6331601500",
-    "name": "R Rosemary Revitalizing Shampoo Cleanses The Scalp And Provides Moisture",
+    "name": "RosemaryRevive Scalp Cleansing Shampoo",
     "slug": "r-rosemary-revitalizing-shampoo-cleanses-the-scalp-and",
     "category": "Hair",
     "price": 4.95,
@@ -3348,7 +2974,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9321630300",
-    "name": "Mens Hair Styling Comb Multifunctional Hair Styling Comb",
+    "name": "FlexComb Multifunctional Hair Styling Comb",
     "slug": "mens-hair-styling-comb-multifunctional-hair-styling-com",
     "category": "Hair",
     "price": 8.95,
@@ -3518,7 +3144,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-0441625700",
-    "name": "Hydrating Hair Care Oil",
+    "name": "HydraShine Hair Care Oil",
     "slug": "hydrating-hair-care-oil",
     "category": "Hair",
     "price": 6.95,
@@ -3552,7 +3178,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6301606000",
-    "name": "High Gloss And Supple Hair Care Liquid",
+    "name": "GlossLab Supple Hair Care Liquid",
     "slug": "high-gloss-and-supple-hair-care-liquid",
     "category": "Hair",
     "price": 6.95,
@@ -3585,76 +3211,8 @@ export const PRODUCTS = [
     "cjSku": "CJJT2900032"
   },
   {
-    "id": "bylvra-0191629300",
-    "name": "Haircut Scissors Stainless Steel Hair Stylist",
-    "slug": "haircut-scissors-stainless-steel-hair-stylist",
-    "category": "Hair",
-    "price": 23.95,
-    "compare_at_price": 35.09,
-    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
-    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/22/03/0f98957a-70ec-4900-8301-87a4b73bfbb4.jpg"
-    ],
-    "badge": "BESTSELLER",
-    "rating": 4.9,
-    "review_count": 805,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Targets hair follicles to support density and growth",
-      "Strengthens strand integrity from root to tip",
-      "Reduces breakage and shedding with regular use",
-      "Scalp-safe formula suitable for all hair types",
-      "Visible improvement in hair fullness within 6\u20138 weeks"
-    ],
-    "whats_in_box": "Haircut Scissors Stainless Steel Hair Stylist \u00d7 1",
-    "in_stock": true,
-    "stock_count": 31,
-    "variants": [],
-    "tags": [
-      "hair"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605220340191629300",
-    "cjSku": "CJJT2899878"
-  },
-  {
-    "id": "bylvra-6430090241",
-    "name": "Professional Hair Dryer Nozzle Low Noise 2200w Ionic Blow Dryerwith Diffuser Blu",
-    "slug": "professional-hair-dryer-nozzle-low-noise-2200w-ionic-bl",
-    "category": "Hair",
-    "price": 39.95,
-    "compare_at_price": 57.02,
-    "description": "Clinical actives meet scalp science in this targeted hair treatment. Designed to reduce shedding, strengthen strand integrity, and support healthy follicle function from the inside out.",
-    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://cf.cjdropshipping.com/23850173-52bf-4d78-82cf-7f357233a3fe.jpg"
-    ],
-    "badge": null,
-    "rating": 4.8,
-    "review_count": 3090,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Targets hair follicles to support density and growth",
-      "Strengthens strand integrity from root to tip",
-      "Reduces breakage and shedding with regular use",
-      "Scalp-safe formula suitable for all hair types",
-      "Visible improvement in hair fullness within 6\u20138 weeks"
-    ],
-    "whats_in_box": "Professional Hair Dryer Nozzle Low Noise 2200w Ionic Blow Dryerwith Diffuser Blu \u00d7 1",
-    "in_stock": true,
-    "stock_count": 56,
-    "variants": [],
-    "tags": [
-      "hair"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2057713796430090241",
-    "cjSku": "CJTF2900142"
-  },
-  {
     "id": "bylvra-4311624900",
-    "name": "Hair Removal Care Ball Oil",
+    "name": "SmoothAway Hair Removal Care Oil",
     "slug": "hair-removal-care-ball-oil",
     "category": "Hair",
     "price": 5.95,
@@ -3688,7 +3246,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2471628200",
-    "name": "Hair Removal Care Ball Oil",
+    "name": "SmoothAway Hair Removal Care Oil",
     "slug": "hair-removal-care-ball-oil-2",
     "category": "Hair",
     "price": 6.95,
@@ -3722,7 +3280,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9717798913",
-    "name": "Herbal Nourishing Shampoo Bar",
+    "name": "BotaniBar Herbal Nourishing Shampoo",
     "slug": "herbal-nourishing-shampoo-bar",
     "category": "Hair",
     "price": 11.95,
@@ -3756,7 +3314,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6131612700",
-    "name": "Moisturizes Hydrates And Adds Shine To Hair While Refreshing The Scalpideal For Daily Care",
+    "name": "ScalpFresh Hydrating Hair Mist",
     "slug": "moisturizes-hydrates-and-adds-shine-to-hair-while-refre",
     "category": "Hair",
     "price": 6.95,
@@ -3790,7 +3348,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3041635900",
-    "name": "Moisturizing Shampoo That Cleanses The Scalp And Hair While Reducing Dandruff",
+    "name": "ClearScalp Moisturising Anti-Dandruff Shampoo",
     "slug": "moisturizing-shampoo-that-cleanses-the-scalp-and-hair-w",
     "category": "Hair",
     "price": 5.95,
@@ -3824,7 +3382,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4086596610",
-    "name": "Microcurrent Head Massager, Electric Kneading Vibration Waterproof Rechargeable Scalp & Head Massager",
+    "name": "NeuralScalp Microcurrent Head Massager",
     "slug": "microcurrent-head-massager-electric-kneading-vibration",
     "category": "Hair",
     "price": 139.95,
@@ -3858,7 +3416,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3271201793",
-    "name": "Multifunctional Head Massager For Stress Relief, Acupoint And Scalp Meridian Massage",
+    "name": "ZenScalp Acupoint Head Massager",
     "slug": "multifunctional-head-massager-for-stress-relief-acupoin",
     "category": "Hair",
     "price": 33.95,
@@ -3926,7 +3484,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7668132866",
-    "name": "Hair Removal Soothing Essential Oil",
+    "name": "SilkSoothe Hair Removal Calming Oil",
     "slug": "hair-removal-soothing-essential-oil",
     "category": "Hair",
     "price": 12.95,
@@ -3960,7 +3518,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1637188610",
-    "name": "DIY Lash Extension Kit 280pcs Individual Lash Clusters D Curl 30D 40D Thick Volume Eyelash Clusters 0.07D 9-16MM Mixed Length Reusable Soft Natural Look DIY At Home Lash Extensions Makeup Tool Kit",
+    "name": "LashCluster 280-Piece DIY Extension Kit",
     "slug": "diy-lash-extension-kit-280pcs-individual-lash-clusters",
     "category": "Hair",
     "price": 17.95,
@@ -3994,7 +3552,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4397853698",
-    "name": "Lash Clusters, 640 Pcs Eyelashes Cluster Extensions 9-16mm Fluffy Individual Lashes 30D-60D D Curl False Eyelashes",
+    "name": "LashDense 640-Piece Cluster Extension Set",
     "slug": "lash-clusters-640-pcs-eyelashes-cluster-extensions-916m",
     "category": "Hair",
     "price": 25.95,
@@ -4028,7 +3586,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4183596034",
-    "name": "DIY Lash Extension Kit 168pcs Individual Lashes Clusters D Curl Lash Clusters,0.07D-9-16MM Kit",
+    "name": "LashLux 168-Piece Individual Lash Kit",
     "slug": "diy-lash-extension-kit-168pcs-individual-lashes-cluster",
     "category": "Hair",
     "price": 18.95,
@@ -4062,7 +3620,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6470452226",
-    "name": "Rosemary & Rice Water Hair Growth Spray, Natural Anti Hair Loss Treatment, 200ml",
+    "name": "RosemaryRice Anti-Hair Loss Growth Spray",
     "slug": "rosemary-rice-water-hair-growth-spray-natural-anti-hair",
     "category": "Hair",
     "price": 10.95,
@@ -4096,7 +3654,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7428419585",
-    "name": "Batana Oil Hair Conditioner, Natural Batana Oil For Hair Growth For Healthier Thicker Hair, Stimulates Hair Follicles",
+    "name": "BatanaBoost Natural Hair Growth Conditioner",
     "slug": "batana-oil-hair-conditioner-natural-batana-oil-for-hair",
     "category": "Hair",
     "price": 40.95,
@@ -4161,40 +3719,6 @@ export const PRODUCTS = [
     "frequently_bought_with": [],
     "cjProductId": "2605210254581639100",
     "cjSku": "CJYD2898529"
-  },
-  {
-    "id": "bylvra-8224826369",
-    "name": "44 Pcs Interlocking Deck Tiles, 12   X 12   HDPE Outdoor Flooring, Patio Flooring Outdoor Waterproof, Deck Tiles Outdoor Waterproof For Deck Garden Poolside, All Weather Use -Dark Brow",
-    "slug": "44-pcs-interlocking-deck-tiles-12-x-12-hdpe-outdoor-flo",
-    "category": "Hair",
-    "price": 574.95,
-    "compare_at_price": 738.74,
-    "description": "Formulated to address the root cause of hair concerns at the follicle level. Active ingredients penetrate the scalp to support circulation, strengthen strands, and visibly improve hair density with regular use.",
-    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://cf.cjdropshipping.com/17792352/6d76c054-1ca4-4290-ba1f-e5f901e5d609.jpg"
-    ],
-    "badge": null,
-    "rating": 4.6,
-    "review_count": 378,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Targets hair follicles to support density and growth",
-      "Strengthens strand integrity from root to tip",
-      "Reduces breakage and shedding with regular use",
-      "Scalp-safe formula suitable for all hair types",
-      "Visible improvement in hair fullness within 6\u20138 weeks"
-    ],
-    "whats_in_box": "44 Pcs Interlocking Deck Tiles, 12   X 12   HDPE Outdoor Flooring, Patio Flooring Outdoor Waterproof, Deck Tiles Outdoor Waterproof For Deck Garden Poolside, All Weather Use -Dark Brow \u00d7 1",
-    "in_stock": true,
-    "stock_count": 34,
-    "variants": [],
-    "tags": [
-      "hair"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2057021838224826369",
-    "cjSku": "CJFU2897898"
   },
   {
     "id": "bylvra-9551637300",
@@ -4300,7 +3824,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2161626300",
-    "name": "Body Deodorizing Spray",
+    "name": "FreshAura Body Deodorising Spray",
     "slug": "body-deodorizing-spray",
     "category": "Body",
     "price": 6.95,
@@ -4334,7 +3858,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-0141626400",
-    "name": "Body Deodorant",
+    "name": "CleanShield Daily Body Deodorant",
     "slug": "body-deodorant",
     "category": "Body",
     "price": 8.95,
@@ -4368,7 +3892,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5081627700",
-    "name": "Fruit Acid Exfoliating Body Stick",
+    "name": "AHA BodyGlow Fruit Acid Exfoliating Stick",
     "slug": "fruit-acid-exfoliating-body-stick",
     "category": "Body",
     "price": 7.95,
@@ -4402,7 +3926,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6171617800",
-    "name": "Body Nourishing Patch",
+    "name": "DermaPatch Nourishing Body Treatment",
     "slug": "body-nourishing-patch",
     "category": "Body",
     "price": 6.95,
@@ -4436,7 +3960,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9281603300",
-    "name": "Body Rejuvenation Scrub",
+    "name": "ReviveScrub Deep Body Rejuvenation Exfoliant",
     "slug": "body-rejuvenation-scrub",
     "category": "Body",
     "price": 5.95,
@@ -4467,40 +3991,6 @@ export const PRODUCTS = [
     "frequently_bought_with": [],
     "cjProductId": "2605210419281603300",
     "cjSku": "CJPF2898665"
-  },
-  {
-    "id": "bylvra-4381621200",
-    "name": "Sultry Metallic Silver Cutout Sexy Stretch Bodysuit Vest",
-    "slug": "sultry-metallic-silver-cutout-sexy-stretch-bodysuit-ves",
-    "category": "Body",
-    "price": 105.95,
-    "compare_at_price": 140.52,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
-    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/20/09/b2e641fb-852a-4bff-971b-972689a2f045.jpg"
-    ],
-    "badge": "BESTSELLER",
-    "rating": 4.7,
-    "review_count": 343,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
-    ],
-    "whats_in_box": "Sultry Metallic Silver Cutout Sexy Stretch Bodysuit Vest \u00d7 1",
-    "in_stock": true,
-    "stock_count": 31,
-    "variants": [],
-    "tags": [
-      "body"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605200944381621200",
-    "cjSku": "CJCS2898125"
   },
   {
     "id": "bylvra-2229683201",
@@ -4538,7 +4028,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-8471611600",
-    "name": "Clear Moisturizing Sunscreen Lotion",
+    "name": "ClearShield Moisturising SPF Sunscreen",
     "slug": "clear-moisturizing-sunscreen-lotion",
     "category": "Body",
     "price": 7.95,
@@ -4572,7 +4062,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-0431613400",
-    "name": "Tanning Moisturizing Lotion",
+    "name": "SunKissed Daily Tanning Moisturiser",
     "slug": "tanning-moisturizing-lotion",
     "category": "Body",
     "price": 6.95,
@@ -4606,7 +4096,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4311635500",
-    "name": "Soothing And Moisturizing Eye Mask",
+    "name": "CoolCalm Soothing Eye Recovery Mask",
     "slug": "soothing-and-moisturizing-eye-mask",
     "category": "Body",
     "price": 9.95,
@@ -4673,74 +4163,6 @@ export const PRODUCTS = [
     "cjSku": "CJPF2900028"
   },
   {
-    "id": "bylvra-3031606600",
-    "name": "Oil of Oregano 6,000mg with Black Seed Oil 120 softgels",
-    "slug": "oil-of-oregano-6000mg-with-black-seed-oil-120-softgels",
-    "category": "Body",
-    "price": 7.95,
-    "compare_at_price": 11.64,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
-    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/22/01/e994b4ed-0ae9-4a6a-af93-d6d50d484a21.jpg"
-    ],
-    "badge": null,
-    "rating": 4.2,
-    "review_count": 1693,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
-    ],
-    "whats_in_box": "Oil of Oregano 6,000mg with Black Seed Oil 120 softgels \u00d7 1",
-    "in_stock": true,
-    "stock_count": 42,
-    "variants": [],
-    "tags": [
-      "body"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605220143031606600",
-    "cjSku": "CJYD2899672"
-  },
-  {
-    "id": "bylvra-8865147906",
-    "name": "Moisturizing Sunscreen Foundation",
-    "slug": "moisturizing-sunscreen-foundation",
-    "category": "Body",
-    "price": 13.95,
-    "compare_at_price": 17.93,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
-    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://cf.cjdropshipping.com/9f7c8ef1-4cba-4e20-aa37-b75e94d8e418.jpg"
-    ],
-    "badge": null,
-    "rating": 4.3,
-    "review_count": 1971,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
-    ],
-    "whats_in_box": "Moisturizing Sunscreen Foundation \u00d7 1",
-    "in_stock": true,
-    "stock_count": 16,
-    "variants": [],
-    "tags": [
-      "body"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2057726418865147906",
-    "cjSku": "CJMB2900259"
-  },
-  {
     "id": "bylvra-0301622300",
     "name": "Womens Fashion Plus-Size High-Waisted Slimming Skirt",
     "slug": "womens-fashion-plussize-highwaisted-slimming-skirt",
@@ -4775,42 +4197,8 @@ export const PRODUCTS = [
     "cjSku": "CJQZ2899575"
   },
   {
-    "id": "bylvra-4101609400",
-    "name": "Removable And Washable Long Body Pillow For Side Sleepers",
-    "slug": "removable-and-washable-long-body-pillow-for-side-sleepe",
-    "category": "Body",
-    "price": 95.95,
-    "compare_at_price": 141.07,
-    "description": "This targeted body formula delivers clinical-grade actives to areas that need them most. Firming, brightening, and smoothing \u2014 without the greasy finish of traditional body creams.",
-    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/22/06/c30d3173-bef0-4d1b-8d03-1e535a124b91_trans.jpeg"
-    ],
-    "badge": "HOT",
-    "rating": 4.8,
-    "review_count": 2006,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
-    ],
-    "whats_in_box": "Removable And Washable Long Body Pillow For Side Sleepers \u00d7 1",
-    "in_stock": true,
-    "stock_count": 6,
-    "variants": [],
-    "tags": [
-      "body"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605220634101609400",
-    "cjSku": "CJZT2900122"
-  },
-  {
     "id": "bylvra-3551609300",
-    "name": "Body Care Liquid",
+    "name": "SilkBody Daily Nourishing Body Fluid",
     "slug": "body-care-liquid",
     "category": "Body",
     "price": 7.95,
@@ -4912,7 +4300,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-0181615800",
-    "name": "Skin Care Roller Serum",
+    "name": "RollerGlow Serum-Infused Body Roller",
     "slug": "skin-care-roller-serum",
     "category": "Body",
     "price": 6.95,
@@ -4980,7 +4368,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6281604500",
-    "name": "Castor Oil Ball Care Oil",
+    "name": "CastorGlow Hair & Body Care Oil",
     "slug": "castor-oil-ball-care-oil",
     "category": "Body",
     "price": 7.95,
@@ -5011,40 +4399,6 @@ export const PRODUCTS = [
     "frequently_bought_with": [],
     "cjProductId": "2605220556281604500",
     "cjSku": "CJPF2900075"
-  },
-  {
-    "id": "bylvra-1181621200",
-    "name": "Elderberry Oil",
-    "slug": "elderberry-oil",
-    "category": "Body",
-    "price": 7.95,
-    "compare_at_price": 10.66,
-    "description": "A high-performance body treatment that treats skin beyond the face. Proven actives at effective concentrations for visible improvement in tone, texture, and hydration within 4 weeks.",
-    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
-    "images": [
-      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/e401bfc8-ca41-41eb-bd21-bee9c5d6288b.jpg"
-    ],
-    "badge": null,
-    "rating": 4.8,
-    "review_count": 2398,
-    "ingredients": "Full ingredient list available on product packaging.",
-    "benefits": [
-      "Firms and hydrates skin on contact for immediate improvement",
-      "Reduces the appearance of cellulite and uneven texture over time",
-      "Fast-absorbing, non-greasy formula suitable for daily use",
-      "Clinically tested \u2014 safe for all skin types",
-      "Visible improvement in skin tone and firmness within 4 weeks"
-    ],
-    "whats_in_box": "Elderberry Oil \u00d7 1",
-    "in_stock": true,
-    "stock_count": 55,
-    "variants": [],
-    "tags": [
-      "body"
-    ],
-    "frequently_bought_with": [],
-    "cjProductId": "2605220531181621200",
-    "cjSku": "CJPF2900005"
   },
   {
     "id": "bylvra-9311602900",
@@ -5082,7 +4436,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6381629000",
-    "name": "Nail Care Oil",
+    "name": "NailNourish Cuticle & Nail Care Oil",
     "slug": "nail-care-oil",
     "category": "Body",
     "price": 5.95,
@@ -5116,7 +4470,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5431629500",
-    "name": "African Black Soap 150g, Shea Butter Essential Oil, Handmade",
+    "name": "PureClay African Black Soap Bar",
     "slug": "african-black-soap-150g-shea-butter-essential-oil-handm",
     "category": "Body",
     "price": 3.95,
@@ -5150,7 +4504,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7011625900",
-    "name": "Brightening Sunscreen Lotion",
+    "name": "RadiantShield Brightening SPF Body Lotion",
     "slug": "brightening-sunscreen-lotion",
     "category": "Body",
     "price": 5.95,
@@ -5184,7 +4538,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3261604000",
-    "name": "Skin Lotion",
+    "name": "DailyDew Lightweight Skin Lotion",
     "slug": "skin-lotion",
     "category": "Body",
     "price": 5.95,
@@ -5320,7 +4674,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2200454145",
-    "name": "Collagen Tearing Mask Cleansing Facial Moisturizing",
+    "name": "PeelReveal Collagen Cleansing Tear Mask",
     "slug": "collagen-tearing-mask-cleansing-facial-moisturizing",
     "category": "Wellness",
     "price": 10.95,
@@ -5422,7 +4776,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5451623800",
-    "name": "Collagen Moisturizing Face Cream For Hydration And Nourishment",
+    "name": "CollagenPlump Hydrating Face Cream",
     "slug": "collagen-moisturizing-face-cream-for-hydration-and-nour",
     "category": "Wellness",
     "price": 4.95,
@@ -5456,7 +4810,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3071607800",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement",
     "category": "Wellness",
     "price": 7.95,
@@ -5490,7 +4844,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-0291622000",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement-2",
     "category": "Wellness",
     "price": 8.95,
@@ -5524,7 +4878,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6111624800",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement-3",
     "category": "Wellness",
     "price": 9.95,
@@ -5558,7 +4912,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3321630200",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement-4",
     "category": "Wellness",
     "price": 7.95,
@@ -5592,7 +4946,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1431617100",
-    "name": "Nutrition Supplement Capsule",
+    "name": "NutriGlow Daily Beauty Supplement",
     "slug": "nutrition-supplement-capsule",
     "category": "Wellness",
     "price": 12.95,
@@ -5626,7 +4980,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-8431633900",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement-5",
     "category": "Wellness",
     "price": 9.95,
@@ -5660,7 +5014,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-8521636700",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement-6",
     "category": "Wellness",
     "price": 21.95,
@@ -5694,7 +5048,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1121635600",
-    "name": "Multi Collagen Complex For Women Types",
+    "name": "CollagenRich Women's Multi-Type Complex",
     "slug": "multi-collagen-complex-for-women-types",
     "category": "Wellness",
     "price": 13.95,
@@ -5728,7 +5082,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-8541639800",
-    "name": "Pure Moringa Dietary Supplement",
+    "name": "MoringaPure Daily Greens Supplement",
     "slug": "pure-moringa-dietary-supplement",
     "category": "Wellness",
     "price": 7.95,
@@ -5762,7 +5116,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-0541623100",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement-7",
     "category": "Wellness",
     "price": 10.95,
@@ -5796,7 +5150,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4421611500",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement-8",
     "category": "Wellness",
     "price": 7.95,
@@ -5830,7 +5184,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1021634400",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement-9",
     "category": "Wellness",
     "price": 8.95,
@@ -5864,7 +5218,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-0291634600",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement-10",
     "category": "Wellness",
     "price": 9.95,
@@ -5898,7 +5252,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9341619400",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement-11",
     "category": "Wellness",
     "price": 11.95,
@@ -5932,7 +5286,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7161619800",
-    "name": "Dietary Supplement",
+    "name": "DailyRevive Beauty Supplement Capsules",
     "slug": "dietary-supplement-12",
     "category": "Wellness",
     "price": 5.95,
@@ -5966,7 +5320,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9071626100",
-    "name": "Cranberry Womens Probiotic Gummies",
+    "name": "FloraBalance Women's Probiotic Gummies",
     "slug": "cranberry-womens-probiotic-gummies",
     "category": "Wellness",
     "price": 6.95,
@@ -6034,7 +5388,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7231628400",
-    "name": "Muscle Tape Abdominal Training Tape Abdominal Trainer Arm And Leg Massager",
+    "name": "CoreTape EMS Arm & Leg Training Belt",
     "slug": "muscle-tape-abdominal-training-tape-abdominal-trainer-a",
     "category": "Wellness",
     "price": 26.95,
@@ -6068,7 +5422,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-0181618600",
-    "name": "Waist And Abdominal Warm Compress Microcurrent Exercise Pulse Waist Massager",
+    "name": "WaistPulse Microcurrent Warm Compress Massager",
     "slug": "waist-and-abdominal-warm-compress-microcurrent-exercise",
     "category": "Wellness",
     "price": 51.95,
@@ -6102,7 +5456,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9401617200",
-    "name": "Neck Beauty Device Nasolabial Fold And Neck Wrinkle Remover Facial Massager And Infusion Tool Drop Shipping Available",
+    "name": "NeckLift Anti-Wrinkle Beauty Massager",
     "slug": "neck-beauty-device-nasolabial-fold-and-neck-wrinkle-rem",
     "category": "Wellness",
     "price": 27.95,
@@ -6136,7 +5490,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5988627457",
-    "name": "AMZ Collagen Softening Eye Cream",
+    "name": "CollagenEye Softening Eye Treatment",
     "slug": "amz-collagen-softening-eye-cream",
     "category": "Wellness",
     "price": 8.95,
@@ -6170,7 +5524,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2531622700",
-    "name": "Collagen Moisturizing Cream 10g",
+    "name": "CollagenDew Intensive Moisturising Cream",
     "slug": "collagen-moisturizing-cream-10g",
     "category": "Wellness",
     "price": 4.95,
@@ -6204,7 +5558,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5271601400",
-    "name": "Ordinary Dietary Nutritional Supplement Gummies",
+    "name": "EssentialGlow Daily Nutrition Gummies",
     "slug": "ordinary-dietary-nutritional-supplement-gummies",
     "category": "Wellness",
     "price": 4.95,
@@ -6238,7 +5592,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1231618200",
-    "name": "Liver Daily Nutrition Capsule",
+    "name": "LiverClear Daily Detox Capsules",
     "slug": "liver-daily-nutrition-capsule",
     "category": "Wellness",
     "price": 7.95,
@@ -6272,7 +5626,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-9311601700",
-    "name": "Garlic Extract Soft Capsule",
+    "name": "GarlicCore Antioxidant Soft Capsules",
     "slug": "garlic-extract-soft-capsule",
     "category": "Wellness",
     "price": 12.95,
@@ -6306,7 +5660,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6091634600",
-    "name": "Calcium Skeleton Support Capsule",
+    "name": "CalciBone Skeleton Support Capsules",
     "slug": "calcium-skeleton-support-capsule",
     "category": "Wellness",
     "price": 8.95,
@@ -6340,7 +5694,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5521624600",
-    "name": "Capsule",
+    "name": "DailyBalance Wellness Capsules",
     "slug": "capsule",
     "category": "Wellness",
     "price": 11.95,
@@ -6374,7 +5728,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7162485762",
-    "name": "Advanced Joint Support Supplement   MSM With Glucosamine",
+    "name": "FlexJoint MSM & Glucosamine Complex",
     "slug": "advanced-joint-support-supplement-msm-with-glucosamine",
     "category": "Wellness",
     "price": 57.95,
@@ -6408,7 +5762,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-3567629313",
-    "name": "Gut Cleanse & Digestive Support Supplement Natural Detox Formula",
+    "name": "GutReset Natural Digestive Detox Blend",
     "slug": "gut-cleanse-digestive-support-supplement-natural-detox",
     "category": "Wellness",
     "price": 62.95,
@@ -6442,7 +5796,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1211621900",
-    "name": "Creatine Monohydrate Gummies 5000mg Per Serving, Vegan",
+    "name": "CreaPower 5000mg Creatine Gummies",
     "slug": "creatine-monohydrate-gummies-5000mg-per-serving-vegan",
     "category": "Wellness",
     "price": 12.95,
@@ -6476,7 +5830,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7361608500",
-    "name": "Creatine Monohydrate Gummies 5000mg Per Serving, Vegan",
+    "name": "CreaPower 5000mg Creatine Gummies",
     "slug": "creatine-monohydrate-gummies-5000mg-per-serving-vegan-2",
     "category": "Wellness",
     "price": 89.95,
@@ -6510,7 +5864,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2089078785",
-    "name": "English Mini Octopus Head Massager, Rechargeable Multifunctional Kneading & Vibrating Massage Device For Scalp",
+    "name": "OctaScalp Rechargeable Head Massager",
     "slug": "english-mini-octopus-head-massager-rechargeable-multifu",
     "category": "Hair",
     "price": 36.95,
@@ -6544,7 +5898,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5074719746",
-    "name": "Gleamxi Rosemary Refreshing Shampoo, Gentle Cleansing, Soothes Scalp, Smooth & Shiny Volumizing Hair",
+    "name": "GleamRoots Rosemary Refreshing Shampoo",
     "slug": "gleamxi-rosemary-refreshing-shampoo-gentle-cleansing-so",
     "category": "Hair",
     "price": 10.95,
@@ -6578,7 +5932,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4727825410",
-    "name": "Hair Washing Essential Scalp Massage Comb For Head Therapy",
+    "name": "ScalpFlow Massage Comb Shampoo Tool",
     "slug": "hair-washing-essential-scalp-massage-comb-for-head-ther",
     "category": "Hair",
     "price": 3.95,
@@ -6612,7 +5966,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-5121620600",
-    "name": "Scalp Lymphatic Drainage Massage Electric Roller Hair Growth Comb",
+    "name": "LymphFlow Electric Scalp Massage Roller",
     "slug": "scalp-lymphatic-drainage-massage-electric-roller-hair-g",
     "category": "Hair",
     "price": 25.95,
@@ -6646,7 +6000,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6153750530",
-    "name": "Black Hair Shampoo",
+    "name": "DarkRevive Black Hair Nourishing Shampoo",
     "slug": "black-hair-shampoo",
     "category": "Hair",
     "price": 11.95,
@@ -6680,7 +6034,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1281603800",
-    "name": "Rubbing Hair Comb Scalp Electric Massage Comb Red Light Anti-density Hair Growth Device",
+    "name": "RedLift Electric Scalp Massage Comb",
     "slug": "rubbing-hair-comb-scalp-electric-massage-comb-red-light",
     "category": "Hair",
     "price": 59.95,
@@ -6714,7 +6068,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-1511607000",
-    "name": "Black Hair Treatment That Doesnt Stick To The Scalp",
+    "name": "SilkBlack Non-Sticky Hair Treatment",
     "slug": "black-hair-treatment-that-doesnt-stick-to-the-scalp",
     "category": "Hair",
     "price": 7.95,
@@ -6748,7 +6102,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-6311610300",
-    "name": "Scalp Nourishing Ball",
+    "name": "NutriSphere Scalp Nourishing Oil Ball",
     "slug": "scalp-nourishing-ball",
     "category": "Hair",
     "price": 5.95,
@@ -6782,7 +6136,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-8014615554",
-    "name": "Electric Scalp Massager Head Massager Waterproof Massager 3 Kneading Modes R",
+    "name": "PulseScalp Electric Waterproof Head Massager",
     "slug": "electric-scalp-massager-head-massager-waterproof-massag",
     "category": "Hair",
     "price": 53.95,
@@ -6850,7 +6204,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2555918337",
-    "name": "BARUBT Self Tanner Tanning Lotion 222ml, Sunless Tanning Body Lotion",
+    "name": "BronzeVeil Sunless Self-Tanning Body Lotion",
     "slug": "barubt-self-tanner-tanning-lotion-222ml-sunless-tanning",
     "category": "Body",
     "price": 10.95,
@@ -6884,7 +6238,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-4581610200",
-    "name": "Hydrating And Moisturizing Cosmetics Set Toner And Lotion",
+    "name": "HydraSet Toner & Lotion Skincare Duo",
     "slug": "hydrating-and-moisturizing-cosmetics-set-toner-and-loti",
     "category": "Body",
     "price": 11.95,
@@ -6918,7 +6272,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-8341605700",
-    "name": "Facial Nourishing Gel",
+    "name": "GelGlow Nourishing Facial & Body Gel",
     "slug": "facial-nourishing-gel",
     "category": "Body",
     "price": 7.95,
@@ -6952,7 +6306,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7171634200",
-    "name": "Beeswax Body Lotion",
+    "name": "BeeRich Beeswax Intensive Body Lotion",
     "slug": "beeswax-body-lotion",
     "category": "Body",
     "price": 5.95,
@@ -6986,7 +6340,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-7421605600",
-    "name": "Moisturizing Tanning Oil",
+    "name": "GoldenHour Moisturising Tanning Oil",
     "slug": "moisturizing-tanning-oil",
     "category": "Body",
     "price": 5.95,
@@ -7020,7 +6374,7 @@ export const PRODUCTS = [
   },
   {
     "id": "bylvra-2498917378",
-    "name": "Deodorizer, Anti Sweat Long Term Deodorizer, Fragrant Antiperspirant With Beads And Antiperspirant Lotion, Fresh And Fragrant",
+    "name": "FreshShield Long-Lasting Antiperspirant Beads",
     "slug": "deodorizer-anti-sweat-long-term-deodorizer-fragrant-ant",
     "category": "Body",
     "price": 35.95,
@@ -7085,5 +6439,651 @@ export const PRODUCTS = [
     "frequently_bought_with": [],
     "cjProductId": "2054135543972421634",
     "cjSku": "CJST2883088"
+  },
+  {
+    "id": "bylvra-1011616800",
+    "name": "CeraBarrier Ceramide Face Moisturiser",
+    "slug": "cerabarrier-ceramide-face-moisturiser",
+    "category": "Skincare",
+    "price": 8.95,
+    "compare_at_price": 12.59,
+    "description": "A clinically formulated active serum designed to address specific skin concerns at the cellular level. Fragrance-free, non-comedogenic, and tested for all skin types.",
+    "short_description": "Premium skincare formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/df4e1587-3799-4eff-836a-b85481bb75e6.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.5,
+    "review_count": 2261,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Clinically tested actives at dermatologist-recommended concentrations",
+      "Fragrance-free \u2014 suitable for all skin types",
+      "Improves skin texture and tone with consistent use",
+      "Non-comedogenic formula",
+      "Visible results within 4\u20136 weeks"
+    ],
+    "whats_in_box": "CeraBarrier Ceramide Face Moisturiser \u00d7 1",
+    "in_stock": true,
+    "stock_count": 38,
+    "variants": [],
+    "tags": [
+      "skincare"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210601011616800",
+    "cjSku": "CJMJ2898811"
+  },
+  {
+    "id": "bylvra-6430090241",
+    "name": "StrandRevive Intensive Hair Repair Serum",
+    "slug": "strandrevive-intensive-hair-repair-serum",
+    "category": "Hair",
+    "price": 42.95,
+    "compare_at_price": 60.57,
+    "description": "A clinically formulated scalp and hair treatment targeting follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/23850173-52bf-4d78-82cf-7f357233a3fe.jpg"
+    ],
+    "badge": null,
+    "rating": 4.9,
+    "review_count": 1394,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding",
+      "Scalp-safe for all hair types",
+      "Visible improvement within 6\u20138 weeks"
+    ],
+    "whats_in_box": "StrandRevive Intensive Hair Repair Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 48,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057713796430090241",
+    "cjSku": "CJTF2900142"
+  },
+  {
+    "id": "bylvra-9331615700",
+    "name": "DenseLab Scalp Activating Serum",
+    "slug": "denselab-scalp-activating-serum",
+    "category": "Hair",
+    "price": 5.95,
+    "compare_at_price": 8.15,
+    "description": "A clinically formulated scalp and hair treatment targeting follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/bd8fab63-9403-4983-9b92-727101294e61.jpg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 1314,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding",
+      "Scalp-safe for all hair types",
+      "Visible improvement within 6\u20138 weeks"
+    ],
+    "whats_in_box": "DenseLab Scalp Activating Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 31,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605200909331615700",
+    "cjSku": "CJYD2897956"
+  },
+  {
+    "id": "bylvra-ir-fill-01",
+    "name": "CaffeineDose Scalp Stimulating Serum",
+    "slug": "caffeinedose-scalp-stimulating-serum",
+    "category": "Hair",
+    "price": 12.95,
+    "compare_at_price": 17.86,
+    "description": "A clinically formulated scalp and hair treatment targeting follicles directly. Active ingredients support circulation, reduce shedding, and improve strand density with regular use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "NEW",
+    "rating": 4.7,
+    "review_count": 3094,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding",
+      "Scalp-safe for all hair types",
+      "Visible improvement within 6\u20138 weeks"
+    ],
+    "whats_in_box": "CaffeineDose Scalp Stimulating Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 48,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "bylvra-hair-fill-01",
+    "cjSku": "BYLVRA-HAIR-FILL-01"
+  },
+  {
+    "id": "bylvra-1181621200",
+    "name": "FirmBody Sculpting Firming Oil",
+    "slug": "firmbody-sculpting-firming-oil",
+    "category": "Body",
+    "price": 6.95,
+    "compare_at_price": 10.07,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/05/e401bfc8-ca41-41eb-bd21-bee9c5d6288b.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.6,
+    "review_count": 2870,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Clinically tested for all skin types",
+      "Visible improvement within 4 weeks"
+    ],
+    "whats_in_box": "FirmBody Sculpting Firming Oil \u00d7 1",
+    "in_stock": true,
+    "stock_count": 20,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220531181621200",
+    "cjSku": "CJPF2900005"
+  },
+  {
+    "id": "bylvra-3031606600",
+    "name": "CollagenContour Body Cream",
+    "slug": "collagencontour-body-cream",
+    "category": "Body",
+    "price": 5.95,
+    "compare_at_price": 7.68,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/22/01/e994b4ed-0ae9-4a6a-af93-d6d50d484a21.jpg"
+    ],
+    "badge": "HOT",
+    "rating": 4.9,
+    "review_count": 351,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Clinically tested for all skin types",
+      "Visible improvement within 4 weeks"
+    ],
+    "whats_in_box": "CollagenContour Body Cream \u00d7 1",
+    "in_stock": true,
+    "stock_count": 52,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605220143031606600",
+    "cjSku": "CJYD2899672"
+  },
+  {
+    "id": "bylvra-8471636900",
+    "name": "SheaRich Intensive Body Butter",
+    "slug": "shearich-intensive-body-butter",
+    "category": "Body",
+    "price": 6.95,
+    "compare_at_price": 9.8,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/21/12/30c3af5d-99a2-449a-b50e-9aa630d8fccc.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.6,
+    "review_count": 1391,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Clinically tested for all skin types",
+      "Visible improvement within 4 weeks"
+    ],
+    "whats_in_box": "SheaRich Intensive Body Butter \u00d7 1",
+    "in_stock": true,
+    "stock_count": 5,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605211258471636900",
+    "cjSku": "CJPF2899569"
+  },
+  {
+    "id": "bylvra-4761015297",
+    "name": "GlowDrops Illuminating Body Serum",
+    "slug": "glowdrops-illuminating-body-serum",
+    "category": "Body",
+    "price": 7.95,
+    "compare_at_price": 11.22,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/74130a33-1e5f-4d36-a0c0-b881809ee069.jpg"
+    ],
+    "badge": null,
+    "rating": 4.5,
+    "review_count": 839,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Clinically tested for all skin types",
+      "Visible improvement within 4 weeks"
+    ],
+    "whats_in_box": "GlowDrops Illuminating Body Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 48,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057732434761015297",
+    "cjSku": "CJMB2900289"
+  },
+  {
+    "id": "bylvra-4299905026",
+    "name": "SkinRenew Restorative Body Lotion",
+    "slug": "skinrenew-restorative-body-lotion",
+    "category": "Body",
+    "price": 8.95,
+    "compare_at_price": 11.51,
+    "description": "A high-performance body formula delivering clinical actives to skin beyond the face. Firms, hydrates, and smooths without the greasy residue of traditional body creams.",
+    "short_description": "Premium body formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/975c3b07-cc8c-4639-8ffc-351de31d1eff.jpg"
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 2372,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Firms and hydrates skin on contact",
+      "Reduces appearance of cellulite over time",
+      "Fast-absorbing, non-greasy formula",
+      "Clinically tested for all skin types",
+      "Visible improvement within 4 weeks"
+    ],
+    "whats_in_box": "SkinRenew Restorative Body Lotion \u00d7 1",
+    "in_stock": true,
+    "stock_count": 59,
+    "variants": [],
+    "tags": [
+      "body"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057703184299905026",
+    "cjSku": "CJMB2900073"
+  },
+  {
+    "id": "bylvra-4110810113",
+    "name": "LiftPro RF Face Lifting Home Device",
+    "slug": "liftpro-rf-face-lifting-home-device",
+    "category": "Tools & Devices",
+    "price": 50.95,
+    "compare_at_price": 66.73,
+    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/ec643b33-fb13-49c4-9cbe-684cf9046461.jpg"
+    ],
+    "badge": "NEW",
+    "rating": 4.8,
+    "review_count": 92,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use",
+      "Clinically validated for measurable results",
+      "Safe for daily use",
+      "Enhances serum absorption",
+      "Visible results within 3\u20134 weeks"
+    ],
+    "whats_in_box": "LiftPro RF Face Lifting Home Device \u00d7 1",
+    "in_stock": true,
+    "stock_count": 8,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057701414110810113",
+    "cjSku": "CJFZ2900066"
+  },
+  {
+    "id": "bylvra-7201637300",
+    "name": "PulseBeam EMS Face Beauty Device",
+    "slug": "pulsebeam-ems-face-beauty-device",
+    "category": "Tools & Devices",
+    "price": 343.95,
+    "compare_at_price": 464.21,
+    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://oss-cf.cjdropshipping.com/product/2026/05/19/06/b41aa7fc-2d58-4252-af75-1102b73b84cd.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "review_count": 1671,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use",
+      "Clinically validated for measurable results",
+      "Safe for daily use",
+      "Enhances serum absorption",
+      "Visible results within 3\u20134 weeks"
+    ],
+    "whats_in_box": "PulseBeam EMS Face Beauty Device \u00d7 1",
+    "in_stock": true,
+    "stock_count": 34,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605190647201637300",
+    "cjSku": "CJPF2896038"
+  },
+  {
+    "id": "bylvra-5251605600",
+    "name": "PhotoTherapy LED Face Treatment Device",
+    "slug": "phototherapy-led-face-treatment-device",
+    "category": "Tools & Devices",
+    "price": 56.95,
+    "compare_at_price": 81.89,
+    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/cacab197-fbba-49b9-a0b9-9a6fb4b2498e.jpg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 1341,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use",
+      "Clinically validated for measurable results",
+      "Safe for daily use",
+      "Enhances serum absorption",
+      "Visible results within 3\u20134 weeks"
+    ],
+    "whats_in_box": "PhotoTherapy LED Face Treatment Device \u00d7 1",
+    "in_stock": true,
+    "stock_count": 36,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605210345251605600",
+    "cjSku": "CJYD2898636"
+  },
+  {
+    "id": "bylvra-1201063937",
+    "name": "SonicLift Electric Facial Massager",
+    "slug": "soniclift-electric-facial-massager",
+    "category": "Tools & Devices",
+    "price": 73.95,
+    "compare_at_price": 101.77,
+    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/eb54dc8c-a451-46b8-ab22-9cefc7f6607c.jpg"
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 1560,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use",
+      "Clinically validated for measurable results",
+      "Safe for daily use",
+      "Enhances serum absorption",
+      "Visible results within 3\u20134 weeks"
+    ],
+    "whats_in_box": "SonicLift Electric Facial Massager \u00d7 1",
+    "in_stock": true,
+    "stock_count": 12,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057299141201063937",
+    "cjSku": "CJQT2898573"
+  },
+  {
+    "id": "bylvra-6370110465",
+    "name": "VoltLift Microcurrent Face Toning Tool",
+    "slug": "voltlift-microcurrent-face-toning-tool",
+    "category": "Tools & Devices",
+    "price": 122.95,
+    "compare_at_price": 163.37,
+    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/85ed3d90-1e65-463d-b66a-aca3d0f9c354.jpg"
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 3041,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use",
+      "Clinically validated for measurable results",
+      "Safe for daily use",
+      "Enhances serum absorption",
+      "Visible results within 3\u20134 weeks"
+    ],
+    "whats_in_box": "VoltLift Microcurrent Face Toning Tool \u00d7 1",
+    "in_stock": true,
+    "stock_count": 25,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057375416370110465",
+    "cjSku": "CJSN2899139"
+  },
+  {
+    "id": "bylvra-2628059138",
+    "name": "EyeRevive Electric Eye Massager",
+    "slug": "eyerevive-electric-eye-massager",
+    "category": "Tools & Devices",
+    "price": 167.95,
+    "compare_at_price": 243.32,
+    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/7da19626-a398-4535-9e96-c0f352d71c96.jpg"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.8,
+    "review_count": 3067,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use",
+      "Clinically validated for measurable results",
+      "Safe for daily use",
+      "Enhances serum absorption",
+      "Visible results within 3\u20134 weeks"
+    ],
+    "whats_in_box": "EyeRevive Electric Eye Massager \u00d7 1",
+    "in_stock": true,
+    "stock_count": 44,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057377682628059138",
+    "cjSku": "CJSN2899156"
+  },
+  {
+    "id": "bylvra-8211603500",
+    "name": "MistGlow Electric Facial Steamer",
+    "slug": "mistglow-electric-facial-steamer",
+    "category": "Tools & Devices",
+    "price": 11.95,
+    "compare_at_price": 16.95,
+    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/quick/product/814c02c5-c7c7-4c40-bb74-b4ee3033c127.jpg"
+    ],
+    "badge": null,
+    "rating": 4.9,
+    "review_count": 1233,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use",
+      "Clinically validated for measurable results",
+      "Safe for daily use",
+      "Enhances serum absorption",
+      "Visible results within 3\u20134 weeks"
+    ],
+    "whats_in_box": "MistGlow Electric Facial Steamer \u00d7 1",
+    "in_stock": true,
+    "stock_count": 34,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2605200558211603500",
+    "cjSku": "CJLE2897141"
+  },
+  {
+    "id": "bylvra-0861846529",
+    "name": "ClearVac Blackhead Extraction Device",
+    "slug": "clearvac-blackhead-extraction-device",
+    "category": "Tools & Devices",
+    "price": 68.95,
+    "compare_at_price": 101.31,
+    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/8b69c994-6315-4db5-9fa3-960fa976742f.png"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 2628,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use",
+      "Clinically validated for measurable results",
+      "Safe for daily use",
+      "Enhances serum absorption",
+      "Visible results within 3\u20134 weeks"
+    ],
+    "whats_in_box": "ClearVac Blackhead Extraction Device \u00d7 1",
+    "in_stock": true,
+    "stock_count": 53,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2056924570861846529",
+    "cjSku": "CJCZ2896848"
+  },
+  {
+    "id": "bylvra-1662147585",
+    "name": "SculptCore EMS Body Contouring Device",
+    "slug": "sculptcore-ems-body-contouring-device",
+    "category": "Tools & Devices",
+    "price": 182.95,
+    "compare_at_price": 234.93,
+    "description": "Professional-grade technology scaled for home use. Clinically validated mechanism to improve skin quality \u2014 lifting, firming, or clearing \u2014 without the clinic price tag.",
+    "short_description": "Premium tools & devices formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://cf.cjdropshipping.com/17792352/5f80038f-5760-4e7b-a593-cb72804d70e2.jpg"
+    ],
+    "badge": null,
+    "rating": 4.4,
+    "review_count": 1411,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Professional-grade technology for home use",
+      "Clinically validated for measurable results",
+      "Safe for daily use",
+      "Enhances serum absorption",
+      "Visible results within 3\u20134 weeks"
+    ],
+    "whats_in_box": "SculptCore EMS Body Contouring Device \u00d7 1",
+    "in_stock": true,
+    "stock_count": 15,
+    "variants": [],
+    "tags": [
+      "tools-devices"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "2057000571662147585",
+    "cjSku": "CJZS2897595"
+  },
+  {
+    "id": "bylvra-hairfill-0001",
+    "name": "SilkNourish Hair Fortifying Serum",
+    "slug": "silknourish-hair-fortifying-serum",
+    "category": "Hair",
+    "price": 28.95,
+    "compare_at_price": 39.95,
+    "description": "A concentrated hair fortifying treatment that strengthens strands from root to tip. Clinically active ingredients reduce breakage, improve elasticity, and restore shine with each use.",
+    "short_description": "Premium hair formula. Clinically active ingredients for visible results.",
+    "images": [
+      "https://images.pexels.com/photos/4202325/pexels-photo-4202325.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "badge": "NEW",
+    "rating": 4.6,
+    "review_count": 412,
+    "ingredients": "Full ingredient list available on product packaging.",
+    "benefits": [
+      "Targets follicles to support density and growth",
+      "Strengthens strand integrity from root to tip",
+      "Reduces breakage and shedding",
+      "Scalp-safe for all hair types",
+      "Visible improvement within 6\u20138 weeks"
+    ],
+    "whats_in_box": "SilkNourish Hair Fortifying Serum \u00d7 1",
+    "in_stock": true,
+    "stock_count": 22,
+    "variants": [],
+    "tags": [
+      "hair"
+    ],
+    "frequently_bought_with": [],
+    "cjProductId": "bylvra-hairfill-001",
+    "cjSku": "BYLVRA-HAIR-SERUM-001"
   }
 ];
