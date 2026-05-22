@@ -6,6 +6,7 @@ import { PRODUCTS } from '../api/productsData';
 import ProductCard from '../components/ui/ProductCard';
 import { Star, Shield, Truck, RotateCcw, ChevronDown, ChevronRight, Clock, Package, Zap } from 'lucide-react';
 import RecentlyViewed, { trackView } from '../components/ui/RecentlyViewed';
+import SEO from '../components/ui/SEO';
 import StickyAddToCart from '../components/ui/StickyAddToCart';
 
 function StarRating({ rating, size = 14 }) {

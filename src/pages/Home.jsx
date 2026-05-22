@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { Product } from '../api/entities';
 import ProductCard from '../components/ui/ProductCard';
 import { useCart } from '../contexts/CartContext';
+import SEO from '../components/ui/SEO';
 import { PRODUCTS } from '../api/productsData';
 import { ChevronRight, Star, Shield, Truck, RotateCcw, Headphones, ArrowRight } from 'lucide-react';
 
@@ -265,6 +266,28 @@ export default function Home() {
               </div>
             </div>
           ))}
+        </div>
+      </section>
+
+
+      {/* SKIN QUIZ BANNER */}
+      <section style={{ background: 'linear-gradient(135deg, #FCE4EC 0%, #B8E0D2 100%)', padding: '80px 24px' }}>
+        <div style={{ maxWidth: '700px', margin: '0 auto', textAlign: 'center' }}>
+          <p style={{ fontSize: '11px', fontWeight: '700', letterSpacing: '3px', textTransform: 'uppercase', color: '#1A1A1A', opacity: 0.6, marginBottom: '16px' }}>Personalized For You</p>
+          <h2 style={{ fontSize: 'clamp(28px, 4vw, 48px)', fontWeight: '800', color: '#1A1A1A', letterSpacing: '-1.5px', marginBottom: '16px', lineHeight: 1.1 }}>
+            Not sure where to start?
+          </h2>
+          <p style={{ fontSize: '16px', color: '#1A1A1A', opacity: 0.7, marginBottom: '36px', lineHeight: 1.6, maxWidth: '480px', margin: '0 auto 36px' }}>
+            Take our 4-question skin quiz and get a clinically matched routine built around your exact skin type and goals.
+          </p>
+          <Link to="/pages/skin-quiz" style={{
+            display: 'inline-flex', alignItems: 'center', gap: '10px',
+            background: '#1A1A1A', color: '#fff', textDecoration: 'none',
+            padding: '18px 40px', borderRadius: '4px',
+            fontSize: '13px', fontWeight: '700', letterSpacing: '2px', textTransform: 'uppercase',
+          }}>
+            Take the Quiz <ArrowRight size={14} />
+          </Link>
         </div>
       </section>
 

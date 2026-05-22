@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { Product } from '../api/entities';
 import ProductCard from '../components/ui/ProductCard';
 import { ChevronRight, SlidersHorizontal } from 'lucide-react';
+import SEO from '../components/ui/SEO';
 import { PRODUCTS } from '../api/productsData';
 
 const CATEGORY_META = {
@@ -75,6 +76,7 @@ export default function CollectionPage() {
 
   return (
     <div style={{ fontFamily: 'Inter, system-ui, sans-serif', background: '#fff' }}>
+      <SEO title={meta.title} description={meta.subtitle} image={meta.img} url={`https://bylvra.shop/collections/${category}`} />
       {/* Hero Banner */}
       <div style={{ position: 'relative', height: '320px', overflow: 'hidden' }}>
         <img src={meta.img} alt={meta.title} style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center 30%' }} />

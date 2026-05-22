@@ -23,6 +23,7 @@ import TermsOfService from './pages/TermsOfService';
 import CJImporter from './pages/CJImporter';
 import EmailCapturePopup from './components/layout/EmailCapturePopup';
 import FreeShippingBar from './components/ui/FreeShippingBar';
+import SkinQuiz from './pages/SkinQuiz';
 
 function Layout({ children }) {
   return (

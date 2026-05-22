@@ -9,6 +9,7 @@ const navLinks = [
   { label: 'Hair', href: '/collections/hair' },
   { label: 'Body', href: '/collections/body' },
   { label: 'Wellness', href: '/collections/wellness' },
+  { label: 'Skin Quiz ✦', href: '/pages/skin-quiz' },
 ];
 
 export default function Navbar() {
@@ -155,6 +156,7 @@ export default function Navbar() {
               >{link.label}</Link>
             ))}
             <div style={{ borderTop: '1px solid #eee', paddingTop: '16px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
+              <Link to="/pages/skin-quiz" onClick={() => setMenuOpen(false)} style={{ textDecoration: 'none', color: '#1A1A1A', fontSize: '14px', fontWeight: '700' }}>Skin Quiz ✦</Link>
               <Link to="/pages/about" onClick={() => setMenuOpen(false)} style={{ textDecoration: 'none', color: '#666', fontSize: '14px' }}>About Us</Link>
               <Link to="/pages/contact" onClick={() => setMenuOpen(false)} style={{ textDecoration: 'none', color: '#666', fontSize: '14px' }}>Contact</Link>
               <Link to="/pages/faq" onClick={() => setMenuOpen(false)} style={{ textDecoration: 'none', color: '#666', fontSize: '14px' }}>FAQ</Link>
