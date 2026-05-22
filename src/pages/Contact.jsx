@@ -69,7 +69,7 @@ export default function Contact() {
         <div>
           <h3 style={{ fontSize: '20px', fontWeight: '700', color: '#1A1A1A', marginBottom: '32px' }}>Support Information</h3>
           {[
-            { icon: <Mail size={20}/>, title: 'Email Support', info: 'hello@bylvra.shop', sub: 'We reply within 24 hours, 7 days a week.' },
+            { icon: <Mail size={20}/>, title: 'Email Support', info: 'contactbylvra@gmail.com', sub: 'We reply within 24 hours, 7 days a week.' },
             { icon: <Clock size={20}/>, title: 'Support Hours', info: 'Mon–Sun, 9AM–8PM PST', sub: 'Including weekends and holidays.' },
             { icon: <MessageCircle size={20}/>, title: 'Order Inquiries', info: 'orders@bylvra.shop', sub: 'For order status, tracking, or modifications.' },
           ].map((item, i) => (

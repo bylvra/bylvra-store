@@ -73,7 +73,7 @@ export default function TermsOfService() {
         </Section>
 
         <Section title="13. Contact">
-          <P>For questions about these Terms, please contact us at:<br/><strong>Email:</strong> legal@bylvra.shop<br/><strong>General support:</strong> hello@bylvra.shop</P>
+          <P>For questions about these Terms, please contact us at:<br/><strong>Email:</strong> contactbylvra@gmail.com<br/><strong>General support:</strong> contactbylvra@gmail.com</P>
         </Section>
       </div>
     </div>

@@ -287,7 +287,7 @@ export default function ProductPage() {
             <p style={{ marginBottom: '10px' }}><strong>Processing:</strong> 1–3 business days</p>
             <p style={{ marginBottom: '10px' }}><strong>Standard shipping:</strong> 7–15 business days</p>
             <p style={{ marginBottom: '10px' }}><strong>Express shipping:</strong> 5–10 business days</p>
-            <p><strong>Returns:</strong> 30-day window. Items must be in original, unused condition. Email hello@bylvra.shop to initiate.</p>
+            <p><strong>Returns:</strong> 30-day window. Items must be in original, unused condition. Email contactbylvra@gmail.com to initiate.</p>
           </AccordionItem>
         </div>
       </div>

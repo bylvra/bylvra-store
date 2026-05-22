@@ -72,7 +72,7 @@ export default function PrivacyPolicy() {
         <Section title="Contact Us">
           <P>For any privacy-related questions or concerns, contact us at:<br/>
           <strong>Email:</strong> privacy@bylvra.shop<br/>
-          <strong>General support:</strong> hello@bylvra.shop</P>
+          <strong>General support:</strong> contactbylvra@gmail.com</P>
         </Section>
       </div>
     </div>
