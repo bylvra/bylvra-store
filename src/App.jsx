@@ -21,6 +21,7 @@ import TrackOrder from './pages/TrackOrder';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import TermsOfService from './pages/TermsOfService';
 import CJImporter from './pages/CJImporter';
+import EmailCapturePopup from './components/layout/EmailCapturePopup';
 
 function Layout({ children }) {
   return (
@@ -47,6 +48,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <CartProvider>
+        <EmailCapturePopup />
         <Routes>
           {/* Checkout - no nav/footer */}
           <Route path="/checkout" element={<CheckoutLayout><Checkout /></CheckoutLayout>} />
