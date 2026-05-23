@@ -107,8 +107,11 @@ export default function Checkout() {
     }
   };
 
+  const [paymentError, setPaymentError] = useState('');
+
   const handlePlaceOrder = async () => {
     setSubmitting(true);
+    setPaymentError('');
     const orderNum = 'BL' + Date.now().toString().slice(-6);
     const shippingAddress = {
       name: `${form.firstName} ${form.lastName}`,
@@ -156,19 +159,21 @@ export default function Checkout() {
       });
 
       if (!stripeRedirected) {
-        clearCart();
-      // Mark abandoned cart as recovered
+        setPaymentError('Unable to connect to payment. Please try again or contact contactbylvra@gmail.com.');
+        setSubmitting(false);
+        return;
+      }
+      // Stripe redirect in progress — mark abandoned cart recovered
       try {
         const abandoned = await AbandonedCart.filter({ email: form.email, recovered: false });
         if (abandoned && abandoned.length > 0) {
           await AbandonedCart.update(abandoned[0].id, { recovered: true });
         }
       } catch (e) {}
-        navigate(`/order-confirmation?order=${orderNum}`);
-      }
     } catch (err) {
-      clearCart();
-      navigate(`/order-confirmation?order=${orderNum}`);
+      setPaymentError('Something went wrong processing your order. Please try again or contact contactbylvra@gmail.com.');
+      setSubmitting(false);
+      return;
     }
     setSubmitting(false);
   };
@@ -275,6 +280,11 @@ export default function Checkout() {
                 </div>
               </div>
 
+              {paymentError && (
+                <div style={{ background: '#FFF0F0', border: '1px solid #FFCCCC', borderRadius: '8px', padding: '14px 16px', marginBottom: '16px', fontSize: '13px', color: '#CC0000', fontWeight: '500' }}>
+                  ⚠️ {paymentError}
+                </div>
+              )}
               <button
                 onClick={handlePlaceOrder}
                 disabled={submitting}
